@@ -97,3 +97,9 @@ Using the following letter and the <a href="https://drive.google.com/file/d/16VI
 
 <!--screenshot or link to letter...which one?-->
 <!--include "right" answers-->
+
+# Subject Headings
+
+You'll notice there are a lot of ways we describe each letter. Whew! So why subject headings? Subject Headings are "controlled vocabulary," meaning you can group things together by category, so they'll be <a href="https://en.wikipedia.org/wiki/Library_of_Congress_Linked_Data_Service"> linked</a> by topic. For instance, if I used the subject heading "Dating (Social Customs)" -- and we do! -- all of the letters with that designation can be grouped together.
+
+There are a number of <a href="https://id.loc.gov/authorities/subjects.html"> determined subject headings</a> defined by the Library of Congress, but how do we decide which subject heading to use on our own?
