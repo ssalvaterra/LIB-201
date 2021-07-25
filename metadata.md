@@ -1,4 +1,26 @@
-# Metadata: What and Why
+# Introduction to Metadata
+
+Metadata are the building blocks of digital scholarship! We will be creating, structuring, and using metadata throughout this course to participate in digital research and learn more about our collection. In this lesson, you will:
+- Understand what metadata are, and why they're important
+- Understand the importance of consistency in metadata through metadata standards
+- Interact with a set of metadata standards
+- Locate and choose Library of Congress Subject Headings as a type of metadata
+- Create your own metadata for items in the Smith Papers Collection
+
+## Lessons:
+1. [Metadata: What and Why](#metadata:-what-and-why) <!--figure out how to make this actually work as a toc. Check out https://stackoverflow.com/questions/2822089/how-to-link-to-part-of-the-same-document-in-markdown-->
+2. [Metadata Standards](#metadata-standards)
+3. [Metadata Guidelines for the Smith Papers](#metadata-guidelines-for-the-smith-papers)
+4. [Library of Congress Subject Headings](#library-of-congress-subject-headings)
+
+## Further reading
+- Drucker, Johanna. "Ontologies and Metadata Standards," _Introduction to Digital Humanities_ 2014, pp 24-27.
+- <!--consult with Vic-->
+
+## Ethical considerations
+People create metadata, and people usually have biases, implicit or explicit. Metadata and metadata standards have been created by people with a notably white, Western standard. For example, for many years, the Library of Congress classified books on homosexuality under “sexual deviance.” Actually, an undergraduate student at Dartmouth College began a campaign to change the “illegal alien” subject heading to “noncitizen.” <!--link to actual story, plus the article about redo-ing cutter numbers, plus example from Vic re: "minorities"-->
+
+# Metadata: What and Why {#01}
 
 As you transcribe, tag, and create information (or data!) about the letters in the Smith Papers Collection, you are essentially creating descriptive _metadata_. Metadata is just "data about data," and it's something archives uses to describe, preserve, organize, and digitize its contents <!--link to https://dictionary.archivists.org/entry/metadata.html-->. In other words, Metadata makes items in a collection easy to find and discover.
 
@@ -98,7 +120,7 @@ Using the following letter and the <a href="https://drive.google.com/file/d/16VI
 <!--screenshot or link to letter...which one?-->
 <!--include "right" answers-->
 
-# Subject Headings
+# Library of Congress Subject Headings
 
 You'll notice there are a lot of ways we describe each letter. Whew! So why subject headings? Subject Headings are "controlled vocabulary," meaning you can group things together by category, so they'll be <a href="https://en.wikipedia.org/wiki/Library_of_Congress_Linked_Data_Service"> linked</a> by topic. For instance, if I used the subject heading "Dating (Social Customs)" -- and we do! -- all of the letters with that designation can be grouped together.
 
