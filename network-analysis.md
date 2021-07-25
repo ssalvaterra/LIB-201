@@ -19,7 +19,7 @@ For the Smith Papers collection, we are asking these questions, more or less!
 <!--Assessment on what a network analysis is/could be-->
 
 # Network Analysis Terms
-Most softwares that facilitate Network Analyses use a different vocabulary. You'll learn about what each part of a network is in this section, and in the next section, we'll talk about different ways analyze those parts.
+Most softwares that facilitate Network Analyses use a different vocabulary. You'll learn about what each part of a network is in this section, and in the next section, we'll talk about different ways analyze those parts. <!--Link to slideshow or reuse as images-->
 
 ## Networks
 
@@ -38,9 +38,21 @@ Most softwares that facilitate Network Analyses use a different vocabulary. You'
 Did that phrase make your stomach turn? Don't worry! We are not actually doing math in this class, but we will be using mathematic concepts. Let's break it down.
 
 # Data Modeling for Visualizing a Network
+
+In order to tell the software (which we go over in the next section) how to recognize which nodes are connected, and by what paths, we are going to create a spreadsheet with two columns, at minimum. 
+
 <!--link to spreadsheet for existing network-->
 
-## Works consulted:
+# Software for visualizing a network analysis
+
+There are several different softwares for visualizing a network, and they all serve different purposes. We are going to use XYZ <!--Gephi? Cytoscape? Palladio? Other?--> because it is free, has a relatively low accessibility bar, and most importantly, will allow us to use the visualization to answer our question.
+
+## Installation
+<!--link to download page-->
+<!--link to a tutorial-->
+
+
+## Tutorials and further readings on network analysis:
 * Thomas Padilla and Brandon Locke. "Introduction to Network Analysis." http://www.thomaspadilla.org/cytoscape/ 
 * Miriam Posner, "Network Analysis." http://miriamposner.com/classes/dh101f16/tutorials-guides/data-visualization/network-analysis/ 
 * Miriam Posner, "Creating a Network Graph with Gephi." http://miriamposner.com/dh101f14/wp-content/uploads/2014/11/Creating-a-Network-Graph-with-Gephi.pdf
