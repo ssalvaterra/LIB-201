@@ -24,16 +24,27 @@ Most softwares that facilitate Network Analyses use a different vocabulary. You'
 ## Networks
 <p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide3.JPG" alt="example of a simple network with 6 green and pink nodes and edges" width="" height="" /></p>
 
-A network is 
+A network is a visual representation of relationships between entities. The network alone does not always share the context of the relationships (e.g. "These are people who talk to each other in this book," or "These are the flight paths among major airlines,"), but they do highlight relationships. In doing so, they show how different players dominate (or not!) those relationships.
+
+<!--assessment on network - can you have a network where nodes are not connected?-->
+## Paths
+<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide4.JPG" alt="example of a simple network the nodes circled" width="" height="" /></p>
+
+Paths are the length from one node to the next. In this image, the path length from Ben to Anna is 1, but the path length from Ben to Cara is 2, and so on. The average length of each path will tell us how _dense_ the network is, or in other words, how connected everyone is to each other. If everyone is connected to everyone by 1 path, the network is 100% dense! 
 
 ## Nodes
+<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide5.JPG" alt="example of a simple network the nodes circled" width="" height="" /></p>
 
 ## Edges
+<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide6.JPG" alt="example of a simple network the nodes circled" width="" height="" /></p>
+
 * Undirected
 * Directed
   * Source
   * Target
-## Paths 
+
+
+
 ## Degree
 ## Centrality
 <!--Assessment on terms-->
