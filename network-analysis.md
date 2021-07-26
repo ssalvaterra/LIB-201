@@ -52,6 +52,7 @@ Did that phrase make your stomach turn? Don't worry! We are not actually doing m
 In order to tell the software (which we go over in the next section) how to recognize which nodes are connected, and by what paths, we are going to create a spreadsheet with two columns, at minimum. 
 
 <!--link to spreadsheet for existing network-->
+<!--Add more on cleaning and strcutring from NA-worklog-->
 
 # Software for visualizing a network analysis
 
