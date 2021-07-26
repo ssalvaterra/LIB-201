@@ -22,6 +22,9 @@ For the Smith Papers collection, we are asking these questions, more or less!
 Most softwares that facilitate Network Analyses use a different vocabulary. You'll learn about what each part of a network is in this section, and in the next section, we'll talk about different ways analyze those parts. <!--Link to slideshow or reuse as images-->
 
 ## Networks
+<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide3.JPG" alt="example of a simple network with 6 green and pink nodes and edges" width="640" height="360" /></p>
+
+A network is 
 
 ## Nodes
 ## Edges
@@ -36,6 +39,13 @@ Most softwares that facilitate Network Analyses use a different vocabulary. You'
 
 # Analyzing relational data
 Did that phrase make your stomach turn? Don't worry! We are not actually doing math in this class, but we will be using mathematic concepts. Let's break it down.
+
+## Degree Centrality
+## Closeness Centrality
+## Betweenness Centrality
+## Eigenvector Centrality
+
+<!--do I need an additional section on cleaning data? Or is that a separate conversation for earlier?-->
 
 # Data Modeling for Visualizing a Network
 
