@@ -8,10 +8,11 @@ Metadata are the building blocks of digital scholarship! We will be creating, st
 - Create your own metadata for items in the Smith Papers Collection
 
 ## Lessons:
-1. [Metadata: What and Why](#metadata:-what-and-why) <!--figure out how to make this actually work as a toc. Check out https://stackoverflow.com/questions/2822089/how-to-link-to-part-of-the-same-document-in-markdown-->
-2. [Metadata Standards](#metadata-standards)
-3. [Metadata Guidelines for the Smith Papers](#metadata-guidelines-for-the-smith-papers)
-4. [Library of Congress Subject Headings](#library-of-congress-subject-headings)
+1. [Metadata: What and Why](#1-metadata-what-and-why) 
+2. [Metadata Standards](#2-metadata-standards)
+3. [Metadata Guidelines for the Smith Papers](#3-metadata-guidelines-for-the-smith-papers)
+4. [Library of Congress Subject Headings](#4-library-of-congress-subject-headings)
+5. [Workflow and Data Management](#5-workflow-and-data-management)
 
 ## Further reading
 - Drucker, Johanna. "Ontologies and Metadata Standards," _Introduction to Digital Humanities_ 2014, pp 24-27.
@@ -20,7 +21,7 @@ Metadata are the building blocks of digital scholarship! We will be creating, st
 ## Ethical considerations
 People create metadata, and people usually have biases, implicit or explicit. Metadata and metadata standards have been created by people with a notably white, Western standard. For example, for many years, the Library of Congress classified books on homosexuality under “sexual deviance.” Actually, an undergraduate student at Dartmouth College began a campaign to change the “illegal alien” subject heading to “noncitizen.” <!--link to actual story, plus the article about redo-ing cutter numbers, plus example from Vic re: "minorities"-->
 
-# Metadata: What and Why {#01}
+# 1. Metadata-What and Why
 
 As you transcribe, tag, and create information (or data!) about the letters in the Smith Papers Collection, you are essentially creating descriptive _metadata_. Metadata is just "data about data," and it's something archives uses to describe, preserve, organize, and digitize its contents <!--link to https://dictionary.archivists.org/entry/metadata.html-->. In other words, Metadata makes items in a collection easy to find and discover.
 
@@ -38,7 +39,7 @@ Think also about what kinds of data and metadata had to be collected to create t
 
 <!--assessment that includes image of a letter and some multiple choice about what metadata could be derived from it. Choices (all of which are possible answers): date, creator, item type, description, record created by, date digitized-->
 
-# Metadata Standards
+# 2. Metadata Standards
 
 Similar to citation guidelines (e.g. MLA, APA, Chicago, etc.), digital items use a schema to organize and standardize their formatting. For instance, websites use HTML and CSS to communicate things to browsers, library databases use specific fields to link similar online articles to each other, and so on. 
 
@@ -53,7 +54,7 @@ In other words, our metadata standards give guidelines for how to treat the 100+
 
 Open our <a href="https://drive.google.com/file/d/16VIQ4KxbBbFnjnrbgR-Uv1t1H0_xSgWG/view?usp=sharing"> guidelines for the Smith Collection</a> in another tab, and look at the different field names in the column headings. This is where the magic happens!
 
-# Metadata Guidelines for the Smith Papers
+# 3. Metadata Guidelines for the Smith Papers
 
 As you noticed in the <a href="https://drive.google.com/file/d/16VIQ4KxbBbFnjnrbgR-Uv1t1H0_xSgWG/view?usp=sharing"> guidelines for the Smith Collection</a>, we have a BUNCH of fields to describe one letter:
 
@@ -120,8 +121,16 @@ Using the following letter and the <a href="https://drive.google.com/file/d/16VI
 <!--screenshot or link to letter...which one?-->
 <!--include "right" answers-->
 
-# Library of Congress Subject Headings
+# 4. Library of Congress Subject Headings
 
 You'll notice there are a lot of ways we describe each letter. Whew! So why subject headings? Subject Headings are "controlled vocabulary," meaning you can group things together by category, so they'll be <a href="https://en.wikipedia.org/wiki/Library_of_Congress_Linked_Data_Service"> linked</a> by topic. For instance, if I used the subject heading "Dating (Social Customs)" -- and we do! -- all of the letters with that designation can be grouped together.
 
 There are a number of <a href="https://id.loc.gov/authorities/subjects.html"> determined subject headings</a> defined by the Library of Congress, but how do we decide which subject heading to use on our own?
+
+# 5. Workflow and Data management
+By this point, you have seen how much behind-the-scenes work that goes into creating metadata from scratch! It's a lot!
+
+This section is going to get you to think about how to keep up with all of that work, get help with your collaborators, and share it openly.
+
+<!--workflow worksheet?-->
+<!--data management plan questions-->
