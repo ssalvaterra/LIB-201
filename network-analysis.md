@@ -1,4 +1,4 @@
-# Network Analysis
+# Introduction to Network Analysis
 A Network Analysis is simply a study of relationships among a group of connected things. The "things" could be people, cities, cells in the body, etc.! The idea of a network analysis is to visualize these relationships, so you can see the patterns (or lack thereof) in connections within the network.
 <!--screenshot of sample network-->
 
@@ -16,9 +16,24 @@ For the Smith Papers collection, we are asking these questions, more or less!
 | How connected is this network? | Did everyone write letters to each other, or just some people? |
 | What are the distinct groups? | Who wrote to each other most often? |
 
+## Lessons:
+1. [Network Analysis Terms](#1-network-analysis-terms)
+2. [Analyzing Relational Data](#2-analyzing-relational-data)
+3. [Data Modeling for Visualizing a Network](#3-data-modeling-for-visualizing-a-network)
+4. [Software for visualizing a network analysis](#4-software-for-visualizing-a-network-analysis)
+
+## Further Readings and Tutorials:
+* Thomas Padilla and Brandon Locke. "Introduction to Network Analysis." http://www.thomaspadilla.org/cytoscape/ 
+* Miriam Posner, "Network Analysis." http://miriamposner.com/classes/dh101f16/tutorials-guides/data-visualization/network-analysis/ 
+* Miriam Posner, "Creating a Network Graph with Gephi." http://miriamposner.com/dh101f14/wp-content/uploads/2014/11/Creating-a-Network-Graph-with-Gephi.pdf
+* Katayoun Torabi. Introduction to Gephi. 2020 Programming4Humanists Presentation
+* Programming Historian, "From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources." https://doi.org/10.46430/phen0044 
+
+## Ethical Considerations:
+
 <!--Assessment on what a network analysis is/could be-->
 
-# Network Analysis Terms
+# 1. Network Analysis Terms
 Most softwares that facilitate Network Analyses use a different vocabulary. You'll learn about what each part of a network is in this section, and in the next section, we'll talk about different ways analyze those parts. <!--Link to slideshow or reuse as images-->
 
 ## Networks
@@ -26,58 +41,98 @@ Most softwares that facilitate Network Analyses use a different vocabulary. You'
 
 A network is a visual representation of relationships between entities. The network alone does not always share the context of the relationships (e.g. "These are people who talk to each other in this book," or "These are the flight paths among major airlines,"), but they do highlight relationships. In doing so, they show how different players dominate (or not!) those relationships.
 
-<!--assessment on network - can you have a network where nodes are not connected?-->
 ## Paths
-<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide4.JPG" alt="example of a simple network the nodes circled" width="" height="" /></p>
+<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide4.JPG" alt="example of a simple network with 6 nodes connected by 7 edges" width="" height="" /></p>
 
 Paths are the length from one node to the next. In this image, the path length from Ben to Anna is 1, but the path length from Ben to Cara is 2, and so on. The average length of each path will tell us how _dense_ the network is, or in other words, how connected everyone is to each other. If everyone is connected to everyone by 1 path, the network is 100% dense! 
 
 ## Nodes
 <p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide5.JPG" alt="example of a simple network the nodes circled" width="" height="" /></p>
 
+A node represents someone or something in the network. For the Smith Papers project, it will most likely be a person. Nodes can be different colors, depending on how influential they are, what subgroups within the network they belong to, etc. 
+
 ## Edges
-<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide6.JPG" alt="example of a simple network the nodes circled" width="" height="" /></p>
+<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide6.JPG" alt="example of a simple network the edges highlighted" width="" height="" /></p>
 
-* Undirected
-* Directed
-  * Source
-  * Target
+Edges represent the relationships between nodes. They usually indicate some kind of interaction in a relationship (e.g. conversation, travel, transactions, etc.), and depending on that interaction, an edge can be one of two kinds:
 
+* **Undirected** - an undirected edge indicates that the interaction is reciprocal, like a two-way street, a friendship, a characteristic, etc.
+* **Directed** - a directed edge indicates that the interaction is **not** reciprocal, like a one-way trip, a letter sent to someone, a payment for something, etc. In directed edges, there are those that give, and those that receive (just like in a *real* relationship!):
+  * **Source** - the source is the originator of the interaction, or the giver. Sometimes this is called "out-degree."
+  * **Target** - the target is where the interaction is directed, or the receiver. Sometimes this is called "in-degree."
 
+<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide7.JPG" alt="example of 2 simple networks with directed edges, indicated by arrows, and undirected edges, indicated by straight lines" width="" height="" /></p>
 
-## Degree
+...just a few more terms! Stick with me!...
+
+<!--assessment check-in - define terms -->
+<!--assessment on network - can you have a network where nodes are not connected?-->
+
+# 2. Analyzing relational data
+Did that phrase make your stomach turn? Don't worry! We are not actually doing math in this class, but we will be using mathematic concepts. We analyze networks by calculating the ways nodes influence each other. Let's break it down.
+
+<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide8.JPG" alt="example of a simple network with different sized nodes" width="" height="" /></p>
+
 ## Centrality
-<!--Assessment on terms-->
 
-# Analyzing relational data
-Did that phrase make your stomach turn? Don't worry! We are not actually doing math in this class, but we will be using mathematic concepts. Let's break it down.
+Centrality is the relative influence of individual nodes within the network. In the image above, the nodes have different sizes and colors to indicate their influence. Notice that Frnaces has several direct connections, so they are the largest node. Elene has only 1 direct connection, and therefore is the smallest. From this, we infer that Frances has a more influential role in the network. 
+
+For this class, we will measure centrality with 4 different metrics:
+* Degree
+* Closeness
+* Betweenness
+* Eigenvector (!)
 
 ## Degree Centrality
+The degree of a node is how connected or influential a node is within the network, so degree centrality counts the number of direct connections a node has. In our earlier example, Frances has the highest degree centrality (5), and Elene has the lowest (1).
+
 ## Closeness Centrality
+Another simple metric is called closeness centrality, which measures which node has the shortest average path to the rest of the nodes in the network.
+
+<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide9.JPG" alt="example of a simple network with subgroups" width="" height="" /></p>
+
+Unlike degree, which measures direct connections, closeness measures the proximity of a node to all the other nodes through average path. There are 8 total edges in the network above. If we wanted to calculate the closeness centrality of B, we'd count the shortest path from B to every other node, and take the average.
+
+<br>B -> A = 2
+<br>B -> C = 1
+<br>B -> D = 1
+<br>B -> E = 3
+<br>B -> F = 4
+<br>B -> G = 4
+<br>B -> H = 0 (there are no paths to H from B!)
+<br>B -> I = 0 (there are no paths to I from B!)
+
+B has a closeness centrality of 1.875. (There are 15 total paths to every other node, and 8 total edges, so 15/8=1.875). So this node has more direct connections (2), but is less "close" in terms of the entire network (1.875).
+
+<!--assessment - which node is the closest?-->
+
 ## Betweenness Centrality
+Degree and Closeness measure influence through connections and paths. Betweenness centrality indicates nodes that are "bridges" between different groups in a network. In other words, they glue pieces of a less dense network together, or they serve as a "go-between" for 2 distinct parts of the network.
+
+<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide10.JPG" alt="example of a simple network that is loosely connected, but bridged together by a node in the center" width="" height="" /></p>
+
 ## Eigenvector Centrality
+This is the last metric to consider here, and it's essentially an algorithm that calculates which nodes are connected to the most well-connected. (Don't worry, we won't be actually doing this calculating. It's just worth understanding!) In other words, it determines how close a node is to more well-connected nodes.
 
-<!--do I need an additional section on cleaning data? Or is that a separate conversation for earlier?-->
+<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide11.JPG" alt="example of a network with a node in the middle that has fewer direct connections, but a higher eigenvector centrality because the nodes around it have higher degree centrality" width="" height="" /></p>
 
-# Data Modeling for Visualizing a Network
+Whew! That's it. 
 
-In order to tell the software (which we go over in the next section) how to recognize which nodes are connected, and by what paths, we are going to create a spreadsheet with two columns, at minimum. 
+<!--Assessment on centrality terms-->
+
+# 3. Data Modeling for Visualizing a Network
+
+In order to tell the software (which we go over in the next section) how to recognize which nodes are connected, and by what paths, we are going to create a spreadsheet with two columns, at minimum, to tell it which nodes have connections.
+
+## Cleaning 
 
 <!--link to spreadsheet for existing network-->
 <!--Add more on cleaning and strcutring from NA-worklog-->
 
-# Software for visualizing a network analysis
+# 4. Software for visualizing a network analysis
 
 There are several different softwares for visualizing a network, and they all serve different purposes. We are going to use XYZ <!--Gephi? Cytoscape? Palladio? Other?--> because it is free, has a relatively low accessibility bar, and most importantly, will allow us to use the visualization to answer our question.
 
 ## Installation
 <!--link to download page-->
 <!--link to a tutorial-->
-
-
-## Tutorials and further readings on network analysis:
-* Thomas Padilla and Brandon Locke. "Introduction to Network Analysis." http://www.thomaspadilla.org/cytoscape/ 
-* Miriam Posner, "Network Analysis." http://miriamposner.com/classes/dh101f16/tutorials-guides/data-visualization/network-analysis/ 
-* Miriam Posner, "Creating a Network Graph with Gephi." http://miriamposner.com/dh101f14/wp-content/uploads/2014/11/Creating-a-Network-Graph-with-Gephi.pdf
-* Katayoun Torabi. Introduction to Gephi. 2020 Programming4Humanists Presentation
-* Programming Historian, "From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources." https://doi.org/10.46430/phen0044 
