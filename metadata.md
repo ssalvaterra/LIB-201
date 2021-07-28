@@ -29,7 +29,7 @@ As you transcribe, tag, and create information (or data!) about the letters in t
 
 Metadata makes the internet work! And for this class, it is one of the building blocks of digital research. Think about the items in a library database: 
 
-<p><a href="https://login.libprxy.muw.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&bquery=pizza&cli0=RV&clv0=Y&type=1&searchMode=And&site=eds-live&scope=site"><img src="https://github.com/hillaryAHR/LIB-201/blob/main/database-screenshot.PNG" alt="screenshot of a library database search result page" width="" height=""></a></p> 
+<p><a href="https://login.libprxy.muw.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&bquery=pizza&cli0=RV&clv0=Y&type=1&searchMode=And&site=eds-live&scope=site"><img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/database-screenshot.PNG" alt="screenshot of a library database search result page" width="" height=""></a></p> 
 
 When you search for something with combinations of keywords, filters, search facets, etc., you are tapping the metadata that someone created in order to return results. This applies to most things in a collection of digital things.
 
@@ -150,7 +150,7 @@ Using the letter below and the <a href="https://drive.google.com/file/d/16VIQ4Kx
 
 You'll notice there are a lot of ways we describe each letter. Whew! So why subject headings? Subject Headings, like metadata standards, use "controlled vocabulary," meaning you can group things together by category, so they'll be <a href="https://en.wikipedia.org/wiki/Library_of_Congress_Linked_Data_Service"> linked</a> by topic. For instance, if I used the subject heading "Dating (Social Customs)" -- and we do! -- all of the letters with that designation can be grouped together.
 
-<img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/catalog-screenshot" alt="image of a book record in the catalog for _Ellen S. Woodward: New Deal Advocate for women_ by Martha Swain, with subject headings highlighted" width="" height="">
+<img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/catalog-screenshot.PNG" alt="image of a book record in the catalog for _Ellen S. Woodward: New Deal Advocate for women_ by Martha Swain, with subject headings highlighted" width="" height="">
 
 There are a number of <a href="https://id.loc.gov/authorities/subjects.html"> pre-determined subject headings</a> defined by the Library of Congress, but how do we decide which subject heading to use on our own?
 
@@ -186,14 +186,14 @@ How do you document your progress so someone could pick up where you leave off a
 
 There are lots of ways to keep up with the progress of group projects. Often, a project manager will keep track of progress by checking in with people, going over updated tasks, and reporting progress notes at regular meetings. For keeping up with tasks and due dates, there are several free, online tools (e.g. <a href="https://asana.com/">asana</a>, Google Sheets, <a href="https://trello.com/en-US">Trello</a>, etc.). For this class, we will decide as a group how to keep up with things as group (and it will be up to you to keep up with your progress as an individual. I can't recommend note-taking enough!)
 
-<img src="https://github.com/hillaryAHR/LIB-201/blob/main/asana-screenshot/" alt="screenshot of project management application, asana, showing complete and incomplete tasks" width="" height="">
+<img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/asana-screenshot.JPG" alt="screenshot of project management application, asana, showing complete and incomplete tasks" width="" height="">
 
 <!-- assessment - share 2 ways you'll plan to track your progress-->
 
 ## Communication - (sorry it doesn't start with a P)
 You won't always be working on the collection at the same time, so how do you talk to each other outside of class time? How do you leave messages, and what are the expectations for responding? We will discuss how to do this as a class, and set up a channel for communication.
 
-<img src="https://github.com/hillaryAHR/LIB-201/blob/main/teams-screenshot/" alt="screenshot of project management application, asana, showing complete and incomplete tasks" width="" height="">
+<img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/teams-screenshot.JPG" alt="screenshot of project management application, asana, showing complete and incomplete tasks" width="" height="">
 
 <!--assessment - share a way you think we should communicate?-->
 
