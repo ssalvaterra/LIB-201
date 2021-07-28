@@ -35,14 +35,14 @@ When you search for something with combinations of keywords, filters, search fac
 
 Think about the following digital items, and imagine what kinds of metadata - explicit or hidden - that you might interact with when you use them.
 
-<img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/twitter-feed.PNG" alt="image of a twitter feed">
+<img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/twitter-feed.PNG" alt="image of a twitter feed" width="" height="">
 
-<br><img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/youtube-screenshot.PNG" alt="screenshot of the YouTube homepage"></br>
+<br><img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/youtube-screenshot.PNG" alt="screenshot of the YouTube homepage" width="" height=""></br>
 
 <br></br>
 Now think  about what kinds of data and metadata (titles, descriptions, links, stylistic attributes, etc.) had to be collected to create each of the results in these collections. Now, think about this in terms of a box of letters that have been scanned. In order for someone to digitally interact with these objects, they need metadata.
 
-<img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/smith-letter-example.jpg" alt="screenshot of an envelope and a letter from the Ellard-Murphree-Pilgreen Smith letters">
+<img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/smith-letter-example.jpg" alt="screenshot of an envelope and a letter from the Ellard-Murphree-Pilgreen Smith letters" width="" height="">
 
 <!--assessment that includes image of a letter and some multiple choice about what metadata could be derived from it. Choices (all of which are possible answers): date, creator, item type, description, record created by, date digitized-->
 
@@ -57,7 +57,7 @@ For the Smith Papers collection, we are using a common metadata standard/schema 
 
 In other words, our metadata standards give guidelines for how to treat the 100+ ways to describe something! Think about the different ways you could write your own name, let alone someone else's you haven't met!
 
-<img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/metadata-guidelines.jpg" alt="different ways to write the same name">
+<img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/metadata-guidelines.jpg" alt="different ways to write the same name" width="" height="">
 
 Open our <a href="https://drive.google.com/file/d/16VIQ4KxbBbFnjnrbgR-Uv1t1H0_xSgWG/view?usp=sharing"> guidelines for the Smith Collection</a> in another tab, and look at the different field names in the column headings. This is where the magic happens!
 
@@ -136,7 +136,7 @@ Some of these fields are consistent, and will say one thing, or be one one of a 
 
 Using the letter below and the <a href="https://drive.google.com/file/d/16VIQ4KxbBbFnjnrbgR-Uv1t1H0_xSgWG/view?usp=sharing"> full guidelines </a>, enter the metadata you'd create for the given fields.
 
-<iframe src="https://github.com/hillaryAHR/LIB-201/blob/main/smith-papers-files/mcj-dp018-19381010-smith-martha-001.pdf#toolbar=0" width="100%" height="500px"></iframe>
+<embed src="https://github.com/hillaryAHR/LIB-201/blob/main/smith-papers-files/mcj-dp018-19381010-smith-martha-001.pdf" type="application/pdf" width="100%" height="500px">
 
 <!--* Object Identifier
 * Title 
@@ -150,7 +150,7 @@ Using the letter below and the <a href="https://drive.google.com/file/d/16VIQ4Kx
 
 You'll notice there are a lot of ways we describe each letter. Whew! So why subject headings? Subject Headings, like metadata standards, use "controlled vocabulary," meaning you can group things together by category, so they'll be <a href="https://en.wikipedia.org/wiki/Library_of_Congress_Linked_Data_Service"> linked</a> by topic. For instance, if I used the subject heading "Dating (Social Customs)" -- and we do! -- all of the letters with that designation can be grouped together.
 
-<img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/catalog-screenshot" alt="image of a book record in the catalog for _Ellen S. Woodward: New Deal Advocate for women_ by Martha Swain, with subject headings highlighted">
+<img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/catalog-screenshot" alt="image of a book record in the catalog for _Ellen S. Woodward: New Deal Advocate for women_ by Martha Swain, with subject headings highlighted" width="" height="">
 
 There are a number of <a href="https://id.loc.gov/authorities/subjects.html"> pre-determined subject headings</a> defined by the Library of Congress, but how do we decide which subject heading to use on our own?
 
@@ -179,33 +179,48 @@ Let's pause. Controlled vocabularies are great for consistency and linking thing
 <!--assessment - enter some options-->
 
 # 5. Project and Data management
-By this point, you have seen how much behind-the-scenes work that goes into creating metadata from scratch! It's a lot! And this is just when you're creating metadata on your own. **But we are working as a group!** So let's discuss what we'll need to consider moving forward.
+By this point, you have seen how much behind-the-scenes work that goes into creating metadata from scratch! It's a lot! And this is just when you're creating metadata on your own. **But we are working as a group!** We will discuss what we'll need to do as a group, but consider these parts of project and data management that are embedded in creating digital scholarship.
 
 ## Progress
 How do you document your progress so someone could pick up where you leave off and won't duplicate your work? It is important to document your progress for yourself, but also for those who are also working in the same collection. What usually works for you (e.g. notes in a journal, putting dates on a folder on your computer, etc.) doesn't always work for others!
 
 There are lots of ways to keep up with the progress of group projects. Often, a project manager will keep track of progress by checking in with people, going over updated tasks, and reporting progress notes at regular meetings. For keeping up with tasks and due dates, there are several free, online tools (e.g. <a href="https://asana.com/">asana</a>, Google Sheets, <a href="https://trello.com/en-US">Trello</a>, etc.). For this class, we will decide as a group how to keep up with things as group (and it will be up to you to keep up with your progress as an individual. I can't recommend note-taking enough!)
 
-<!--tools for project management - asana screenshot-->
+<img src="https://github.com/hillaryAHR/LIB-201/blob/main/asana-screenshot/" alt="screenshot of project management application, asana, showing complete and incomplete tasks" width="" height="">
+
 <!-- assessment - share 2 ways you'll plan to track your progress-->
 
 ## Communication - (sorry it doesn't start with a P)
-How do you talk to each other outside of class time? How do you leave messages, and what are the expectations for responding?
+You won't always be working on the collection at the same time, so how do you talk to each other outside of class time? How do you leave messages, and what are the expectations for responding? We will discuss how to do this as a class, and set up a channel for communication.
 
-<!--teams screenshot-->
+<img src="https://github.com/hillaryAHR/LIB-201/blob/main/teams-screenshot/" alt="screenshot of project management application, asana, showing complete and incomplete tasks" width="" height="">
 
-External communication: how do you describe your project to people who aren't working on it? Elevator speech.
+<!--assessment - share a way you think we should communicate?-->
 
 ## Preservation
-How do you save things so other people can access them?
+Essentially, we are creating a high-quality digital archival record for a physical item. There's a lot that goes into that! Consider the following:
+* How do you save things so other people can access them?
+* How and where do you save backup copies?
+* How do you ensure your work is attributed?
+* How do you ensure quality control (i.e. consistency in the metadata, image quality, etc.)?
+* How do you recognize and protect the integrity of a document with potentially harmful or sensitive information in it?
+* Are we publishing the documents somewhere? Do we have persmission to do that?
 
-<!--Drive screenshot-->
+Many projects consider these questions (and more) as a part of a Data Management Plan. If a project is grant funded, sometimes the grant will require a DMP. Here are some examples:
+* <a href="https://wiki.diglib.org/Project_Plans">Digital Library Federation Sample Plans</a> (Download the .doc file to see the actual plan)
+* <a href="https://www.icpsr.umich.edu/files/datamanagement/DataManagementPlans-All.pdf">ICSPR Guidelines for Effective Data Management Plans</a> (Pages 1-10)
+
+<!--DH in Practice coursebook, pp 46-55-->
+<!--Drive screenshot?-->
 
 ## Principles
-What are some foundational practices that you adopt and value as a group? What are a few words that encompass how you'll collaborate together?
+Last, but not least, it's important to consider the principals under which you'll operate as a cohesive group. Clearly, this is a class, but many projects are defined at the outset by practices that its members adopt and value as a group. We will dicuss what values encompass how we collaborate together. In the meantime, consider some values statements from the following projects:
 
+* <a href="https://coloredconventions.org/about/principles/">Colored Conventions Projects Values Statement</a>
+* <a href="http://librev.info/principles-conduct.php">LibRev Code of Conduct</a>
+* <a href="http://librev.info/principles-conduct.php">"Pledges," from Scott Weingart's blog</a>
 
-
-
+<!--assessment - using the values statements, pick 3 words that will serve as the spirit of your collaboration in this group-->
+<!--section on project pitch?-->
 <!--workflow worksheet?-->
-<!--data management plan questions-->
+<!--data management plan questions and/or checklist?-->
