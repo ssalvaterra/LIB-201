@@ -113,8 +113,6 @@ What do all of these mean? Some of these items capture unique information about 
 * Description
 * Creator
 * Date
-<hr>
-
 * Notes
 * File name
 
@@ -152,24 +150,44 @@ Using the letter below and the <a href="https://drive.google.com/file/d/16VIQ4Kx
 
 You'll notice there are a lot of ways we describe each letter. Whew! So why subject headings? Subject Headings, like metadata standards, use "controlled vocabulary," meaning you can group things together by category, so they'll be <a href="https://en.wikipedia.org/wiki/Library_of_Congress_Linked_Data_Service"> linked</a> by topic. For instance, if I used the subject heading "Dating (Social Customs)" -- and we do! -- all of the letters with that designation can be grouped together.
 
-There are a number of <a href="https://id.loc.gov/authorities/subjects.html"> determined subject headings</a> defined by the Library of Congress, but how do we decide which subject heading to use on our own?
+<img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/catalog-screenshot" alt="image of a book record in the catalog for _Ellen S. Woodward: New Deal Advocate for women_ by Martha Swain, with subject headings highlighted">
 
-<!--How to look up subject headings: list + use catalog-->
-<!--assessment - write down number of ways to describe a given topic, using catalog/list-->
-<!--link to word bank of subject headings-->
+There are a number of <a href="https://id.loc.gov/authorities/subjects.html"> pre-determined subject headings</a> defined by the Library of Congress, but how do we decide which subject heading to use on our own?
 
+## Determining Subject Headings
+
+Subject headings can be confusing! It is something some people get master's degrees in, after all. But we are not here to delve into the intracacies of the subject heading. For this collection, we have gathered several subject headings that are common to the collection. So your first step to choosing a subject heading will be to check this list: https://drive.google.com/file/d/1BO11mkUuw9EiIyzq-UrUX9WgRukj21qW/view?usp=sharing <!--make this a button?-->
+
+If the contents of your letter do not quite go with the suggested headings, then your next step is to look something up with similar topics, and choose a subject heading from there. Here's what that looks like.
+
+1. Go to the <a href="https://mlp.ent.sirsi.net/client/en_US/muw/">MUW Library Online Catalog</a> and search for a book using keywords. We'll use the example "movies," since the Smiths often talk about going to see a movie in many of their letters. Type ```movies``` in the search box.
+2. Scroll through the <a href="https://mlp.ent.sirsi.net/client/en_US/muw/search/results?qu=movies&te=&lm=MUWITEMS">results</a>, and find something that is most similar to your concept. In general, keep it as simple as possible, and go with what seems most prevalent. Note all of the different ways (just on the first page!) people have categorized movies, and how these terms range in meaning and specificity:
+* Film
+* Motion pictures
+* Film & Video
+* Drama
+* Comedy
+* Cinematography
+
+In this example, ```Motion pictures``` is broadly used enough, and it captures the meaning that the people in the letters are using, so we'll go with that!
+
+<!--assessment - Your turn: write down number of ways to describe a given topic, using catalog/list-->
+
+## Bias in Subject Headings
 Let's pause. Controlled vocabularies are great for consistency and linking things, but they can also be problematic, especially when it comes to describing historically marginalized people. Consider the subject heading <a href="https://mlp.ent.sirsi.net/client/en_US/muw/search/results?qu=Minorities.&lm=MUWITEMS&rt=false%7C%7C%7CSUBJECT%7C%7C%7CSubject">"minorities,"</a> which isn't very descriptive, and is often a loaded term, neither of which create a helpful category for users when interacting with items in a collection. If you came across a folder of photographs labeled "minorities," what would you expect to find? Even if you didn't know what was in there, what would be more specific, more helpful, or more appropriate?
 
 <!--assessment - enter some options-->
 
 # 5. Project and Data management
-By this point, you have seen how much behind-the-scenes work that goes into creating metadata from scratch! It's a lot! And this is just when you're creating metadata on your own. We are working as a group! Let's discuss what we'll need to consider moving forward.
+By this point, you have seen how much behind-the-scenes work that goes into creating metadata from scratch! It's a lot! And this is just when you're creating metadata on your own. **But we are working as a group!** So let's discuss what we'll need to consider moving forward.
 
 ## Progress
-How do you document your progress so someone could pick up where you leave off and won't duplicate your work?
+How do you document your progress so someone could pick up where you leave off and won't duplicate your work? It is important to document your progress for yourself, but also for those who are also working in the same collection. What usually works for you (e.g. notes in a journal, putting dates on a folder on your computer, etc.) doesn't always work for others!
 
-<!--importance of documentation-->
+There are lots of ways to keep up with the progress of group projects. Often, a project manager will keep track of progress by checking in with people, going over updated tasks, and reporting progress notes at regular meetings. For keeping up with tasks and due dates, there are several free, online tools (e.g. <a href="https://asana.com/">asana</a>, Google Sheets, <a href="https://trello.com/en-US">Trello</a>, etc.). For this class, we will decide as a group how to keep up with things as group (and it will be up to you to keep up with your progress as an individual. I can't recommend note-taking enough!)
+
 <!--tools for project management - asana screenshot-->
+<!-- assessment - share 2 ways you'll plan to track your progress-->
 
 ## Communication - (sorry it doesn't start with a P)
 How do you talk to each other outside of class time? How do you leave messages, and what are the expectations for responding?
