@@ -29,7 +29,7 @@ As you transcribe, tag, and create information (or data!) about the letters in t
 
 Metadata makes the internet work! And for this class, it is one of the building blocks of digital research. Think about the items in a library database: 
 
-<p><a href="https://login.libprxy.muw.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&bquery=pizza&cli0=RV&clv0=Y&type=1&searchMode=And&site=eds-live&scope=site"><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide3.JPG" alt="screenshot of a library database search result page" width="" height=""></a></p> 
+<p><a href="https://login.libprxy.muw.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&bquery=pizza&cli0=RV&clv0=Y&type=1&searchMode=And&site=eds-live&scope=site"><img src="https://github.com/hillaryAHR/LIB-201/blob/main/database-screenshot.PNG" alt="screenshot of a library database search result page" width="" height=""></a></p> 
 
 When you search for something with combinations of keywords, filters, search facets, etc., you are tapping the metadata that someone created in order to return results. This applies to most things in a collection of digital things.
 
