@@ -138,7 +138,7 @@ Some of these fields are consistent, and will say one thing, or be one one of a 
 
 Using the letter below and the <a href="https://drive.google.com/file/d/16VIQ4KxbBbFnjnrbgR-Uv1t1H0_xSgWG/view?usp=sharing"> full guidelines </a>, enter the metadata you'd create for the given fields.
 
-<img src="https://github.com/hillaryAHR/LIB-201/blob/main/smith-papers-files/mcj-dp018-19381010-smith-martha-001.pdf" alt="handwritten letter from Martha Smith to Christine Smith, written in October of 1938">
+<iframe src="https://github.com/hillaryAHR/LIB-201/blob/main/smith-papers-files/mcj-dp018-19381010-smith-martha-001.pdf#toolbar=0" width="100%" height="500px"></iframe>
 
 <!--* Object Identifier
 * Title 
