@@ -12,10 +12,10 @@ Metadata are the building blocks of digital scholarship! We will be creating, st
 2. [Metadata Standards](#2-metadata-standards)
 3. [Metadata Guidelines for the Smith Papers](#3-metadata-guidelines-for-the-smith-papers)
 4. [Library of Congress Subject Headings](#4-library-of-congress-subject-headings)
-5. [Workflow and Data Management](#5-workflow-and-data-management)
+5. [Project and Data Management](#5-project-and-data-management)
 
 ## Further reading
-- Drucker, Johanna. "Ontologies and Metadata Standards," _Introduction to Digital Humanities_ 2014, pp 24-27.
+- Drucker, Johanna. "Ontologies and Metadata Standards," _Introduction to Digital Humanities_ 2014, pp 24-27. (Available for LIB 201 students in Canvas<!--add pdf to github-->)
 - <!--consult with Vic-->
 
 ## Ethical considerations
@@ -23,9 +23,11 @@ People create metadata, and people usually have biases, implicit or explicit. Me
 
 # 1. Metadata-What and Why
 
-As you transcribe, tag, and create information (or data!) about the letters in the Smith Papers Collection, you are essentially creating descriptive _metadata_. Metadata is just "data about data," and it's something archives uses to describe, preserve, organize, and digitize its contents <!--link to https://dictionary.archivists.org/entry/metadata.html-->. In other words, Metadata makes items in a collection easy to find and discover.
+As you transcribe, tag, and create information (or data!) about the letters in the Smith Papers Collection, you are essentially creating descriptive _metadata_. Metadata is just "data about data," and it's something <a href="https://dictionary.archivists.org/entry/metadata.html">archivists use</a> to describe, preserve, organize, and digitize its contents. In other words, Metadata makes items in a collection easy to find and discover.
 
-Metadata makes the internet work! And for this class, it is one of the building blocks of digital research. Think about the items in a library database <!--insert screenshot-->. When you search for something with combinations of keywords, filters, search facets, etc., you are tapping the metadata that someone created. This applies to most things in a collection of digital things.
+Metadata makes the internet work! And for this class, it is one of the building blocks of digital research. Think about the items in a library database <!--insert screenshot and link https://login.libprxy.muw.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&bquery=pizza&cli0=RV&clv0=Y&type=1&searchMode=And&site=eds-live&scope=site-->. 
+
+When you search for something with combinations of keywords, filters, search facets, etc., you are tapping the metadata that someone created. This applies to most things in a collection of digital things.
 
 Think about the following digital items, and imagine what kinds of metadata you might interact with.
 
@@ -123,14 +125,43 @@ Using the following letter and the <a href="https://drive.google.com/file/d/16VI
 
 # 4. Library of Congress Subject Headings
 
-You'll notice there are a lot of ways we describe each letter. Whew! So why subject headings? Subject Headings are "controlled vocabulary," meaning you can group things together by category, so they'll be <a href="https://en.wikipedia.org/wiki/Library_of_Congress_Linked_Data_Service"> linked</a> by topic. For instance, if I used the subject heading "Dating (Social Customs)" -- and we do! -- all of the letters with that designation can be grouped together.
+You'll notice there are a lot of ways we describe each letter. Whew! So why subject headings? Subject Headings, like metadata standards, use "controlled vocabulary," meaning you can group things together by category, so they'll be <a href="https://en.wikipedia.org/wiki/Library_of_Congress_Linked_Data_Service"> linked</a> by topic. For instance, if I used the subject heading "Dating (Social Customs)" -- and we do! -- all of the letters with that designation can be grouped together.
 
 There are a number of <a href="https://id.loc.gov/authorities/subjects.html"> determined subject headings</a> defined by the Library of Congress, but how do we decide which subject heading to use on our own?
 
-# 5. Workflow and Data management
-By this point, you have seen how much behind-the-scenes work that goes into creating metadata from scratch! It's a lot!
+<!--How to look up subject headings: list + use catalog-->
+<!--assessment - write down number of ways to describe a given topic, using catalog/list-->
 
-This section is going to get you to think about how to keep up with all of that work, get help with your collaborators, and share it openly.
+Let's pause. Controlled vocabularies are great for consistency and linking things, but they can also be problematic, especially when it comes to describing historically marginalized people. Consider the subject heading <a href="https://mlp.ent.sirsi.net/client/en_US/muw/search/results?qu=Minorities.&lm=MUWITEMS&rt=false%7C%7C%7CSUBJECT%7C%7C%7CSubject">"minorities,"</a> which isn't very descriptive, and is often a loaded term, neither of which create a helpful category for users when interacting with items in a collection. If you came across a folder of photographs labeled "minorities," what would you expect to find? Even if you didn't know what was in there, what would be more specific, more helpful, or more appropriate?
+
+<!--assessment - enter some options-->
+
+# 5. Project and Data management
+By this point, you have seen how much behind-the-scenes work that goes into creating metadata from scratch! It's a lot! And this is just when you're creating metadata on your own. We are working as a group! Let's discuss what we'll need to consider moving forward.
+
+## Progress
+How do you document your progress so someone could pick up where you leave off and won't duplicate your work?
+
+<!--importance of documentation-->
+<!--tools for project management - asana screenshot-->
+
+## Communication - (sorry it doesn't start with a P)
+How do you talk to each other outside of class time? How do you leave messages, and what are the expectations for responding?
+
+<!--teams screenshot-->
+
+External communication: how do you describe your project to people who aren't working on it? Elevator speech.
+
+## Preservation
+How do you save things so other people can access them?
+
+<!--Drive screenshot-->
+
+## Principles
+What are some foundational practices that you adopt and value as a group? What are a few words that encompass how you'll collaborate together?
+
+
+
 
 <!--workflow worksheet?-->
 <!--data management plan questions-->
