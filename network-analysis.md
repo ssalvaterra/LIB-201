@@ -34,14 +34,22 @@ For the Smith Papers collection, we are asking these questions, more or less!
 
 Network analysis visualizations are excellent ways to show what's going on in a complex network, but they cannot stand alone! Even the most clearly labeled network needs context. When you are creating a networked graph, include some writing that gives context to the network, and shows the things you chose to highlight. Then include that explanation alongside the graph in an accessible way. 
 
-<!--more on accessibility w/ graph design-->
+Another thing to consider when making highly visual graphs is how accessible your visualization may or may not be to everyone, including those with visual impairments. Consider the following when designing a graph:
+* Are your labels large enough to read?
+* Are the colors <a href="https://webaim.org/resources/contrastchecker/">in high enough contrast </a> to distinguish from each other? 
+* Is there alternate text or description somewhere that explains the graph with as clearly worded text as possible?
 
-For example:
-* What do these connections represent? Are they conversations? Transactions? Travel routes?
-* Are there explanations to go with anomalies or patterns?
-* Do the colors, line thickness, or opacity coincide with certain patterns or information? 
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScaxWp9BN-1QAWqjW4WaBCoF_sveb2HbtbW_8wGn47yqTN1Cw/viewform?embedded=true" width="" height="" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+## Check-in 
+<div>
+  <iframe id=".0 Network Analysis"
+  width=""
+  height=""
+  frameborder="0"
+  marginheight="0"
+  marginwidth="0"
+  src="https://docs.google.com/forms/d/e/1FAIpQLScaxWp9BN-1QAWqjW4WaBCoF_sveb2HbtbW_8wGn47yqTN1Cw/viewform?embedded=true">
+  </iframe>
+</div>
 
 # 1. Network Analysis Terms
 Most softwares that facilitate Network Analyses use a different vocabulary. You'll learn about what each part of a network is in this section, and in the next section, we'll talk about different ways analyze those parts. <!--Link to slideshow or reuse as images-->
