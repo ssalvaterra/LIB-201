@@ -1,6 +1,7 @@
 # Introduction to Network Analysis
 A Network Analysis is simply a study of relationships among a group of connected things. The "things" could be people, cities, cells in the body, etc.! The idea of a network analysis is to visualize these relationships, so you can see the patterns (or lack thereof) in connections within the network.
-<!--screenshot of sample network-->
+
+<img src="https://media-exp1.licdn.com/dms/image/C4D12AQEZ0NjYN-BOZQ/article-inline_image-shrink_1000_1488/0/1555535447907?e=1632960000&v=beta&t=YRdYNdXltKV1DN_0FTZPPvqXWVB-iX3hHI3doMwkGJc" alt="sample network analysis graph that uses Game of Thrones characters" class="center">
 
 We use network analysis to ask questions about the players in the network, like 
 * Who is the most/least influential?
@@ -31,7 +32,16 @@ For the Smith Papers collection, we are asking these questions, more or less!
 
 ## Ethical Considerations:
 
-<!--Assessment on what a network analysis is/could be-->
+Network analysis visualizations are excellent ways to show what's going on in a complex network, but they cannot stand alone! Even the most clearly labeled network needs context. When you are creating a networked graph, include some writing that gives context to the network, and shows the things you chose to highlight. Then include that explanation alongside the graph in an accessible way. 
+
+<!--more on accessibility w/ graph design-->
+
+For example:
+* What do these connections represent? Are they conversations? Transactions? Travel routes?
+* Are there explanations to go with anomalies or patterns?
+* Do the colors, line thickness, or opacity coincide with certain patterns or information? 
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScaxWp9BN-1QAWqjW4WaBCoF_sveb2HbtbW_8wGn47yqTN1Cw/viewform?embedded=true" width="" height="" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 
 # 1. Network Analysis Terms
 Most softwares that facilitate Network Analyses use a different vocabulary. You'll learn about what each part of a network is in this section, and in the next section, we'll talk about different ways analyze those parts. <!--Link to slideshow or reuse as images-->
