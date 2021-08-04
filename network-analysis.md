@@ -24,6 +24,7 @@ For the Smith Papers collection, we are asking these questions, more or less!
 4. [Software for visualizing a network analysis](#4-software-for-visualizing-a-network-analysis)
 
 ## Further Readings and Tutorials:
+* Rawson and Muñoz, "Against Cleaning." 2016. *Curating Menus*,  http://curatingmenus.org/articles/against-cleaning/. 
 * Thomas Padilla and Brandon Locke. "Introduction to Network Analysis." http://www.thomaspadilla.org/cytoscape/ 
 * Miriam Posner, "Network Analysis." http://miriamposner.com/classes/dh101f16/tutorials-guides/data-visualization/network-analysis/ 
 * Miriam Posner, "Creating a Network Graph with Gephi." http://miriamposner.com/dh101f14/wp-content/uploads/2014/11/Creating-a-Network-Graph-with-Gephi.pdf
@@ -40,19 +41,11 @@ Another thing to consider when making highly visual graphs is how accessible you
 * Is there alternate text or description somewhere that explains the graph with as clearly worded text as possible?
 
 ## Check-in 
-<div>
-  <iframe id=".0 Network Analysis"
-  width=""
-  height=""
-  frameborder="0"
-  marginheight="0"
-  marginwidth="0"
-  src="https://docs.google.com/forms/d/e/1FAIpQLScaxWp9BN-1QAWqjW4WaBCoF_sveb2HbtbW_8wGn47yqTN1Cw/viewform?embedded=true">
-  </iframe>
-</div>
+Answer questions here: https://forms.gle/9GKoK9vYbuRSLfVj8
+<!--make prettier later-->
 
 # 1. Network Analysis Terms
-Most softwares that facilitate Network Analyses use a different vocabulary. You'll learn about what each part of a network is in this section, and in the next section, we'll talk about different ways analyze those parts. <!--Link to slideshow or reuse as images-->
+Most softwares that facilitate Network Analyses use a different vocabulary. You'll learn about what each part of a network is in this section, and in the next section, we'll talk about different ways analyze those parts. 
 
 ## Networks
 <p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide3.JPG" alt="example of a simple network with 6 green and pink nodes and edges" width="" height="" /></p>
@@ -83,8 +76,9 @@ Edges represent the relationships between nodes. They usually indicate some kind
 
 ...just a few more terms! Stick with me!...
 
-<!--assessment check-in - define terms -->
-<!--assessment on network - can you have a network where nodes are not connected?-->
+## Check-in
+
+<!--embed iframe problem-->
 
 # 2. Analyzing relational data
 Did that phrase make your stomach turn? Don't worry! We are not actually doing math in this class, but we will be using mathematic concepts. We analyze networks by calculating the ways nodes influence each other. Let's break it down.
@@ -129,21 +123,53 @@ Degree and Closeness measure influence through connections and paths. Betweennes
 
 <p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide10.JPG" alt="example of a simple network that is loosely connected, but bridged together by a node in the center" width="" height="" /></p>
 
-## Eigenvector Centrality
+<!--## Eigenvector Centrality
 This is the last metric to consider here, and it's essentially an algorithm that calculates which nodes are connected to the most well-connected. (Don't worry, we won't be actually doing this calculating. It's just worth understanding!) In other words, it determines how close a node is to more well-connected nodes.
 
 <p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide11.JPG" alt="example of a network with a node in the middle that has fewer direct connections, but a higher eigenvector centrality because the nodes around it have higher degree centrality" width="" height="" /></p>
 
-Whew! That's it. 
+Whew! That's it.-->
 
 <!--Assessment on centrality terms-->
 
 # 3. Data Modeling for Visualizing a Network
 
-In order to tell the software (which we go over in the next section) how to recognize which nodes are connected, and by what paths, we are going to create a spreadsheet with two columns, at minimum, to tell it which nodes have connections.
+In order to tell the software (which we go over in the next section) how to recognize which nodes are connected, and by what paths, we are going to create a spreadsheet with "tidy data." Each column will have a variable, and each row will be an observation of that variable. More on that later.
+
+<!--screenshot of tidy data-->
+
+The most important thing to remember when structuring data for a network analysis is this: what question are you trying to answer with a network analysis graph? Are you trying to see who someone is writing to in a letter? Are you trying to find out who has written the most letters and who has received the most? Are you trying to figure out who gets mentioned more times by one person than another? All of this matters. For instance, if we wanted to see where the letters were coming from and who is writing to whom, we could structure the data like this:
+
+| Source | Target | Address | Return Address |
+| ----------- | ----------- | --------- | ---------|
+| Pauline Smith | Sam H. Smith | Pittsboro | Jackson|
+| Christine Smith | Pauline Smith | Starkville | Pittsboro |
+| Pauline Smith | Martha Smith | Pittsboro | Meridian |
+
+In this graph, each column heading (the variables) has one observation (the information in one letter). That's tidy data!
+
+Say, for instance, though, that we want to see all of the people mentioned in several letters to get a better idea of the network of people in the lives of the Smith family members and their friends. We could structure our data so that each source (the letter writer) has a target (the person they write to and the people they mention), and each target has either a reciprocal (undirected) or non-reciprocal (directed) edge. 
+
+## Check in
+Using a pencil and paper, sketch what you think the second example's graph might look like.
+
+<!--show answer somehow maybe with screenshot-->
 
 ## Cleaning 
 
+Wouldn't it be nice if you could just copy and paste some names in a list into a spreadsheet, and click a button to make a nice network graph? IT NEVER WORKS THAT WAY! But that's part of the work of the digital scholar - is to structure data through a process of cleaning and testing it, in order to see if they can answer a question through visualization. Some people say that cleaning the data is 80% of the work in digital scholarship. <!--cite that person?-->
+
+Luckily, we have done a lot of that work already, and in this class, you will be adding to it, then doing some of your own restructuring. Here's what we have so far: 
+* Name tags - Unstructured. <!--link to name tags spreadsheet--> This is what it looks like when you export the metadata tags you created from Transkribus. <!--more on that process?-->
+* Name tags - Structured. <!--link to cleaned spreadsheet--> This is what it looks like when you have added some structure to those tags.
+
+Here are the steps you'll need to take in order to get from names and data you tagged in the letters, to structured data that you can put into a network graph software:
+<!--reference NA worklog from Spr2021 semester-->
+1. 
+2. 
+
+
+<!--video of doing this?-->
 <!--link to spreadsheet for existing network-->
 <!--Add more on cleaning and strcutring from NA-worklog-->
 
