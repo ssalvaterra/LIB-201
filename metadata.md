@@ -21,17 +21,17 @@ In this lesson, you will:
 - <!--consult with Vic-->
 
 ## Ethical considerations
-People create metadata, and even though they have the best intentions, people usually have biases, implicit or explicit. Metadata and metadata standards have been created by people with a notably biased frame of reference. For example, for many years, the Library of Congress classified books on homosexuality under “sexual deviance.” Even more recently, an undergraduate student at Dartmouth College began a campaign to change the “illegal alien” subject heading to “noncitizen.” As you find and create metadata, consider the words you use and the different connotations of their meanings. <!--link to actual story, plus the article about redo-ing cutter numbers, plus example from Vic re: "minorities"-->
+People create metadata, and even though they have mostly the best intentions, people also have biases, implicit or explicit. Metadata and metadata standards have been created by people with a notably biased frame of reference. For example, for many years, the Library of Congress classified books on homosexuality under “sexual deviance.” Even more recently, an undergraduate student at Dartmouth College began a campaign to change the “illegal alien” subject heading to “noncitizen.” As you find and create metadata, consider the words you use and the different connotations of their meanings. <!--link to actual story, plus the article about redo-ing cutter numbers, plus example from Vic re: "minorities"-->
 
 # 1. Metadata-What and Why
 
-As you transcribe, tag, and create information (or data!) about the letters in the Smith Papers Collection, you are essentially creating descriptive _metadata_. Metadata is just "data about data," and it's something <a href="https://dictionary.archivists.org/entry/metadata.html">archivists use</a> to describe, preserve, organize, and digitize. In other words, metadata makes items in a collection easy to find and discover.
+As you transcribe, tag, and create information (or data!) about the letters in the Smith Papers Collection, you are essentially creating _metadata_. Metadata is just "data about data," and it's something <a href="https://dictionary.archivists.org/entry/metadata.html">archivists use</a> to describe, preserve, organize, and digitize. Furthermore, metadata makes items in a collection easy to find and discover.
 
 Metadata makes the internet work! And for this class, it is one of the building blocks of digital research. Think about the items in a library database: 
 
 <p><a href="https://login.libprxy.muw.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&bquery=pizza&cli0=RV&clv0=Y&type=1&searchMode=And&site=eds-live&scope=site"><img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/database-screenshot.PNG" alt="screenshot of a library database search result page" width="" height=""></a></p> 
 
-When you search for something with combinations of keywords, filters, search facets, etc., you are tapping the metadata that someone created in order to return results. This applies to most things in a collection of digital things.
+Each item in the result list above contains several bits of metadata. When you search for something with combinations of keywords, filters, search facets, etc., you are tapping the metadata that someone created in order to return results. This applies to most things in a digital collection.
 
 Think about the following digital items, and imagine what kinds of metadata - explicit or hidden - that you might interact with when you use them.
 
@@ -40,7 +40,11 @@ Think about the following digital items, and imagine what kinds of metadata - ex
 <br><img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/youtube-screenshot.PNG" alt="screenshot of the YouTube homepage" width="" height=""></br>
 
 <br></br>
-Now think  about what kinds of data and metadata (titles, descriptions, links, stylistic attributes, etc.) had to be collected to create each of the results in these collections. Now, think about this in terms of a box of letters that have been scanned. In order for someone to digitally interact with these objects, they need metadata.
+Now think  about what kinds of data and metadata (titles, descriptions, links, stylistic attributes, etc.) had to be collected to create each of the results in these collections.
+
+<!--assessment: https://muw.instructure.com/courses/17249/quizzes/65016.-->
+
+Now, think about this in terms of a box of letters that have been scanned. In order for someone to digitally interact with these objects, they need metadata.
 
 <img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/smith-letter-example.jpg" alt="screenshot of an envelope and a letter from the Ellard-Murphree-Pilgreen Smith letters" width="" height="">
 
@@ -48,9 +52,9 @@ Now think  about what kinds of data and metadata (titles, descriptions, links, s
 
 # 2. Metadata Standards
 
-Similar to citation guidelines (e.g. MLA, APA, Chicago, etc.), digital items use a schema to organize and standardize their formatting. For instance, websites use HTML and CSS to communicate things to browsers, library databases use specific fields to link similar online articles to each other, and so on. 
+Similar to citation guidelines (e.g. MLA, APA, Chicago, etc.), digital items use a schema to organize and standardize their formatting. For instance, websites use HTML and CSS to communicate things to browsers, library databases use specific fields to link similar online articles to each other, and so on. This is a way to classify different kinds of metadata, define the information for each kind, and set rules for each kind (e.g. whether or not the field requires certain information or not). 
 
-For the Smith Papers collection, we are using a common metadata standard/schema called _Dublin Core_. Dublin Core takes its name from Dublin, OH where it was created. It’s used by many libraries and cultural heritage institutions to describe both digital and physical objects. In doing this, we: 
+For the Smith Papers collection, we are using a common metadata standard/schema called <a href="https://dublincore.org/specifications/dublin-core/dcmi-terms/#type">Dublin Core</a>, which takes its name from Dublin, OH where it was created. It’s used by many libraries and cultural heritage institutions to describe both digital and physical objects. In doing this, we: 
 * give the collection structure
 * link it to similar items
 * provide consistency across items within the collection
@@ -61,13 +65,12 @@ In other words, our metadata standards give guidelines for how to treat the 100+
 
 Open our <a href="https://drive.google.com/file/d/16VIQ4KxbBbFnjnrbgR-Uv1t1H0_xSgWG/view?usp=sharing"> guidelines for the Smith Collection</a> in another tab, and look at the different field names in the column headings. This is where the magic happens!
 
-<!--assessment using the guidelines - which metadata are descriptive, which are created in digitizing?-->
+<!--assessment https://muw.instructure.com/courses/17249/quizzes/65017-->
 
 # 3. Metadata Guidelines for the Smith Papers
 
 As you noticed in the <a href="https://drive.google.com/file/d/16VIQ4KxbBbFnjnrbgR-Uv1t1H0_xSgWG/view?usp=sharing"> guidelines for the Smith Collection</a>, we have a BUNCH of fields to describe one letter:
 
-<!--make this a table later, or color code so it will correspond to sections following-->
 <table>
     <tr>
         <td>Identifier
@@ -132,19 +135,19 @@ And lastly, some of them capture information about the digitization process, in 
 * Master Image
 * Record created by
 
-Some of these fields are consistent, and will say one thing, or be one one of a few options (e.g. Capture Method, Digital Repository, Resource Type, etc.). And some will require your discretion (e.g. Description, Subject Heading, etc.)
+Some of these fields are consistent, and will say one thing, or just be limited to one of select options (e.g. Capture Method, Digital Repository, Resource Type, etc.). And some will require _your_ discretion (e.g. Description, Subject Heading, etc.)
 
 Using the letter below and the <a href="https://drive.google.com/file/d/16VIQ4KxbBbFnjnrbgR-Uv1t1H0_xSgWG/view?usp=sharing"> full guidelines </a>, enter the metadata you'd create for the given fields.
 
-<a href="https://github.com/hillaryAHR/LIB-201/blob/main/smith-papers-files/mcj-dp018-19381010-smith-martha-001.pdf" type="application/pdf" width="100%" height="500px"> Click here to access the letter</a> <!--figure a better way to embed?-->
+<a href="https://github.com/hillaryAHR/LIB-201/blob/main/smith-papers-files/mcj-dp018-19381010-smith-martha-001.pdf" type="application/pdf" width="100%" height="500px"> Click here to access the letter</a> 
+
+<!--assessment https://muw.instructure.com/courses/17249/quizzes/65018-->
 
 <!--* Object Identifier
 * Title 
 * Description-->
 <!--add more of these-->
 
-<!--screenshot or link to letter...which one?-->
-<!--include "right" answers-->
 
 # 4. Library of Congress Subject Headings
 
