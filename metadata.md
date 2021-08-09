@@ -151,19 +151,19 @@ Using the letter below and the <a href="https://drive.google.com/file/d/16VIQ4Kx
 
 # 4. Library of Congress Subject Headings
 
-You'll notice there are a lot of ways we describe each letter. Whew! So why subject headings? Subject Headings, like metadata standards, use "controlled vocabulary," meaning you can group things together by category, so they'll be <a href="https://en.wikipedia.org/wiki/Library_of_Congress_Linked_Data_Service"> linked</a> by topic. For instance, if I used the subject heading "Dating (Social Customs)" -- and we do! -- all of the letters with that designation can be grouped together.
+You'll notice there are a lot of ways we describe each letter. Whew! So why subject headings? Subject Headings, like metadata standards, use "controlled vocabulary," meaning you can group things together by category, so they'll be <a href="https://en.wikipedia.org/wiki/Library_of_Congress_Linked_Data_Service"> linked</a> by topic. For instance, if I used the subject heading "Dating (Social Customs)" -- and we do! -- all of the letters with that designation can be grouped together. Books in the library are sorted and grouped by these subject headings, so we can explore information on the same topic in one physical location. What kind of books do you think are next to the one below?
 
 <img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/catalog-screenshot.PNG" alt="image of a book record in the catalog for _Ellen S. Woodward: New Deal Advocate for women_ by Martha Swain, with subject headings highlighted" width="" height="">
 
-There are a number of <a href="https://id.loc.gov/authorities/subjects.html"> pre-determined subject headings</a> defined by the Library of Congress, but how do we decide which subject heading to use on our own?
+There are a number of <a href="https://id.loc.gov/authorities/subjects.html"> pre-determined subject headings</a> defined by the Library of Congress, but how do we decide which subject heading to use when we are the ones coming up with them on our own?
 
 ## Determining Subject Headings
 
-Subject headings can be confusing! It is something some people get master's degrees in, after all. But we are not here to delve into the intracacies of the subject heading. For this collection, we have gathered several subject headings that are common to the collection. So your first step to choosing a subject heading will be to check this list: https://drive.google.com/file/d/1BO11mkUuw9EiIyzq-UrUX9WgRukj21qW/view?usp=sharing <!--make this a button?-->
+Subject headings can be confusing because there are so many of them, and just like words, you can use any number of words to describe something! <!--It is something some people get master's degrees in, after all. But we are not here to delve into the intracacies of the subject heading.--> In order to help with this for the Smith Papers collection, we have gathered several subject headings that are common to the collection. So your first step to choosing a subject heading will be to check this list: https://drive.google.com/file/d/1BO11mkUuw9EiIyzq-UrUX9WgRukj21qW/view?usp=sharing <!--make this a button?-->
 
 If the contents of your letter do not quite go with the suggested headings, then your next step is to look something up with similar topics, and choose a subject heading from there. Here's what that looks like.
 
-1. Go to the <a href="https://mlp.ent.sirsi.net/client/en_US/muw/">MUW Library Online Catalog</a> and search for a book using keywords. We'll use the example "movies," since the Smiths often talk about going to see a movie in many of their letters. Type ```movies``` in the search box.
+1. Go to the <a href="https://mlp.ent.sirsi.net/client/en_US/muw/">MUW Library Online Catalog</a> and search for a book using keywords that describe the topic. We'll use the example "movies," since the Smiths often talk about going to see a movie in many of their letters. Type ```movies``` in the search box.
 2. Scroll through the <a href="https://mlp.ent.sirsi.net/client/en_US/muw/search/results?qu=movies&te=&lm=MUWITEMS">results</a>, and find something that is most similar to your concept. In general, keep it as simple as possible, and go with what seems most prevalent. Note all of the different ways (just on the first page!) people have categorized movies, and how these terms range in meaning and specificity:
 * Film
 * Motion pictures
@@ -172,39 +172,30 @@ If the contents of your letter do not quite go with the suggested headings, then
 * Comedy
 * Cinematography
 
-In this example, ```Motion pictures``` is broadly used enough, and it captures the meaning that the people in the letters are using, so we'll go with that!
+In this example, ```Motion pictures``` is broadly used enough in this list of results, and it captures the meaning that the people in the letters are using, since they are talking about going to a movie theatre to see a motion picture, so we'll go with that!
 
-<!--assessment - Your turn: write down number of ways to describe a given topic, using catalog/list-->
+<!--assessment - https://muw.instructure.com/courses/17249/quizzes/65081-->
 
 ## Bias in Subject Headings
-Let's pause. Controlled vocabularies are great for consistency and linking things, but they can also be problematic, especially when it comes to describing historically marginalized people. Consider the subject heading <a href="https://mlp.ent.sirsi.net/client/en_US/muw/search/results?qu=Minorities.&lm=MUWITEMS&rt=false%7C%7C%7CSUBJECT%7C%7C%7CSubject">"minorities,"</a> which isn't very descriptive, and is often a loaded term, neither of which create a helpful category for users when interacting with items in a collection. If you came across a folder of photographs labeled "minorities," what would you expect to find? Even if you didn't know what was in there, what would be more specific, more helpful, or more appropriate?
+Let's pause. Controlled vocabularies are great for consistency and linking things, but they can also be problematic, especially when it comes to describing historically marginalized people. Recently, catalogers have rewritten guideline to change the subject heading "illegal alien" to "undocumented immigrant." In the first heading, the person was criminalized, and in the second heading, the phrase is descriptive, and not as loaded. When choosing a subject heading, keep in mind the consequences of your words.Another example is the subject heading <a href="https://mlp.ent.sirsi.net/client/en_US/muw/search/results?qu=Minorities.&lm=MUWITEMS&rt=false%7C%7C%7CSUBJECT%7C%7C%7CSubject">"minorities."</a> In addition to not being very descriptive, it is often a loaded term that de-humanizes a group of people. Your job in choosing a subject heading is to create a helpful category for users who are interacting with items in a collection. If you came across a folder of photographs labeled "minorities," what would you expect to find? Even if you didn't know what was in there, what would be more specific, more helpful, or more appropriate?
 
-<!--assessment - enter some options-->
+<!--assessment?-->
 
 # 5. Project and Data management
-By this point, you have seen how much behind-the-scenes work that goes into creating metadata from scratch! It's a lot! And this is just when you're creating metadata on your own. **But we are working as a group!** We will discuss what we'll need to do as a group, but consider these parts of project and data management that are embedded in creating digital scholarship.
+By this point, you have seen how much behind-the-scenes work that goes into creating metadata from scratch! It's a lot! And this is just when you're creating metadata on your own. **But we are working as a group!** We will discuss what we'll need to do as a group in class, but consider these parts of project and data management that are embedded in creating digital scholarship.
 
 ## Progress
-How do you document your progress so someone could pick up where you leave off and won't duplicate your work? It is important to document your progress for yourself, but also for those who are also working in the same collection. What usually works for you (e.g. notes in a journal, putting dates on a folder on your computer, etc.) doesn't always work for others!
+How do you document your progress so someone could pick up where you leave off and won't duplicate your work? It is important to document your progress for yourself (your future self!), but also for those who are working in the same collection alongside you. What usually works for you (e.g. notes in a journal, putting dates on a folder on your computer, etc.) doesn't always work for others!
 
 There are lots of ways to keep up with the progress of group projects. Often, a project manager will keep track of progress by checking in with people, going over updated tasks, and reporting progress notes at regular meetings. For keeping up with tasks and due dates, there are several free, online tools (e.g. <a href="https://asana.com/">asana</a>, Google Sheets, <a href="https://trello.com/en-US">Trello</a>, etc.). For this class, we will decide as a group how to keep up with things as group (and it will be up to you to keep up with your progress as an individual. I can't recommend note-taking enough!)
 
 <img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/asana-screenshot.JPG" alt="screenshot of project management application, asana, showing complete and incomplete tasks" width="" height="">
 
-<!-- assessment - share 2 ways you'll plan to track your progress-->
-
-## Communication - (sorry it doesn't start with a P)
-You won't always be working on the collection at the same time, so how do you talk to each other outside of class time? How do you leave messages, and what are the expectations for responding? We will discuss how to do this as a class, and set up a channel for communication.
-
-<img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/teams-screenshot.JPG" alt="screenshot of project management application, asana, showing complete and incomplete tasks" width="" height="">
-
-<!--assessment - share a way you think we should communicate?-->
-
 ## Preservation
 Essentially, we are creating a high-quality digital archival record for a physical item. There's a lot that goes into that! Consider the following:
 * How do you save things so other people can access them?
 * How and where do you save backup copies?
-* How do you ensure your work is attributed?
+* How do you ensure your work gets credit?
 * How do you ensure quality control (i.e. consistency in the metadata, image quality, etc.)?
 * How do you recognize and protect the integrity of a document with potentially harmful or sensitive information in it?
 * Are we publishing the documents somewhere? Do we have persmission to do that?
@@ -216,12 +207,20 @@ Many projects consider these questions (and more) as a part of a Data Management
 <!--DH in Practice coursebook, pp 46-55-->
 <!--Drive screenshot?-->
 
+## Communication - (sorry it doesn't start with a P!)
+You won't always be working on the collection at the same time, so how do you talk to each other outside of class time? How do you leave messages, and what are the expectations for responding? We will discuss how to do this as a class, and set up a channel for communication.
+
+<img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/teams-screenshot.JPG" alt="screenshot of Microsoft Teams, showing a conversation about a the Smith Papers" width="" height="">
+
+<!--assessment - share a way you think we should communicate?-->
 ## Principles
 Last, but not least, it's important to consider the principals under which you'll operate as a cohesive group. Clearly, this is a class, but many projects are defined at the outset by practices that its members adopt and value as a group. We will dicuss what values encompass how we collaborate together. In the meantime, consider some values statements from the following projects:
 
 * <a href="https://coloredconventions.org/about/principles/">Colored Conventions Projects Values Statement</a>
 * <a href="http://librev.info/principles-conduct.php">LibRev Code of Conduct</a>
 * <a href="http://librev.info/principles-conduct.php">"Pledges," from Scott Weingart's blog</a>
+
+Use these 4 sections, Progress, Preservation, Communication, and Principles to answer the questions in the Data and Project Management Plan.
 
 <!--assessment - using the values statements, pick 3 words that will serve as the spirit of your collaboration in this group-->
 <!--section on project pitch?-->

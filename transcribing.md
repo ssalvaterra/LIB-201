@@ -13,10 +13,21 @@ In this module, you will learn:
 * How to create and edit text regions in Transkribus
 * How to use style and metadata tags in Transkribus
 
+## Lessons
+1. [Transcribing Guidelines](#1.-transcribing-guidelines)
+2. [Text Regions in Transkribus](#2.-text-regions-in-transcribus)
+3. [Handwritten Text Recognition](#3.-handwritten-text-recognition)
+4. [Metadata Tags](#4.-metadata-tags)
+5. [Exporting Files in Transkribus](#5.-exporting-files-in-transkribus)
+
+## Further Reading
+* Woodford, Chris. 2021. "Optical Character Recognition," _Explain that Stuff_, https://www.explainthatstuff.com/how-ocr-works.html. 
+*  Transkribus Transcribing Conventions, 2021. Read Co-op,  https://readcoop.eu/transkribus/howto/transkribus-transcription-conventions/. 
+
 <!--Link somewhere the transcribing a letter start-to-finish video https://youtu.be/-cDD9P0rnLw-->
 <!--Link to Transkribus Installation page somewhere https://readcoop.eu/transkribus/wiki/download-and-installation/-->
 
-# I. Transcribing Guidelines
+# 1. Transcribing Guidelines
 
 In order to maintain the integrity of your original document while you are translating it for the computer, consider a few things while you're transcribing.
 
@@ -39,7 +50,7 @@ In order to maintain the integrity of your original document while you are trans
 <!--examples of transcription images as formative assessment-->
 
 
-# II. Text Regions in Transkribus
+# 2. Text Regions in Transkribus
 
 Before we get started actually transcribing, we have to tell Transkribus what parts of the page have text on them, and what order to read that text! (Remember, computers aren't smart enough to read like humans!)
 
@@ -58,7 +69,7 @@ Before we get started actually transcribing, we have to tell Transkribus what pa
 <!--screenshot2-->
 <!--screenshot3-->
 
-# III. Handwritten Text Recognition
+# 3. Handwritten Text Recognition
 
 We are using the Transkribus software because it allows you to create Handwritten Text Recognition (HTR) models. <!--link to HTR blog post?--> Over the past 2 years, we have transcribed over 100 letters, and trained the program to begin to recognize Pauline Smith's handwriting. This allows us to run the model on letters in the collection, and start with a more complete transcription to correct, rather than having to transcribe the letter from scratch. 
 
@@ -74,7 +85,7 @@ We are using the Transkribus software because it allows you to create Handwritte
 
 5. After you've completed editing the transcription, go back over the letter, making sure you didn't miss typos, and you can simultaneously begin tagging the document, which will be explained in the next lesson! 
 
-# IV. Metadata Tags
+# 4. Metadata Tags
 
 Tagging, annotating, or marking-up a document is a common practice for text analysis. Why is this? Think about the things someone might talk to you about in a letter. They might mention people they talked about, places they went, or a book they read. Now think about the contents of 6,000 letters, and all of this information together! Tagging will allow us to use the information in the collection of thousands of letters to track these trends over time. 
 
@@ -116,3 +127,4 @@ sender - The person who sent the letter, either in the return address, or in the
 3. Click “Create new tag,” then type in the name of the tag, lowercase, like it’s shown in the Tag definitions document. 
 <!--screenshot-->
 
+# 5. Exporting files in Transkribus
