@@ -16,12 +16,16 @@ In this lesson, you will:
 4. [Library of Congress Subject Headings](#4-library-of-congress-subject-headings)
 5. [Project and Data Management](#5-project-and-data-management)
 
-## Further reading
-- Drucker, Johanna. "Ontologies and Metadata Standards," _Introduction to Digital Humanities_ 2014, pp 24-27. (Available for LIB 201 students in Canvas<!--add pdf to github-->)
-- <!--consult with Vic-->
+## Required Reading
+- Drucker, Johanna. "Ontologies and Metadata Standards," _Introduction to Digital Humanities_ 2014, pp 24-27. (<a href="https://muw.instructure.com/files/1655565/download?download_frd=1">Available for LIB 201 students in Canvas</a>).
+- Laurel Hanna, 2021, "Pitts Staff Works to Counteract Racism in Library Catalog." _Candler News and Events_, Emory, Candler School of Theology, https://candler.emory.edu/news/releases/2021/01/pitts-staff-works-to-counteract-racism-in-library-catalog.html 
+- Ketchley, Sarah. "Planning & Managing Digital Projects," _DH in Practice Coursebook_. pp 46-55.(<a href="https://muw.instructure.com/courses/17249/files/folder/Readings?preview=1655566">Available for LIB 201 students in Canvas</a>).  
+
+## Further Reading (optional)
+- Erin Baucom, 2018. "An exploration into archival descriptions of LGBTQ Materials. _The American Archivist_, 81(1): 65-83. doi: https://doi.org/10.17723/0360-9081-81.1.65 
 
 ## Ethical considerations
-People create metadata, and even though they have mostly the best intentions, people also have biases, implicit or explicit. Metadata and metadata standards have been created by people with a notably biased frame of reference. For example, for many years, the Library of Congress classified books on homosexuality under “sexual deviance.” Even more recently, an undergraduate student at Dartmouth College began a campaign to change the “illegal alien” subject heading to “noncitizen.” As you find and create metadata, consider the words you use and the different connotations of their meanings. <!--link to actual story, plus the article about redo-ing cutter numbers, plus example from Vic re: "minorities"-->
+People create metadata, and even though they have mostly the best intentions, people also have biases, implicit or explicit. Metadata and metadata standards have been created by people with a notably biased frame of reference. For example, for many years, the Library of Congress classified books on homosexuality under “sexual deviance.” Even more recently, an undergraduate student at Dartmouth College began a campaign to change the “illegal alien” subject heading to “noncitizen,” resulting in a <a href="https://www.ala.org/aboutala/sites/ala.org.aboutala/files/content/ALA%20CD%2056%20RESOLUTION%20on%20Replacing%20the%20Library%20of%20Congress%20Subject%20Heading%20Illegal%20Aliens%20Without%20Further%20Delay%20Final.pdf"> resolution from the American Library Association</a> that has ended its use. As you find and create metadata, consider the words you use and the different connotations of their meanings.
 
 # 1. Metadata-What and Why
 
@@ -42,13 +46,12 @@ Think about the following digital items, and imagine what kinds of metadata - ex
 <br></br>
 Now think  about what kinds of data and metadata (titles, descriptions, links, stylistic attributes, etc.) had to be collected to create each of the results in these collections.
 
-<!--assessment: https://muw.instructure.com/courses/17249/quizzes/65016.-->
-
 Now, think about this in terms of a box of letters that have been scanned. In order for someone to digitally interact with these objects, they need metadata.
 
 <img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/smith-letter-example.jpg" alt="screenshot of an envelope and a letter from the Ellard-Murphree-Pilgreen Smith letters" width="" height="">
 
-<!--assessment that includes image of a letter and some multiple choice about what metadata could be derived from it. Choices (all of which are possible answers): date, creator, item type, description, record created by, date digitized-->
+## Check in
+Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/65016"> 0.Metadata Check-in</a> here before moving to the next section.
 
 # 2. Metadata Standards
 
@@ -65,7 +68,9 @@ In other words, our metadata standards give guidelines for how to treat the 100+
 
 Open our <a href="https://drive.google.com/file/d/16VIQ4KxbBbFnjnrbgR-Uv1t1H0_xSgWG/view?usp=sharing"> guidelines for the Smith Collection</a> in another tab, and look at the different field names in the column headings. This is where the magic happens!
 
-<!--assessment https://muw.instructure.com/courses/17249/quizzes/65017-->
+## Check-in
+
+Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/65017">1.Metadata Check-in</a> here.
 
 # 3. Metadata Guidelines for the Smith Papers
 
@@ -137,11 +142,13 @@ And lastly, some of them capture information about the digitization process, in 
 
 Some of these fields are consistent, and will say one thing, or just be limited to one of select options (e.g. Capture Method, Digital Repository, Resource Type, etc.). And some will require _your_ discretion (e.g. Description, Subject Heading, etc.)
 
-Using the letter below and the <a href="https://drive.google.com/file/d/16VIQ4KxbBbFnjnrbgR-Uv1t1H0_xSgWG/view?usp=sharing"> full guidelines </a>, enter the metadata you'd create for the given fields.
+Using the letter below and the <a href="https://drive.google.com/file/d/16VIQ4KxbBbFnjnrbgR-Uv1t1H0_xSgWG/view?usp=sharing"> full guidelines </a>, enter the metadata you'd create for the given fields at the next check-in.
 
 <a href="https://github.com/hillaryAHR/LIB-201/blob/main/smith-papers-files/mcj-dp018-19381010-smith-martha-001.pdf" type="application/pdf" width="100%" height="500px"> Click here to access the letter</a> 
 
-<!--assessment https://muw.instructure.com/courses/17249/quizzes/65018-->
+## Check-in
+
+Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/65018">2.Metadata check-in</a> here.
 
 <!--* Object Identifier
 * Title 
@@ -159,7 +166,7 @@ There are a number of <a href="https://id.loc.gov/authorities/subjects.html"> pr
 
 ## Determining Subject Headings
 
-Subject headings can be confusing because there are so many of them, and just like words, you can use any number of words to describe something! <!--It is something some people get master's degrees in, after all. But we are not here to delve into the intracacies of the subject heading.--> In order to help with this for the Smith Papers collection, we have gathered several subject headings that are common to the collection. So your first step to choosing a subject heading will be to check this list: https://drive.google.com/file/d/1BO11mkUuw9EiIyzq-UrUX9WgRukj21qW/view?usp=sharing <!--make this a button?-->
+Subject headings can be confusing because there are so many of them, and just like words, you can use any number of words to describe something! <!--It is something some people get master's degrees in, after all. But we are not here to delve into the intricacies of the subject heading.--> In order to help with this for the Smith Papers collection, we have gathered several subject headings that are common to the collection. So your first step to choosing a subject heading will be to check this list: <button formaction="https://drive.google.com/file/d/1BO11mkUuw9EiIyzq-UrUX9WgRukj21qW/view?usp=sharing">Smith Papers Authority headings</button>
 
 If the contents of your letter do not quite go with the suggested headings, then your next step is to look something up with similar topics, and choose a subject heading from there. Here's what that looks like.
 
@@ -174,12 +181,11 @@ If the contents of your letter do not quite go with the suggested headings, then
 
 In this example, ```Motion pictures``` is broadly used enough in this list of results, and it captures the meaning that the people in the letters are using, since they are talking about going to a movie theatre to see a motion picture, so we'll go with that!
 
-<!--assessment - https://muw.instructure.com/courses/17249/quizzes/65081-->
-
 ## Bias in Subject Headings
 Let's pause. Controlled vocabularies are great for consistency and linking things, but they can also be problematic, especially when it comes to describing historically marginalized people. Recently, catalogers have rewritten guideline to change the subject heading "illegal alien" to "undocumented immigrant." In the first heading, the person was criminalized, and in the second heading, the phrase is descriptive, and not as loaded. When choosing a subject heading, keep in mind the consequences of your words.Another example is the subject heading <a href="https://mlp.ent.sirsi.net/client/en_US/muw/search/results?qu=Minorities.&lm=MUWITEMS&rt=false%7C%7C%7CSUBJECT%7C%7C%7CSubject">"minorities."</a> In addition to not being very descriptive, it is often a loaded term that de-humanizes a group of people. Your job in choosing a subject heading is to create a helpful category for users who are interacting with items in a collection. If you came across a folder of photographs labeled "minorities," what would you expect to find? Even if you didn't know what was in there, what would be more specific, more helpful, or more appropriate?
 
-<!--assessment?-->
+## Check-in
+Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/65081">3.Metadata check-in</a> here.
 
 # 5. Project and Data management
 By this point, you have seen how much behind-the-scenes work that goes into creating metadata from scratch! It's a lot! And this is just when you're creating metadata on your own. **But we are working as a group!** We will discuss what we'll need to do as a group in class, but consider these parts of project and data management that are embedded in creating digital scholarship.
@@ -204,7 +210,6 @@ Many projects consider these questions (and more) as a part of a Data Management
 * <a href="https://wiki.diglib.org/Project_Plans">Digital Library Federation Sample Plans</a> (Download the .doc file to see the actual plan)
 * <a href="https://www.icpsr.umich.edu/files/datamanagement/DataManagementPlans-All.pdf">ICSPR Guidelines for Effective Data Management Plans</a> (Pages 1-10)
 
-<!--DH in Practice coursebook, pp 46-55-->
 <!--Drive screenshot?-->
 
 ## Communication - (sorry it doesn't start with a P!)
@@ -212,7 +217,6 @@ You won't always be working on the collection at the same time, so how do you ta
 
 <img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/teams-screenshot.JPG" alt="screenshot of Microsoft Teams, showing a conversation about a the Smith Papers" width="" height="">
 
-<!--assessment - share a way you think we should communicate?-->
 ## Principles
 Last, but not least, it's important to consider the principals under which you'll operate as a cohesive group. Clearly, this is a class, but many projects are defined at the outset by practices that its members adopt and value as a group. We will dicuss what values encompass how we collaborate together. In the meantime, consider some values statements from the following projects:
 
@@ -221,6 +225,8 @@ Last, but not least, it's important to consider the principals under which you'l
 * <a href="http://librev.info/principles-conduct.php">"Pledges," from Scott Weingart's blog</a>
 
 Use these 4 sections, Progress, Preservation, Communication, and Principles to answer the questions in the Data and Project Management Plan.
+
+<!--Canvas link to DMP-->
 
 <!--assessment - using the values statements, pick 3 words that will serve as the spirit of your collaboration in this group-->
 <!--section on project pitch?-->
