@@ -41,7 +41,6 @@ Another thing to consider when making highly visual graphs is how accessible you
 * Is there alternate text or description somewhere that explains the graph with as clearly worded text as possible?
 
 ## Check-in 
-<<<<<<< HEAD
 
 Click and log in to Canvas for the <a href="https://muw.instructure.com/courses/17249/quizzes/65104"> 0.Network Analysis check-in</a>
 
@@ -181,13 +180,6 @@ This process will take a while, but remember, that is normal! Give yourself time
 # 4. Software for visualizing a network analysis
 
 Now that we've prepared our data, it's time to plug it into a network analysis software. There are several different softwares for visualizing a network, and they all serve different purposes. We are going to use <a href="https://hdlab.stanford.edu/palladio/">Palladio</a> because it is free, has a relatively low accessibility bar, will work in your browser, and most importantly, will allow us to use the visualization to answer our question.
-=======
-<a href="https://muw.instructure.com/courses/17249/quizzes/65104"> 0.Network Analysis check-in</a>
-
-
-# 1. Network Analysis Terms
-Most softwares that facilitate Network Analyses use a different vocabulary. You'll learn about what each part of a network is in this section, and in the next section, we'll talk about different ways analyze those parts. 
->>>>>>> origin/main
 
 ## Preparing your visualization
 
@@ -199,120 +191,13 @@ Most softwares that facilitate Network Analyses use a different vocabulary. You'
 ## Check-in
 Eyeball test - what can you start to answer with the image you see? What looks like it needs fixing?
 
-<<<<<<< HEAD
 ## Customizing
 * filter based on directed/undirected
 * Facet data
 * Drag nodes manually
 * Export static image
-=======
-<a href="https://muw.instructure.com/courses/17249/quizzes/65105">1.Network Analysis</a>
-
-# 2. Analyzing relational data
-Did that phrase make your stomach turn? Don't worry! We are not actually doing math in this class, but we will be using mathematic concepts. We analyze networks by calculating the ways nodes influence each other. Let's break it down.
-
-<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide8.JPG" alt="example of a simple network with different sized nodes" width="" height="" /></p>
-
-## Centrality
-
-Centrality is the relative influence of individual nodes within the network. In the image above, the nodes have different sizes and colors to indicate their influence. Notice that Frnaces has several direct connections, so they are the largest node. Elene has only 1 direct connection, and therefore is the smallest. From this, we infer that Frances has a more influential role in the network. 
-
-For this class, we will measure centrality with 3 different metrics:
-* Degree
-* Closeness
-* Betweenness
-<!--* Eigenvector (!)-->
->>>>>>> origin/main
 
 
 
-<<<<<<< HEAD
 <!--link to a tutorial-->
 
-=======
-<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide9.JPG" alt="example of a simple network with subgroups" width="" height="" /></p>
-
-Unlike degree, which measures direct connections, closeness measures the proximity of a node to all the other nodes through average path. There are 8 total edges in the network above. If we wanted to calculate the closeness centrality of B, we'd count the shortest path from B to every other node, and take the average.
-
-<br>B -> A = 2
-<br>B -> C = 1
-<br>B -> D = 1
-<br>B -> E = 3
-<br>B -> F = 4
-<br>B -> G = 4
-<br>B -> H = 0 (there are no paths to H from B!)
-<br>B -> I = 0 (there are no paths to I from B!)
-
-B has a closeness centrality of 1.875. (There are 15 total paths to every other node, and 8 total edges, so 15/8=1.875). So this node has more direct connections (2), but is less "close" in terms of the entire network (1.875).
-
-<!--assessment - which node is the closest?-->
-
-## Betweenness Centrality
-Degree and Closeness measure influence through connections and paths. Betweenness centrality indicates nodes that are "bridges" between different groups in a network. In other words, they glue pieces of a less dense network together, or they serve as a "go-between" for 2 distinct parts of the network.
-
-<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide10.JPG" alt="example of a simple network that is loosely connected, but bridged together by a node in the center" width="" height="" /></p>
-
-<!--## Eigenvector Centrality
-This is the last metric to consider here, and it's essentially an algorithm that calculates which nodes are connected to the most well-connected. (Don't worry, we won't be actually doing this calculating. It's just worth understanding!) In other words, it determines how close a node is to more well-connected nodes.
-
-<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide11.JPG" alt="example of a network with a node in the middle that has fewer direct connections, but a higher eigenvector centrality because the nodes around it have higher degree centrality" width="" height="" /></p>
-
-Whew! That's it.-->
-
-# 3. Data Modeling for Visualizing a Network
-
-In order to tell the software (which we go over in the next section) how to recognize which nodes are connected, and by what paths, we are going to create a spreadsheet with "tidy data." Each column will have a variable, and each row will be an observation of that variable.
-
-<!--screenshot of tidy data?-->
-
-The most important thing to remember when structuring data for a network analysis is this: what question are you trying to answer with a network analysis graph? Are you trying to see who someone is writing to in a letter? Are you trying to find out who has written the most letters and who has received the most? Are you trying to figure out who gets mentioned more times by one person than another? All of this matters. For instance, if we wanted to see where the letters were coming from and who is writing to whom, we could structure the data like this:
-
-| Source | Target | Address | Return Address |
-| ----------- | ----------- | --------- | ---------|
-| Pauline Smith | Sam H. Smith | Pittsboro | Jackson|
-| Christine Smith | Pauline Smith | Starkville | Pittsboro |
-| Pauline Smith | Martha Smith | Pittsboro | Meridian |
-
-In this graph, each column heading (the variables) has one observation (the information in one letter). That's tidy data!
-
-Say, for instance, though, that we want to see all of the people mentioned in several letters to get a better idea of the network of people in the lives of the Smith family members and their friends. We could structure our data so that each source (the letter writer) has a target (the person they write to and the people they mention), and each target has either a reciprocal (undirected) or non-reciprocal (directed) edge. 
-
-## Check in
-Using a pencil and paper, sketch what you think the second example's graph might look like. <a href="https://muw.instructure.com/courses/17249/quizzes/65107">3.Network Analysis Check-in</a> 
-
-
-
-## Cleaning Data
-
-Wouldn't it be nice if you could just copy and paste some names in a list into a spreadsheet, and click a button to make a nice network graph? IT NEVER WORKS THAT WAY! But that's part of the work of the digital scholar - is to structure data through a process of cleaning and testing it, in order to see if they can answer a question through visualization. Some people say that cleaning the data is 80% of the work in digital scholarship. <!--cite that person?-->
-
-Luckily, we have done a lot of that work already, and in this class, you will be adding to it, then doing some of your own restructuring. Here's what we have so far: 
-* <a href="https://docs.google.com/spreadsheets/d/1cfy1RTjTPrOgUZPAuafl7VUKKC-RyORD4MJDqciEy64/edit?usp=sharing"> Name tags - Unstructured.</a> This is what it looks like when you export the metadata tags you created from Transkribus, and copy and paste them in a sheet together. <!--more on that process?-->
-* <a href="https://docs.google.com/spreadsheets/d/1LJXj-VJ2F3eOcuAfqeRXAaQraj9iRTC3nw_zkUPd_xo/edit?usp=sharing"> Name tags - Structured.</a> This is what it looks like when you have added some structure to those tags.
-
-Here are the steps you'll need to take in order to get from names and data you tagged in the letters, to structured data that you can put into a network graph software. With each step is a video that shows you how to do it!
-<!--reference NA worklog from Spr2021 semester-->
-1. Export the Tags metadata from Transkribus. <a href="https://drive.google.com/file/d/1TbXO2yrcQtWZng4FGCDrHO17T6V22NIq/view"> Watch this in a video</a>
-2. Copy and paste the names of people in the tags as transposed data into the ongoing "Name Tags - Unstructured" sheet, so we have a list of all letters and those who are named. <a href="https://drive.google.com/file/d/1Oaxu__l8hu0pOwPaEnhIV4q43lCp5-8D/view">Watch this in a video here.</a>. I will also break this down here:
-     * Highlight the column of names in the sheet of exported tags and copy them
-     <img src="">
-     * In the Unstructured tags sheet, enter the sender and recipient, then paste the names in the first column under person 1. This will look strange at first! But we haven't transposed them yet...
-     <img src="">
-     * Cut this list you just pasted, and then paste them again using the Paste Special > Paste Transposed option. Ta da!
-     <img src=""> 
-3. Clean the names that you can <a href="https://drive.google.com/file/d/1oWv-YkLRUZCCWJJBEUw6VZjlUEKtMCJ1/view"> Watch this in a video here</a>-  
-     * De-duplicate names that appear more than once, since you just want one representation of that person per letter. (To measure our network, we are not including each time a person is mentioned in a letter...just that they are mentioned at all!)
-     * Replace _known_ names with their authority control names (Last name, First name)  or reconcile names that are slightly different (i.e. ```Foss``` and ```Uncle Foss```) for consistency. (If you don't know them, that's ok! Remember, we aren't trying to erase anyone's name by assuming. Kate and Katherine might not be the same person. We don't know! Embrace the chaos and keep assumptions to a minimum!)
-
-This process will take a while, but remember, that is normal! Give yourself time, and take plenty of breaks!  
-
-<!--Add more on cleaning and structuring from NA-worklog-->
-
-# 4. Software for visualizing a network analysis
-
-Now that we've prepared our data, it's time to plug it into a network analysis software. There are several different softwares for visualizing a network, and they all serve different purposes. We are going to use <a href="https://hdlab.stanford.edu/palladio/">Palladio</a> because it is free, has a relatively low accessibility bar, will work in your browser, and most importantly, will allow us to use the visualization to answer our question.
-
-## Using Palladio
-
-<!--link to a tutorial-->
->>>>>>> origin/main
