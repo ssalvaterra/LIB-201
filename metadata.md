@@ -225,11 +225,8 @@ Last, but not least, it's important to consider the principals under which you'l
 * <a href="http://librev.info/principles-conduct.php">"Pledges," from Scott Weingart's blog</a>
 
 ## Project Management Plan
-Use these 4 sections - Progress, Preservation, Communication, and Principles - to answer <a href="https://muw.instructure.com/courses/17249/quizzes/65613">the questions in the Data and Project Management Plan</a> in Canvas.
+Use these 4 sections - Progress, Preservation, Communication, and Principles - to answer <a href="https://muw.instructure.com/courses/17249/quizzes/65613">the questions in the Data and Project Management Plan</a> in Canvas. <!--link to existing project/data management plan here? https://docs.google.com/document/d/1d45FDLsrycW5NH5WUWdToStkvSNz7R-3EV50Y-fgKMU/edit?usp=sharing-->
 
 
-
-<!--assessment - using the values statements, pick 3 words that will serve as the spirit of your collaboration in this group-->
 <!--section on project pitch?-->
 <!--workflow worksheet?-->
-<!--data management plan questions and/or checklist?-->
