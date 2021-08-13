@@ -224,9 +224,10 @@ Last, but not least, it's important to consider the principals under which you'l
 * <a href="http://librev.info/principles-conduct.php">LibRev Code of Conduct</a>
 * <a href="http://librev.info/principles-conduct.php">"Pledges," from Scott Weingart's blog</a>
 
-Use these 4 sections, Progress, Preservation, Communication, and Principles to answer the questions in the Data and Project Management Plan.
+## Project Management Plan
+Use these 4 sections - Progress, Preservation, Communication, and Principles - to answer <a href="https://muw.instructure.com/courses/17249/quizzes/65613">the questions in the Data and Project Management Plan</a> in Canvas.
 
-<!--Canvas link to DMP-->
+
 
 <!--assessment - using the values statements, pick 3 words that will serve as the spirit of your collaboration in this group-->
 <!--section on project pitch?-->
