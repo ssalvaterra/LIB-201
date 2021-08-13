@@ -166,7 +166,7 @@ There are a number of <a href="https://id.loc.gov/authorities/subjects.html"> pr
 
 ## Determining Subject Headings
 
-Subject headings can be confusing because there are so many of them, and just like words, you can use any number of words to describe something! <!--It is something some people get master's degrees in, after all. But we are not here to delve into the intricacies of the subject heading.--> In order to help with this for the Smith Papers collection, we have gathered several subject headings that are common to the collection. So your first step to choosing a subject heading will be to check this list: <button formaction="https://drive.google.com/file/d/1BO11mkUuw9EiIyzq-UrUX9WgRukj21qW/view?usp=sharing">Smith Papers Authority headings</button>
+Subject headings can be confusing because there are so many of them, and just like words, you can use any number of words to describe something! <!--It is something some people get master's degrees in, after all. But we are not here to delve into the intricacies of the subject heading.--> In order to help with this for the Smith Papers collection, we have gathered several subject headings that are common to the collection. So your first step to choosing a subject heading will be to check this list: <a href="https://drive.google.com/file/d/1BO11mkUuw9EiIyzq-UrUX9WgRukj21qW/view?usp=sharing">Smith Papers Authority headings</a>.
 
 If the contents of your letter do not quite go with the suggested headings, then your next step is to look something up with similar topics, and choose a subject heading from there. Here's what that looks like.
 
