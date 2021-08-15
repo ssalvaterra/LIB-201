@@ -18,8 +18,9 @@ In this lesson, you will:
 
 ## Required Reading
 - Drucker, Johanna. "Ontologies and Metadata Standards," _Introduction to Digital Humanities_ 2014, pp 24-27. (<a href="https://muw.instructure.com/files/1655565/download?download_frd=1">Available for LIB 201 students in Canvas</a>).
-- Laurel Hanna, 2021, "Pitts Staff Works to Counteract Racism in Library Catalog." _Candler News and Events_, Emory, Candler School of Theology, https://candler.emory.edu/news/releases/2021/01/pitts-staff-works-to-counteract-racism-in-library-catalog.html 
-- Ketchley, Sarah. "Planning & Managing Digital Projects," _DH in Practice Coursebook_. pp 46-55.(<a href="https://muw.instructure.com/courses/17249/files/folder/Readings?preview=1655566">Available for LIB 201 students in Canvas</a>).  
+- Schöch, Christof, 2013. "Big? Smart? Clean? Messy? Data in the Humanities," _The Dragonfly's Gaze_ (revised and published in _Journal of Digital Humanities_ 2(3).) https://dragonfly.hypotheses.org/443
+- Hanna, Laurel 2021, "Pitts Staff Works to Counteract Racism in Library Catalog." _Candler News and Events_, Emory, Candler School of Theology, https://candler.emory.edu/news/releases/2021/01/pitts-staff-works-to-counteract-racism-in-library-catalog.html 
+- Ketchley, Sarah. "Planning & Managing Digital Projects," _DH in Practice Coursebook_. pp 46-55.(<a href="https://muw.instructure.com/courses/17249/files/folder/Readings?preview=1655566">Available for LIB 201 students in Canvas</a>). 
 
 ## Further Reading (optional)
 - Erin Baucom, 2018. "An exploration into archival descriptions of LGBTQ Materials. _The American Archivist_, 81(1): 65-83. doi: https://doi.org/10.17723/0360-9081-81.1.65 
@@ -142,11 +143,10 @@ And lastly, some of them capture information about the digitization process, in 
 
 Some of these fields are consistent, and will say one thing, or just be limited to one of select options (e.g. Capture Method, Digital Repository, Resource Type, etc.). And some will require _your_ discretion (e.g. Description, Subject Heading, etc.)
 
+## Check-in
 Using the letter below and the <a href="https://drive.google.com/file/d/16VIQ4KxbBbFnjnrbgR-Uv1t1H0_xSgWG/view?usp=sharing"> full guidelines </a>, enter the metadata you'd create for the given fields at the next check-in.
 
 <a href="https://github.com/hillaryAHR/LIB-201/blob/main/smith-papers-files/mcj-dp018-19381010-smith-martha-001.pdf" type="application/pdf" width="100%" height="500px"> Click here to access the letter</a> 
-
-## Check-in
 
 Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/65018">2.Metadata check-in</a> here.
 
