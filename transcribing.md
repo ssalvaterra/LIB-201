@@ -20,12 +20,18 @@ In this module, you will learn:
 4. [Metadata Tags](#4.-metadata-tags)
 5. [Exporting Files in Transkribus](#5.-exporting-files-in-transkribus)
 
-## Further Reading
+## Required before beginning the lesson
+### Reading
 * Woodford, Chris. 2021. "Optical Character Recognition," _Explain that Stuff_, https://www.explainthatstuff.com/how-ocr-works.html. 
-*  Transkribus Transcribing Conventions, 2021. Read Co-op,  https://readcoop.eu/transkribus/howto/transkribus-transcription-conventions/. 
+
+### Installations
+* Transkribus: https://readcoop.eu/transkribus/?sc=Transkribus (<a href="https://readcoop.eu/transkribus/wiki/download-and-installation/">Installation Instructions here.</a> Be sure you have Java 8 installed before installing Transkribus. This is in the instructions, but not in the first step. If you run into an issue, email your instructor!)
+
+## Further reading (optional)
+*  Transkribus Transcribing Conventions, 2021. Read Co-op,  https://readcoop.eu/transkribus/howto/transkribus-transcription-conventions/.
+* Smithsonian, "General Instructions for Transcription and Review," https://transcription.si.edu/instructions 
 
 <!--Link somewhere the transcribing a letter start-to-finish video https://youtu.be/-cDD9P0rnLw-->
-<!--Link to Transkribus Installation page somewhere https://readcoop.eu/transkribus/wiki/download-and-installation/-->
 
 # 1. Transcribing Guidelines
 
@@ -35,55 +41,83 @@ In order to maintain the integrity of your original document while you are trans
 * Include all text as it is written. This includes errors in spelling and grammar, and words you might not be familiar with. Transcribing is NOT editing!
 * If there are images in the text, describe them in brackets (e.g. "[doodle of a curly-haired smiling face]").
 * Keep it simple! You want people to be able to read the transcription without looking at the original letter. Your transcriptions will be plain text files (e.g. files with no formatting), so, without editorializing, keep the text readable as possible.
-<!--link to Smithsonian Guidelines https://transcription.si.edu/instructions-->
 
 ## If you have trouble reading the text...
   * Take a break and come back. Fresh eyes make a difference!
   * Try to read the words in context. The word might look like "fhe," but it doesn't make sense to read "And then fhe called her sister." You would realize the word is "she."
   * Ask for help. Send a screenshot to your classmates, or post it in the Teams channel.
-  * If you've tried all these things, and it's just not possible to figure out, write [illegible] in brackets and tag that text with the "gap" tag (more on tags in section IV!).
+  * If you've tried all these things, and it's just not possible to figure out, write ```[illegible]``` in brackets and tag that text with the "gap" tag (more on tags in section IV!).
 
 ## Take notes while you are transcribing
 * Make note of things you don't understand, and Google them to see if you can make sense of the reference.
 * You might find something interesting that you want to come back to! Take notes of the letters you transcribe, and what you find interesting about them.
 
-<!--examples of transcription images as formative assessment-->
+## Check-in
+
+Practice transcribing a few lines, staying true to the original text with the <a href="https://muw.instructure.com/courses/17249/quizzes/66181">0.Transcribing Check-in</a>.
 
 
 # 2. Text Regions in Transkribus
 
 Before we get started actually transcribing, we have to tell Transkribus what parts of the page have text on them, and what order to read that text! (Remember, computers aren't smart enough to read like humans!)
 
+The text regions we will work with are:
+
+The page (or "text region"), where text is:
+![screenshot of green text region]()
+
+The line of text, as in the full, left-to-write line:
+![screenshot of light blue line highlighted]()
+
+And the baseline, which underlines the words themselves:
+![dark-blue dashed line within the light blue outline]()
+
 ## Run a Layout Analysis
+
+Transkribus does a pretty good job of identifying these text regions for us. The quickest way to do this is to run a layout analysis on the document, then correct any mistakes that Transkribus makes. Here's how you run the analysis:
 
 1. Double click the document you’ve uploaded, and click on the Tools tab. 
 2. Under Layout Analysis, make sure you’ve selected all pages.
 3. Click Run
 
-<!--Screenshot from https://docs.google.com/document/d/1ogfhkVSdr3QtiXzqLc-sSA0qWtS_WJgzOMGH5ZF8VwY/edit?usp=sharing-->
+![screenshot of layout analysis]()
 
 4. A notification that the layout analysis is in progress will pop up. After a few moments (between 3 and 10 seconds), the layout (green squares, blue rectangles, and dark blue lines) will appear over the letter’s text.
 5. Correct errors in the layout (e.g. delete text regions or lines that don’t cover text, resize regions that cut off text, reorder line numbers, or merge lines that have been split). Screenshots of example corrections:
 
-<!--screenshot1-->
-<!--screenshot2-->
-<!--screenshot3-->
+     - Delete text regions that don't actually contain any transcribe-able text. 
+     ![Screenshot of a layout analysis that has created a line where there isn't text]()
+     - This layout analysis split a line in two, and needs merging. (Sometimes, though less frequently, it will merge something that should be two lines. For this, use the scissor tools above the merge tool.) Holding control, click each region that needs joining (usually the baseline and the line) and then click merge.
+     ![Screenshot of a text region split]()
+     - Sometimes the software will number things in a different order than we'd actually read them. Click on the eye in the top toolbar, and select ```show lines reading order```. If the lines are out of order, click on the numbers to change them.
+     ![screenshot of lines reading order]()
+
+## Check-in
+Complete <a href="https://muw.instructure.com/courses/17249/quizzes/66187">1.Transcribing Check-in</a> here.
 
 # 3. Handwritten Text Recognition
 
-We are using the Transkribus software because it allows you to create Handwritten Text Recognition (HTR) models. <!--link to HTR blog post?--> Over the past 2 years, we have transcribed over 100 letters, and trained the program to begin to recognize Pauline Smith's handwriting. This allows us to run the model on letters in the collection, and start with a more complete transcription to correct, rather than having to transcribe the letter from scratch. 
+We are using the Transkribus software because it allows you to create Handwritten Text Recognition (HTR) models. Over the past 2 years that we've worked on this project, we have transcribed over 100 letters and trained the program to begin to recognize Pauline Smith's handwriting. This allows us to run the model on letters in the collection and start with a more complete transcription to correct, rather than having to transcribe the letter from scratch. 
 
-1. To transcribe with the HTR model, click on the Tools tab, and under Text Recognition, select the model called “Pauline Smith.” You might have to navigate to the next page to find the Pauline Smith model.
+1. To transcribe with the HTR model, click on the Tools tab, and under Text Recognition, select the model called “Pauline Smith 2.0.” You might have to navigate to the next page to find the Pauline Smith model.
 
-<!-- 2 screenshots-->
+![screenshot of the Text recognition tool]()
+
+![screenshot of Pauline Smith's HTR model]()
 
 2. Click Run. The HTR analysis may take anywhere from 20 seconds to 2 minutes. A notification that the “job” is done will pop up when analysis is complete. From there, correct the transcription.
-3. Transcribe each page as you see it, following Smithsonian and Transkribus transcription guidelines. 
+3. Transcribe each page as you see it, following Smithsonian and Transkribus transcription guidelines. You may have a few errors on a page or there may be significant errors. It depends on several things - the quality of the scan, the quality of the document, the handwriting and what utensil they used, etc.!
+
+![screenshot of HTR errors]()
+
 4. Mark your progress as you complete each page.
 
-<!--Progress screenshot-->
+![screenshot of progress menu]()
 
 5. After you've completed editing the transcription, go back over the letter, making sure you didn't miss typos, and you can simultaneously begin tagging the document, which will be explained in the next lesson! 
+
+## Check-in
+Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/66188">2.Transcribing Check-in</a> here.
 
 # 4. Metadata Tags
 
