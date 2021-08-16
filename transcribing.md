@@ -29,9 +29,9 @@ In this module, you will learn:
 
 ## Further reading (optional)
 *  Transkribus Transcribing Conventions, 2021. Read Co-op,  https://readcoop.eu/transkribus/howto/transkribus-transcription-conventions/.
-* Smithsonian, "General Instructions for Transcription and Review," https://transcription.si.edu/instructions 
+* Smithsonian, "General Instructions for Transcription and Review," https://transcription.si.edu/instructions
+* YouTube video of Hillary transcribing a letter from beginning to end: https://youtu.be/-cDD9P0rnLw 
 
-<!--Link somewhere the transcribing a letter start-to-finish video https://youtu.be/-cDD9P0rnLw-->
 
 # 1. Transcribing Guidelines
 
@@ -52,6 +52,8 @@ In order to maintain the integrity of your original document while you are trans
 * Make note of things you don't understand, and Google them to see if you can make sense of the reference.
 * You might find something interesting that you want to come back to! Take notes of the letters you transcribe, and what you find interesting about them.
 
+While it is long, I highly recommend watching <a href="https://youtu.be/-cDD9P0rnLw">this video</a> of transcribing a letter from start to finish. Feel free to follow along in corresponding sections! 
+
 ## Check-in
 
 Practice transcribing a few lines, staying true to the original text with the <a href="https://muw.instructure.com/courses/17249/quizzes/66181">0.Transcribing Check-in</a>.
@@ -64,13 +66,13 @@ Before we get started actually transcribing, we have to tell Transkribus what pa
 The text regions we will work with are:
 
 The page (or "text region"), where text is:
-![screenshot of green text region]()
+![screenshot of green text region](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/text-region-screenshot.png)
 
 The line of text, as in the full, left-to-write line:
-![screenshot of light blue line highlighted]()
+![screenshot of light blue line highlighted](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/line-screenshot.png)
 
 And the baseline, which underlines the words themselves:
-![dark-blue dashed line within the light blue outline]()
+![dark-blue dashed line within the light blue outline](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/baseline-screenshot.png)
 
 ## Run a Layout Analysis
 
@@ -80,17 +82,17 @@ Transkribus does a pretty good job of identifying these text regions for us. The
 2. Under Layout Analysis, make sure you’ve selected all pages.
 3. Click Run
 
-![screenshot of layout analysis]()
+![screenshot of layout analysis](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/layout-analysis-screenshot.png)
 
 4. A notification that the layout analysis is in progress will pop up. After a few moments (between 3 and 10 seconds), the layout (green squares, blue rectangles, and dark blue lines) will appear over the letter’s text.
 5. Correct errors in the layout (e.g. delete text regions or lines that don’t cover text, resize regions that cut off text, reorder line numbers, or merge lines that have been split). Screenshots of example corrections:
 
      - Delete text regions that don't actually contain any transcribe-able text. 
-     ![Screenshot of a layout analysis that has created a line where there isn't text]()
+     ![Screenshot of a layout analysis that has created a line where there isn't text](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/no-text-layout-error.JPG)
      - This layout analysis split a line in two, and needs merging. (Sometimes, though less frequently, it will merge something that should be two lines. For this, use the scissor tools above the merge tool.) Holding control, click each region that needs joining (usually the baseline and the line) and then click merge.
-     ![Screenshot of a text region split]()
+     ![Screenshot of a text region split](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/merge-error-screenshot.png)
      - Sometimes the software will number things in a different order than we'd actually read them. Click on the eye in the top toolbar, and select ```show lines reading order```. If the lines are out of order, click on the numbers to change them.
-     ![screenshot of lines reading order]()
+     ![screenshot of lines reading order](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/line-reading-order-screenshot.JPG)
 
 ## Check-in
 Complete <a href="https://muw.instructure.com/courses/17249/quizzes/66187">1.Transcribing Check-in</a> here.
@@ -101,18 +103,18 @@ We are using the Transkribus software because it allows you to create Handwritte
 
 1. To transcribe with the HTR model, click on the Tools tab, and under Text Recognition, select the model called “Pauline Smith 2.0.” You might have to navigate to the next page to find the Pauline Smith model.
 
-![screenshot of the Text recognition tool]()
+![screenshot of the Text recognition tool](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/htr-step1.png)
 
-![screenshot of Pauline Smith's HTR model]()
+![screenshot of Pauline Smith's HTR model](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/htr-step2.png)
 
 2. Click Run. The HTR analysis may take anywhere from 20 seconds to 2 minutes. A notification that the “job” is done will pop up when analysis is complete. From there, correct the transcription.
 3. Transcribe each page as you see it, following Smithsonian and Transkribus transcription guidelines. You may have a few errors on a page or there may be significant errors. It depends on several things - the quality of the scan, the quality of the document, the handwriting and what utensil they used, etc.!
 
-![screenshot of HTR errors]()
+![screenshot of HTR errors](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/htr-corrections-example.png)
 
 4. Mark your progress as you complete each page.
 
-![screenshot of progress menu]()
+![screenshot of progress menu](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/transcribing-progress.png)
 
 5. After you've completed editing the transcription, go back over the letter, making sure you didn't miss typos, and you can simultaneously begin tagging the document, which will be explained in the next lesson! 
 
@@ -121,7 +123,7 @@ Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/66188">2
 
 # 4. Metadata Tags
 
-Tagging, annotating, or marking-up a document is a common practice for text analysis. Why is this? Think about the things someone might talk to you about in a letter. They might mention people they talked about, places they went, or a book they read. Now think about the contents of 6,000 letters, and all of this information together! Tagging will allow us to use the information in the collection of thousands of letters to track these trends over time. 
+Tagging, annotating, or marking-up a document is a common practice for text analysis. Why is this? Think about the things someone might talk to you about in a letter. They might mention people they talked about, places they went, or a book they read. Now think about the contents of 6,000 letters, and all of this information together! Tagging will allow us to use the information in the collection of thousands of letters to track these trends over time, explore topics, and find people. 
 
 Think of tagging the letter like highlighting categories of information with a different color highlighter. All of the people's names are blue, the places are purple, etc. Transkribus does the same thing.
 
@@ -130,11 +132,11 @@ Think of tagging the letter like highlighting categories of information with a d
 It is tempting to tag everything, but not necessary! You only need to tag:
 1. Important words (e.g. people and places)
 2. When you add something for clarity that isn't there originally (e.g. "[illegible]"). 
-3. If you want to provide further information as context.
+3. If you want to provide further information as context. 
 
 ## Metadata tags, defined.
 
-Here are the tags we have, up until now, decided to use for the Smith Collection. <!--more tag info at https://readcoop.eu/transkribus/howto/how-to-enrich-transcribed-documents-with-mark-up/-->
+Here are the tags we have, to this point, decided to use for the Smith Collection, and their definitions. (For the info below in a Google Doc, click <a href="https://docs.google.com/document/d/1zpzWtUEvXBDhJAt9xNxpp4Kif2ov4V-y1nGntZbPqyo/edit?usp=sharing">here</a>. And for more info about how Transkribus feels about tags, click <a href="https://readcoop.eu/transkribus/howto/how-to-enrich-transcribed-documents-with-mark-up/">here</a>.) 
 
 1. **person** - when any person’s name is mentioned within the body of the letter (e.g. “Daddy,” Martha, Gilbert, etc.)
 2. **place** - when a place name is mentioned within the body of the letter. This does not usually include general places like Sunday school or hospital. Examples would be town names like Bruce or Memphis.
@@ -149,16 +151,25 @@ sender - The person who sent the letter, either in the return address, or in the
 10. **unclear** - when you write something in the transcription, but aren’t sure of what it actually says in the letter: a guess.
 11. **gap** (formerly supplied) - when you include something (i.e. [illegible], a note, etc.) that isn’t in the original letter to give clarity, but to prevent the HTR from picking up the note.
 
-<!--Assessment with examples of different scenarios for tags. Include recipient v. person, place v. organization, title, gap, and return address-->
-
 ## How to tag something
 
 1. To tag something, highlight the text you want to tag, right-click, and from “All tags,” select the relevant tag.
-<!--screenshot-->
+
+![Screenshot of how to tag something](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/tag-screenshot.png)
 
 2. If the tag isn’t in the list, go to the metadata menu, then the Textual menu, and click Customize. 
-<!--screenshot-->
-3. Click “Create new tag,” then type in the name of the tag, lowercase, like it’s shown in the Tag definitions document. 
-<!--screenshot-->
 
-# 5. Exporting files in Transkribus
+![Screenshot of customize tag](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/customize-tag.JPG)
+
+3. Click “Create new tag,” then type in the name of the tag, lowercase, like it’s shown in the Tag definitions document. 
+
+![Screenshot of creating a new tag](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/create-new-tag.JPG)
+
+## Check-in
+Tags are sort of tricky! Let's go over the different scenarios in the next <a href="https://muw.instructure.com/courses/17249/quizzes/66318">3.Transcribing Checkin</a>.>
+
+As a reminder, there is a video of transcribing a letter from beginning to end, which you can watch as a refresher: https://youtu.be/-cDD9P0rnLw.
+
+At the end of this lesson, you should be able to fill out the full transcription and tags in your letters, and turn them in in Canvas.
+
+<!--# 5. Exporting files in Transkribus-->
