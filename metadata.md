@@ -14,7 +14,7 @@ In this lesson, you will:
 2. [Metadata Standards](#2-metadata-standards)
 3. [Metadata Guidelines for the Smith Papers](#3-metadata-guidelines-for-the-smith-papers)
 4. [Library of Congress Subject Headings](#4-library-of-congress-subject-headings)
-5. [Project and Data Management](#5-project-and-data-management)
+5. [Project and Data Management](#5-project-and-data-management) (For LIB 201 students)
 
 ## Required Reading
 - Drucker, Johanna. "Ontologies and Metadata Standards," _Introduction to Digital Humanities_ 2014, pp 24-27. (<a href="https://muw.instructure.com/files/1655565/download?download_frd=1">Available for LIB 201 students in Canvas</a>).
@@ -52,7 +52,7 @@ Now, think about this in terms of a box of letters that have been scanned. In or
 <img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/smith-letter-example.jpg" alt="screenshot of an envelope and a letter from the Ellard-Murphree-Pilgreen Smith letters" width="" height="">
 
 ## Check in
-Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/65016"> 0.Metadata Check-in</a> here before moving to the next section.
+Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/65016"> 1.Metadata Check-in</a> here before moving to the next section. If you are enrolled in HO 303, complete your section's <a href="https://muw.instructure.com/courses/16930/quizzes/65843">1.Metadata check-in</a> here
 
 # 2. Metadata Standards
 
@@ -71,7 +71,7 @@ Open our <a href="https://drive.google.com/file/d/16VIQ4KxbBbFnjnrbgR-Uv1t1H0_xS
 
 ## Check-in
 
-Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/65017">1.Metadata Check-in</a> here.
+Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/65017">2.Metadata Check-in</a> here. If you are enrolled in HO 303, complete your section's <a href="https://muw.instructure.com/courses/16930/quizzes/65847">2.Metadata check-in</a> here.
 
 # 3. Metadata Guidelines for the Smith Papers
 
@@ -148,7 +148,7 @@ Using the letter below and the <a href="https://drive.google.com/file/d/16VIQ4Kx
 
 <a href="https://github.com/hillaryAHR/LIB-201/blob/main/smith-papers-files/mcj-dp018-19381010-smith-martha-001.pdf" type="application/pdf" width="100%" height="500px"> Click here to access the letter</a> 
 
-Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/65018">2.Metadata check-in</a> here.
+Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/65018">3.Metadata check-in</a> here. If you are enrolled in HO 303, complete your section's <a href="https://muw.instructure.com/courses/16930/quizzes/65845">3.Metadata check-in</a> here.
 
 <!--* Object Identifier
 * Title 
@@ -185,7 +185,7 @@ In this example, ```Motion pictures``` is broadly used enough in this list of re
 Let's pause. Controlled vocabularies are great for consistency and linking things, but they can also be problematic, especially when it comes to describing historically marginalized people. Recently, catalogers have rewritten guideline to change the subject heading "illegal alien" to "undocumented immigrant." In the first heading, the person was criminalized, and in the second heading, the phrase is descriptive, and not as loaded. When choosing a subject heading, keep in mind the consequences of your words.Another example is the subject heading <a href="https://mlp.ent.sirsi.net/client/en_US/muw/search/results?qu=Minorities.&lm=MUWITEMS&rt=false%7C%7C%7CSUBJECT%7C%7C%7CSubject">"minorities."</a> In addition to not being very descriptive, it is often a loaded term that de-humanizes a group of people. Your job in choosing a subject heading is to create a helpful category for users who are interacting with items in a collection. If you came across a folder of photographs labeled "minorities," what would you expect to find? Even if you didn't know what was in there, what would be more specific, more helpful, or more appropriate?
 
 ## Check-in
-Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/65081">3.Metadata check-in</a> here.
+Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/65081">4.Metadata check-in</a> here. If you are enrolled in HO 303, complete your section's <a href="https://muw.instructure.com/courses/16930/quizzes/65842">4.Metadata check-in</a> here.
 
 # 5. Project and Data management
 By this point, you have seen how much behind-the-scenes work that goes into creating metadata from scratch! It's a lot! And this is just when you're creating metadata on your own. **But we are working as a group!** We will discuss what we'll need to do as a group in class, but consider these parts of project and data management that are embedded in creating digital scholarship.
@@ -225,7 +225,7 @@ Last, but not least, it's important to consider the principals under which you'l
 * <a href="http://librev.info/principles-conduct.php">"Pledges," from Scott Weingart's blog</a>
 
 ## Project Management Plan
-Use these 4 sections - Progress, Preservation, Communication, and Principles - to answer <a href="https://muw.instructure.com/courses/17249/quizzes/65613">the questions in the Data and Project Management Plan</a> in Canvas. <!--link to existing project/data management plan here? https://docs.google.com/document/d/1d45FDLsrycW5NH5WUWdToStkvSNz7R-3EV50Y-fgKMU/edit?usp=sharing-->
+Use these 4 sections - Progress, Preservation, Communication, and Principles - to answer <a href="https://muw.instructure.com/courses/17249/quizzes/65613">the questions in the Data and Project Management Plan</a> in Canvas. (HO 303 students do not need to complete this section) <!--link to existing project/data management plan here? https://docs.google.com/document/d/1d45FDLsrycW5NH5WUWdToStkvSNz7R-3EV50Y-fgKMU/edit?usp=sharing-->
 
 
 <!--section on project pitch?-->
