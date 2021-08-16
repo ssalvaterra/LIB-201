@@ -23,8 +23,11 @@ For the Smith Papers collection, we are asking these questions, more or less!
 3. [Data Modeling for Visualizing a Network](#3-data-modeling-for-visualizing-a-network)
 4. [Software for visualizing a network analysis](#4-software-for-visualizing-a-network-analysis)
 
-## Further Readings and Tutorials:
+## Required Readings:
 * Rawson and Muñoz, "Against Cleaning." 2016. *Curating Menus*,  http://curatingmenus.org/articles/against-cleaning/. 
+* Scott Weingart, 2011. "Demystifying Networks," _Journal of Digital Humanities_ 1(1). http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/ 
+
+## Further Readings and tutorials (optional)
 * Thomas Padilla and Brandon Locke. "Introduction to Network Analysis." http://www.thomaspadilla.org/cytoscape/ 
 * Miriam Posner, "Network Analysis." http://miriamposner.com/classes/dh101f16/tutorials-guides/data-visualization/network-analysis/ 
 * Miriam Posner, "Creating a Network Graph with Gephi." http://miriamposner.com/dh101f14/wp-content/uploads/2014/11/Creating-a-Network-Graph-with-Gephi.pdf
