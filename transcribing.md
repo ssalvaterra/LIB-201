@@ -30,6 +30,7 @@ In this module, you will learn:
 ## Further reading (optional)
 *  Transkribus Transcribing Conventions, 2021. Read Co-op,  https://readcoop.eu/transkribus/howto/transkribus-transcription-conventions/.
 * Smithsonian, "General Instructions for Transcription and Review," https://transcription.si.edu/instructions
+* YouTube video of Hillary introducing Transkribus: https://youtu.be/szGPn0K_WWE
 * YouTube video of Hillary transcribing a letter from beginning to end: https://youtu.be/-cDD9P0rnLw 
 
 
@@ -56,7 +57,7 @@ While it is long, I highly recommend watching <a href="https://youtu.be/-cDD9P0r
 
 ## Check-in
 
-Practice transcribing a few lines, staying true to the original text with the <a href="https://muw.instructure.com/courses/17249/quizzes/66181">0.Transcribing Check-in</a>.
+Practice transcribing a few lines, staying true to the original text with the <a href="https://muw.instructure.com/courses/17249/quizzes/66181">0.Transcribing Check-in</a>. For students enrolled in HO 303, your <a href="https://muw.instructure.com/courses/16930/quizzes/66567">1.Transcribing Check-in</a> is here.
 
 
 # 2. Text Regions in Transkribus
@@ -95,7 +96,7 @@ Transkribus does a pretty good job of identifying these text regions for us. The
      ![screenshot of lines reading order](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/line-reading-order-screenshot.JPG)
 
 ## Check-in
-Complete <a href="https://muw.instructure.com/courses/17249/quizzes/66187">1.Transcribing Check-in</a> here.
+Complete <a href="https://muw.instructure.com/courses/17249/quizzes/66187">2.Transcribing Check-in</a> here. Students enrolled in HO 303, complete <a href="https://muw.instructure.com/courses/16930/quizzes/66568">2.Transcribing Check-in here</a>.
 
 # 3. Handwritten Text Recognition
 
@@ -119,7 +120,7 @@ We are using the Transkribus software because it allows you to create Handwritte
 5. After you've completed editing the transcription, go back over the letter, making sure you didn't miss typos, and you can simultaneously begin tagging the document, which will be explained in the next lesson! 
 
 ## Check-in
-Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/66188">2.Transcribing Check-in</a> here.
+Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/66188">3.Transcribing Check-in</a> here. Students in HO 303, complete <a href="https://muw.instructure.com/courses/16930/quizzes/66569">3.Transcribing Check-in</a> here.
 
 # 4. Metadata Tags
 
@@ -166,10 +167,38 @@ sender - The person who sent the letter, either in the return address, or in the
 ![Screenshot of creating a new tag](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/create-new-tag.JPG)
 
 ## Check-in
-Tags are sort of tricky! Let's go over the different scenarios in the next <a href="https://muw.instructure.com/courses/17249/quizzes/66318">3.Transcribing Checkin</a>.>
+Tags are sort of tricky! Let's go over the different scenarios in the next <a href="https://muw.instructure.com/courses/17249/quizzes/66318">3.Transcribing Checkin</a>.> Students in HO 303 can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/66570">4.Transcribing Check-in here</a>.
 
 As a reminder, there is a video of transcribing a letter from beginning to end, which you can watch as a refresher: https://youtu.be/-cDD9P0rnLw.
 
 At the end of this lesson, you should be able to fill out the full transcription and tags in your letters, and turn them in in Canvas.
 
-<!--# 5. Exporting files in Transkribus-->
+# 5. Exporting files in Transkribus
+After you have transcribed (or corrected a transcription of) a letter, tagged it, and proofed it, it has been digitally transformed, and we can now do fun things with the transcriptions and metadata. But before you can do that, you have to export the files. 
+
+Before the step-by-step, I recommend watching the 3-minute video on this process: https://youtu.be/k21t3jGL4LM. 
+
+## Export
+
+Click the export button (a manila folder with a green, right-facing arrow), and you will choose the following files to export:
+* .docx - to give you a formatted version of the transcript
+* .txt - to give a non-formatted version of the transcript
+* .xlsx (tag export) - to give you structured lists of the tags you created
+
+__If you would like to export more than one document, select the radio button that says "Current Collection," and choose which letters to export.
+
+![Screenshot of Export Document option](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/export.JPG)
+
+## Extract zipped files
+When you click OK, Transkribus emails you a temporary link where you can access the compressed files you just created. Compressing them allows them to send large amounts of data over email. When you click the link, it will ask you to save the compressed files (.zip).
+
+![Screenshot of saving compressed folder](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/extract-files-1.JPG)
+
+Saving them as compressed files stores them to your computer, but does not let you access them until you extract them. Right-click your compressed folder and click ```Extract All...``` then tell your computer where you want to extract them to. I recommend saving them to a folder where you're keeping files for this class. (We will also store them on a cloud server, e.g. Google Drive or our Institutional Repository at some point.)
+
+![Screenshot of extracting files to a destination](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/extract-files-2.JPG)
+
+After you extract the files, you should notice that your folder no longer has a zipper on it, and you have 3 files that represent digital versions of the letter you prepared. You are now ready to start playing with these digital artifacts!
+
+<!--Link to upload exported letters in Canvas-->
+
