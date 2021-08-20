@@ -200,6 +200,22 @@ There are lots of ways to keep up with the progress of group projects. Often, a 
 ## Preservation
 Essentially, we are creating a high-quality digital archival record for a physical item. There's a lot that goes into that! Consider the following:
 * How do you save things so other people can access them?
+* Consider the types and formats of data you're working with, and how you might save, access, and preserve them. A very short list of data types that _could_ (not necessarily will!) come from our project include:
+    * Non-digital text (handwritten notes, sketches)
+    * Digital texts or digital copies of text (.txt, .pdf, .md, .doc, .otf, .rtf, .tei, etc.)
+    * Statistical analysis (SPSS, SAS, R)
+    * Data visualizations
+    * Computer code
+    * Standard operating procedures and protocols
+    * Artistic products
+    * Spreadsheets (e.g. .xlsx, .csv)
+    * Audio (e.g. .mp3, .wav)
+    * Video (e.g. .mov, .mp4)
+    * Geographic Information Systems (GIS) and spatial data (e.g. .shp, .dbf, .shx, .kml)
+    * Digital copies of images (e.g. .png, .jpeg, .tiff)
+    * Web files (e.g. .html, .css)
+    * Matlab files & 3D Models (e.g. .stl, .obj)
+    * Collection of digital objects acquired and generated during research (e.g. .zot files, bibliographies, folders of files)
 * How and where do you save backup copies?
 * How do you ensure your work gets credit?
 * How do you ensure quality control (i.e. consistency in the metadata, image quality, etc.)?
