@@ -238,7 +238,7 @@ Last, but not least, it's important to consider the principals under which you'l
 
 * <a href="https://coloredconventions.org/about/principles/">Colored Conventions Projects Values Statement</a>
 * <a href="http://librev.info/principles-conduct.php">LibRev Code of Conduct</a>
-* <a href="http://librev.info/principles-conduct.php">"Pledges," from Scott Weingart's blog</a>
+* <a href="http://www.scottbot.net/HIAL/index.html@p=6336.html">"Pledges," from Scott Weingart's blog</a>
 
 ## Project Management Plan
 Use these 4 sections - Progress, Preservation, Communication, and Principles - to answer <a href="https://muw.instructure.com/courses/17249/quizzes/65613">the questions in the Data and Project Management Plan</a> in Canvas. (HO 303 students do not need to complete this section) <!--link to existing project/data management plan here? https://docs.google.com/document/d/1d45FDLsrycW5NH5WUWdToStkvSNz7R-3EV50Y-fgKMU/edit?usp=sharing-->
