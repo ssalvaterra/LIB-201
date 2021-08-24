@@ -23,6 +23,7 @@ In this module, you will learn:
 ## Required before beginning the lesson
 ### Reading
 * Woodford, Chris. 2021. "Optical Character Recognition," _Explain that Stuff_, https://www.explainthatstuff.com/how-ocr-works.html. 
+* <a href="https://docs.google.com/spreadsheets/d/1ClOjUVQ7JndtP13YYtbF7sQp1PBBgdGl/edit?usp=sharing&ouid=108103280018141344202&rtpof=true&sd=true">"About the Smith Papers Collection."</a> This document gives context for the letters and describes the main contributors. Read this before you begin transcribing. 
 
 ### Installations
 * Transkribus: https://readcoop.eu/transkribus/?sc=Transkribus (<a href="https://readcoop.eu/transkribus/wiki/download-and-installation/">Installation Instructions here.</a> Be sure you have Java 8 installed before installing Transkribus. This is in the instructions, but not in the first step. If you run into an issue, email your instructor!)
