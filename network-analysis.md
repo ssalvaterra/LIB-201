@@ -17,6 +17,14 @@ For the Smith Papers collection, we are asking these questions, more or less!
 | How connected is this network? | Did everyone write letters to each other, or just some people? |
 | What are the distinct groups? | Who wrote to each other most often? |
 
+## Objectives:
+* Understand how network analyses help answer research questions with quantitative and visual components.
+* Identify parts of a network
+* Analyze relational data using different modes of centrality to determine the influence of individual nodes within the network
+* Clean and model data according to a specific question
+* Use Palladio to customize and interrogate the network
+* Explain the existing relationships in the network
+
 ## Lessons:
 1. [Network Analysis Terms](#1-network-analysis-terms)
 2. [Analyzing Relational Data](#2-analyzing-relational-data)
@@ -46,6 +54,10 @@ Another thing to consider when making highly visual graphs is how accessible you
 ## Check-in 
 
 Click and log in to Canvas for the <a href="https://muw.instructure.com/courses/17249/quizzes/65104"> 0.Network Analysis check-in</a>
+
+<!--### Acknowledgements
+* Images of sample networks used with permission of Dr. Katayoun Torabi.
+* Images of steps in Palladio used from https://hdlab.stanford.edu/palladio/tutorials/data/. -->
 
 
 # 1. Network Analysis Terms
@@ -139,8 +151,6 @@ Click to log in to Canvas and complete the <a href="https://muw.instructure.com/
 
 In order to tell the software (which we go over in the next section) how to recognize which nodes are connected, and by what paths, we are going to create a spreadsheet with "tidy data." Each column will have a variable, and each row will be an observation of that variable.
 
-<!--screenshot of tidy data?-->
-
 The most important thing to remember when structuring data for a network analysis is this: what question are you trying to answer with a network analysis graph? Are you trying to see who someone is writing to in a letter? Are you trying to find out who has written the most letters and who has received the most? Are you trying to figure out who gets mentioned more times by one person than another? All of this matters. For instance, if we wanted to see where the letters were coming from and who is writing to whom, we could structure the data like this:
 
 | Source | Target | Address | Return Address |
@@ -149,7 +159,7 @@ The most important thing to remember when structuring data for a network analysi
 | Christine Smith | Pauline Smith | Starkville | Pittsboro |
 | Pauline Smith | Martha Smith | Pittsboro | Meridian |
 
-In this graph, each column heading (the variables) has one observation (the information in one letter). That's tidy data! <!--link to Hadley Wickham article?-->
+In this graph, each column heading (the variables) has one observation (the information in one letter). That's tidy data!
 
 Say, for instance, though, that we want to see all of the people mentioned in several letters to get a better idea of the network of people in the lives of the Smith family members and their friends. We could structure our data so that each source (the letter writer) has a target (the person they write to and the people they mention), and each target has either a reciprocal (undirected) or non-reciprocal (directed) edge. 
 
@@ -168,7 +178,7 @@ Luckily, we have done a lot of that work already, and in this class, you won't b
 * <a href="https://docs.google.com/spreadsheets/d/1LJXj-VJ2F3eOcuAfqeRXAaQraj9iRTC3nw_zkUPd_xo/edit?usp=sharing"> Name tags - Structured.</a> This is what it looks like when you have added some structure to those tags.
 
 Here are the steps you'll need to take in order to get from names and data you tagged in the letters, to structured data that you can put into a network graph software. With each step is a video that shows you how to do it!
-<!--reference NA worklog from Spr2021 semester-->
+
 1. Export the Tags metadata from Transkribus. (<a href="https://drive.google.com/file/d/1TbXO2yrcQtWZng4FGCDrHO17T6V22NIq/view"> Watch this in a video here.</a>)
 2. Copy and paste the names of people in the tags as transposed data into the ongoing "Name Tags - Unstructured" sheet, so we have a list of all letters and those who are named. (<a href="https://drive.google.com/file/d/1Oaxu__l8hu0pOwPaEnhIV4q43lCp5-8D/view">Watch this in a video here.</a>):
      * Highlight the column of names in the sheet of exported tags and copy them
@@ -178,29 +188,52 @@ Here are the steps you'll need to take in order to get from names and data you t
      * De-duplicate names that appear more than once, since you just want one representation of that person per letter. (To measure our network, we are not including each time a person is mentioned in a letter...just that they are mentioned at all!)
      * Replace _known_ names with their authority control names (Last name, First name)  or reconcile names that are slightly different (i.e. ```Foss``` and ```Uncle Foss```) for consistency. (If you don't know them, that's ok! Remember, we aren't trying to erase anyone's name by assuming. Kate and Katherine might not be the same person. We don't know! Embrace the chaos and keep assumptions to a minimum!)
 
+<!--do I have a screenshot of an example of this?-->
+
 This process will take a while, but remember, that is normal! Give yourself time, and take plenty of breaks!  
 
 # 4. Software for visualizing a network analysis
 
-Now that we've prepared our data, it's time to plug it into a network analysis software. There are several different softwares for visualizing a network, and they all serve different purposes. We are going to use <a href="https://hdlab.stanford.edu/palladio/">Palladio</a> because it is free, has a relatively low accessibility bar, will work in your browser, and most importantly, will allow us to use the visualization to answer our question.
+We have prepared our data (it won't be the last time!), so now it's time to see what that looks like in a network analysis software's visualization. There are several different softwares for visualizing a network, and they all serve different purposes. We are going to use <a href="https://hdlab.stanford.edu/palladio/">Palladio</a> because it is free, has a relatively low accessibility bar, will work in your browser, and most importantly, will allow us to use the visualization to answer our questions: What does the  network of people in the lives of the Smith family members look like? Where are the connections and who facilitates them?
 
 ## Preparing your visualization
 
-* Saving as a CSV vs. Excel file --> Why?
-* Input Data - either copy and paste or upload
-* Resolve issues for the computer to read data
-* Choose dimensions (i.e. Source, Target, other) --> Why?
+### 1. Load your data
+You can either copy and paste the cells from your spreadsheet (columnn headings included), or you can upload your file as a .csv file - *.csv, or comma separated value files are more flexible among different platforms, and is a simpler, less formatted version of tabular (or structured) data.* 
 
-## Check-in
-Eyeball test - what can you start to answer with the image you see? What looks like it needs fixing?
+Palladio will not support an .xlsx file!
 
-## Customizing
-* filter based on directed/undirected
-* Facet data
+<!--screenshot?-->
+
+### 2. Resolve flagged issues in Palladio
+
+Palladio flags inconsistencies in data, like the use of special characters or multiple observations in one variable (i.e. more than one value in a cell--commas are tricky!). Use Palladio's verification tools, sorting options, and searching option to take another **thorough** look at your data. <!--https://hdlab.stanford.edu/palladio/tutorials/data/-->
+
+This is an opportunity to evaluate if you need to go back and clean the original spreadsheet! For instance, if you are reviewing the issues, and you find that:
+
+* a person's name recorded in 2 different ways,
+* spelling errors, or
+* the type of data (i.e. text, number, date, etc.) is displayed incorrectly,
+
+you want to take this opportunity to clean your data again. This is part of the process!
+
+<!--screenshot-->
+
+### 3. Choose which dimensions to visualize
+* Source dimension - this is the sender of the letter
+* Target dimension - these will be both the recipient and the people mentioned
+
+<!--screenshot-->
+
+### 4. Customize your graph
+* Add facets to your data
+* Filter what appears in the network
 * Drag nodes manually
-* Export static image
 
+<!--screenshot or link to https://hdlab.stanford.edu/palladio/tutorials/graph/-->
 
+<!--## Check-in
+Eyeball test - what can you start to answer with the image you see? What looks like it needs fixing?-->
 
 <!--link to a tutorial-->
 
