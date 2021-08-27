@@ -56,7 +56,8 @@ Another thing to consider when making highly visual graphs is how accessible you
 Click and log in to Canvas for the <a href="https://muw.instructure.com/courses/17249/quizzes/65104"> 0.Network Analysis check-in</a>
 
 <!--### Acknowledgements
-* Images of sample networks used with permission of Dr. Katayoun Torabi.
+* Images of sample networks used with permission of Dr. Katayoun Torabi, Programming for Humanists Instructor, Center of Digital Humanities Research at Texas A&M University. http://programming4humanists.tamu.edu/
+* Images of sample networks from https://www.coursera.org/lecture/networks-illustrated/closeness-centrality-part-ii-cqA9S
 * Images of steps in Palladio used from https://hdlab.stanford.edu/palladio/tutorials/data/. -->
 
 
