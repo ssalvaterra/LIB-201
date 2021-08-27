@@ -18,6 +18,7 @@ Think of the data we've already gathered in the Smith letters. Which data allow 
 ## Required Reading
 - White, Phil. (2014). "Story map blog" https://blogs.library.duke.edu/data/2014/10/28/story-maps/
 - Manuel Gimond, 2021, "Introduction to GIS," _Intro to GIS and Spatial Analysis_. https://mgimond.github.io/Spatial/introGIS.html
+- Shannon Mattern, 2015, "Gaps in the Map: Why we're mapping everything, and why not everything can, or should, be mapped." https://wordsinspace.net/2015/09/18/gaps-in-the-map-why-were-mapping-everything-and-why-not-everything-can-or-should-be-mapped/ 
 
 ## Further Reading (optional)
 - Lisa Charlotte Rost, 2021, "Which color scale to use when visualizing data" _Datawrapper_, https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/
