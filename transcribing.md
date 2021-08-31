@@ -14,11 +14,11 @@ In this module, you will learn:
 * How to use style and metadata tags in Transkribus
 
 ## Lessons
-1. [Transcribing Guidelines](#1.-transcribing-guidelines)
-2. [Text Regions in Transkribus](#2.-text-regions-in-transcribus)
-3. [Handwritten Text Recognition](#3.-handwritten-text-recognition)
-4. [Metadata Tags](#4.-metadata-tags)
-5. [Exporting Files in Transkribus](#5.-exporting-files-in-transkribus)
+1. [Transcribing Guidelines](#1-transcribing-guidelines)
+2. [Text Regions in Transkribus](#2-text-regions-in-transcribus)
+3. [Handwritten Text Recognition](#3-handwritten-text-recognition)
+4. [Metadata Tags](#4-metadata-tags)
+5. [Exporting Files in Transkribus](#5-exporting-files-in-transkribus)
 
 ## Required before beginning the lesson
 ### Reading
@@ -186,7 +186,7 @@ Click the export button (a manila folder with a green, right-facing arrow), and 
 * .txt - to give a non-formatted version of the transcript
 * .xlsx (tag export) - to give you structured lists of the tags you created
 
-__If you would like to export more than one document, select the radio button that says "Current Collection," and choose which letters to export.
+_If you would like to export more than one document, select the radio button that says "Current Collection," and choose which letters to export._
 
 ![Screenshot of Export Document option](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/export.JPG)
 
