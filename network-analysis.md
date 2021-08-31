@@ -53,12 +53,12 @@ Another thing to consider when making highly visual graphs is how accessible you
 
 ## Check-in 
 
-Click and log in to Canvas for the <a href="https://muw.instructure.com/courses/17249/quizzes/65104"> 0.Network Analysis check-in</a>
+Click and log in to Canvas for the <a href="https://muw.instructure.com/courses/17249/quizzes/65104"> 0.Network Analysis check-in</a>. For students in HO 303, complete the <a href="https://muw.instructure.com/courses/16930/quizzes/65844">0.Network Analysis check-in</a> here.
 
-<!--### Acknowledgements
-* Images of sample networks used with permission of Dr. Katayoun Torabi, Programming for Humanists Instructor, Center of Digital Humanities Research at Texas A&M University. http://programming4humanists.tamu.edu/
+### Acknowledgements
+* Lecture notes from Dr. Katayoun Torabi, Programming for Humanists Instructor, Center of Digital Humanities Research at Texas A&M University. http://programming4humanists.tamu.edu/
 * Images of sample networks from https://www.coursera.org/lecture/networks-illustrated/closeness-centrality-part-ii-cqA9S
-* Images of steps in Palladio used from https://hdlab.stanford.edu/palladio/tutorials/data/. -->
+* Images of steps in Palladio used from https://hdlab.stanford.edu/palladio/tutorials/data/.
 
 
 # 1. Network Analysis Terms
@@ -95,7 +95,7 @@ Edges represent the relationships between nodes. They usually indicate some kind
 
 ## Check-in
 
-Click to login to Canvas and complete the <a href="https://muw.instructure.com/courses/17249/quizzes/65105">1.Network Analysis</a> check-in.
+Click to login to Canvas and complete the <a href="https://muw.instructure.com/courses/17249/quizzes/65105">1.Network Analysis</a> check-in. Students in HO 303 can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/65839">1.Network Analysis check-in here</a>
 
 # 2. Analyzing relational data
 Did that phrase make your stomach turn? Don't worry! We are not actually doing math in this class, but we will be using mathematic concepts. We analyze networks by calculating the ways nodes influence each other. Let's break it down.
@@ -104,7 +104,7 @@ Did that phrase make your stomach turn? Don't worry! We are not actually doing m
 
 ## Centrality
 
-Centrality is the relative influence of individual nodes within the network. In the image above, the nodes have different sizes and colors to indicate their influence. Notice that Frances has several direct connections, so they are the largest node. Elene has only 1 direct connection, and therefore is the smallest. From this, we infer that Frances has a more influential role in the network. 
+Centrality is the relative influence of individual nodes within the network. In the image above, the nodes have different sizes and colors to indicate their influence. Notice that Pauline has several direct connections, so they are the largest node. Other nodes, like Martha, have fewer connections, and therefore appear smaller. From this, we infer that Pauline has a more influential role in the network. 
 
 For this class, we will measure centrality with 3 different metrics:
 * Degree
@@ -146,7 +146,7 @@ This is the last metric to consider here, and it's essentially an algorithm that
 Whew! That's it.-->
 
 ## Check-in
-Click to log in to Canvas and complete the <a href="https://muw.instructure.com/courses/17249/quizzes/65106">2.Network Analysis</a> check in.
+Click to log in to Canvas and complete the <a href="https://muw.instructure.com/courses/17249/quizzes/65106">2.Network Analysis</a> check in. Students in HO 303 can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/65846">2.Network Analysis check-in</a> here.
 
 # 3. Data Modeling for Visualizing a Network
 
@@ -165,14 +165,13 @@ In this graph, each column heading (the variables) has one observation (the info
 Say, for instance, though, that we want to see all of the people mentioned in several letters to get a better idea of the network of people in the lives of the Smith family members and their friends. We could structure our data so that each source (the letter writer) has a target (the person they write to and the people they mention), and each target has either a reciprocal (undirected) or non-reciprocal (directed) edge. 
 
 ## Check in
-Using a pencil and paper, sketch what you think the second example's graph might look like. Upload that sketch in Cavnas: <a href="https://muw.instructure.com/courses/17249/quizzes/65107">3.Network Analysis Check-in</a> 
+Using a pencil and paper, sketch what you think the second example's graph might look like. Upload that sketch in Cavnas: <a href="https://muw.instructure.com/courses/17249/quizzes/65107">3.Network Analysis Check-in</a>. Students in HO 303 can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/65841">3.Network Analysis check-in</a> here.
 
 ## Cleaning Data
 
 Wouldn't it be nice if you could just copy and paste some names in a list into a spreadsheet, and click a button to make a nice network graph? IT NEVER WORKS THAT WAY! But that's part of the work of the digital scholar - is to structure data through a process of cleaning and testing it, in order to see if they can answer a question through visualization. Hadley Wickham, author of <a href="https://vita.had.co.nz/papers/tidy-data.pdf">"Tidy Data,"</a> says:
 
 > It is often said that 80% of data analysis is spent on the process of cleaning and preparing the data (Dasu and Johnson 2003). Data preparation is not just a first step, but must be repeated many times over the course of analysis as new problems come to light or new data is collected.
-
 
 Luckily, we have done a lot of that work already, and in this class, you won't be starting from scratch, but you will be adding to it, then doing some of your own restructuring. Here's what we have so far: 
 * <a href="https://docs.google.com/spreadsheets/d/1cfy1RTjTPrOgUZPAuafl7VUKKC-RyORD4MJDqciEy64/edit?usp=sharing"> Name tags - Unstructured.</a> This is what it looks like when you export the metadata tags you created from Transkribus, and copy and paste them in a sheet together. <!--more on that process?-->
@@ -187,9 +186,9 @@ Here are the steps you'll need to take in order to get from names and data you t
      * Cut this list you just pasted, and then paste them again using the Paste Special > Paste Transposed option. Ta da!
 3. Clean the names **that you can** (<a href="https://drive.google.com/file/d/1oWv-YkLRUZCCWJJBEUw6VZjlUEKtMCJ1/view">Watch this in a video here.</a>):  
      * De-duplicate names that appear more than once, since you just want one representation of that person per letter. (To measure our network, we are not including each time a person is mentioned in a letter...just that they are mentioned at all!)
-     * Replace _known_ names with their authority control names (Last name, First name)  or reconcile names that are slightly different (i.e. ```Foss``` and ```Uncle Foss```) for consistency. (If you don't know them, that's ok! Remember, we aren't trying to erase anyone's name by assuming. Kate and Katherine might not be the same person. We don't know! Embrace the chaos and keep assumptions to a minimum!)
+     * Replace _known_ names with their authority control names (Last name, First name)  or reconcile names that are slightly different (i.e. ```Bro Breland``` and ```Brother Breland```) for consistency. If you don't know them, that's ok! Remember, we aren't trying to erase anyone's name by assuming (see <a href="http://curatingmenus.org/articles/against-cleaning/">"Against Cleaning"</a> again!). Kate and Katherine might not be the same person. We don't know! Embrace the chaos and keep assumptions to a minimum!
 
-<!--do I have a screenshot of an example of this?-->
+<img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/tag-cleaning.png" alt="spreadsheet screenshot of similar names, including Bro. Brealand and Bro Breland" width="" height="">
 
 This process will take a while, but remember, that is normal! Give yourself time, and take plenty of breaks!  
 
@@ -219,6 +218,7 @@ This is an opportunity to evaluate if you need to go back and clean the original
 you want to take this opportunity to clean your data again. This is part of the process!
 
 <!--screenshot-->
+<!--check-in: post before and after? Or detailed worklog of the changes that were made?-->
 
 ### 3. Choose which dimensions to visualize
 * Source dimension - this is the sender of the letter
