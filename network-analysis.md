@@ -165,7 +165,7 @@ In this graph, each column heading (the variables) has one observation (the info
 Say, for instance, though, that we want to see all of the people mentioned in several letters to get a better idea of the network of people in the lives of the Smith family members and their friends. We could structure our data so that each source (the letter writer) has a target (the person they write to and the people they mention), and each target has either a reciprocal (undirected) or non-reciprocal (directed) edge. 
 
 ## Check in
-Using a pencil and paper, sketch what you think the second example's graph might look like. Upload that sketch in Cavnas: <a href="https://muw.instructure.com/courses/17249/quizzes/65107">3.Network Analysis Check-in</a>. Students in HO 303 can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/65841">3.Network Analysis check-in</a> here.
+Using a pencil and paper, sketch what you think the second example's graph might look like. Upload that sketch in Cavnas: <a href="https://muw.instructure.com/courses/17249/quizzes/65107">3.Network Analysis Check-in</a>. Students in HO 303 can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/65841">3.Network Analysis check-in</a> here. <!--should I take this part out for the HO 303 students?-->
 
 ## Cleaning Data
 
@@ -174,8 +174,8 @@ Wouldn't it be nice if you could just copy and paste some names in a list into a
 > It is often said that 80% of data analysis is spent on the process of cleaning and preparing the data (Dasu and Johnson 2003). Data preparation is not just a first step, but must be repeated many times over the course of analysis as new problems come to light or new data is collected.
 
 Luckily, we have done a lot of that work already, and in this class, you won't be starting from scratch, but you will be adding to it, then doing some of your own restructuring. Here's what we have so far: 
-* <a href="https://docs.google.com/spreadsheets/d/1cfy1RTjTPrOgUZPAuafl7VUKKC-RyORD4MJDqciEy64/edit?usp=sharing"> Name tags - Unstructured.</a> This is what it looks like when you export the metadata tags you created from Transkribus, and copy and paste them in a sheet together. <!--more on that process?-->
-* <a href="https://docs.google.com/spreadsheets/d/1LJXj-VJ2F3eOcuAfqeRXAaQraj9iRTC3nw_zkUPd_xo/edit?usp=sharing"> Name tags - Structured.</a> This is what it looks like when you have added some structure to those tags.
+* <a href="https://docs.google.com/spreadsheets/d/1cfy1RTjTPrOgUZPAuafl7VUKKC-RyORD4MJDqciEy64/edit?usp=sharing"> Name tags - Unstructured.</a> This is what it looks like when you export the metadata tags you created from Transkribus, and copy and paste them in a sheet together. You will be adding to this spreadsheet with letters that you transcribed. <!--more on that process?-->
+* <a href="https://docs.google.com/spreadsheets/d/1LJXj-VJ2F3eOcuAfqeRXAaQraj9iRTC3nw_zkUPd_xo/edit?usp=sharing"> Name tags - Structured.</a> This is what it looks like when you have added another layer of structure to those tags.
 
 Here are the steps you'll need to take in order to get from names and data you tagged in the letters, to structured data that you can put into a network graph software. With each step is a video that shows you how to do it!
 
@@ -191,6 +191,9 @@ Here are the steps you'll need to take in order to get from names and data you t
 <img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/tag-cleaning.png" alt="spreadsheet screenshot of similar names, including Bro. Brealand and Bro Breland" width="" height="">
 
 This process will take a while, but remember, that is normal! Give yourself time, and take plenty of breaks!  
+
+## Check-in
+Write a detailed list of things that you did to clean up the data you exported. Did you de-duplicate names? Did you make assumptions for similar names? If so, what assumptions did you make? Write these down as precisely as you can so that if someone else were to follow your directions, they'd get similar results. Complete <a href=https://muw.instructure.com/courses/17249/quizzes/67276>Check-in 3a.Network Analysis</a> here.
 
 # 4. Software for visualizing a network analysis
 
