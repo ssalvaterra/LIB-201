@@ -243,10 +243,22 @@ Once you've verified the data and gone back to clean any leftover issues, it's t
 * Size the nodes according to different dimensions (ours will just have one dimension - number of times they appear).
 * Filter what appears in the network (Directed v. Undirected)
 * Drag nodes manually to see different connections among the network. Who is connected to whom? Who bridges the network?
+<<<<<<< HEAD
 
 <a href="https://drive.google.com/file/d/1KN4oU02u0yg4QVd7XeJhUrS3G6l2W4WM/view">Here is a brief video of what this process looks like.</a>
 
 There are also Palladio's own Tutorials and FAQs for <a href="http://hdlab.stanford.edu/palladio/tutorials/data/">loading data</a> and <a href="http://hdlab.stanford.edu/palladio/tutorials/graph/">customizing a graph</a>. Both of which are helpful!
+=======
+
+<a href="https://drive.google.com/file/d/1KN4oU02u0yg4QVd7XeJhUrS3G6l2W4WM/view">Here is a brief video of what this process looks like.</a>
+
+There are also Palladio's own Tutorials and FAQs for <a href="http://hdlab.stanford.edu/palladio/tutorials/data/">loading data</a> and <a href="http://hdlab.stanford.edu/palladio/tutorials/graph/">customizing a graph</a>. Both of which are helpful!
+
+## Check-in
+Eyeball test - what can you start to answer with the image you see? What looks like it needs fixing? Complete the last <a href="https://muw.instructure.com/courses/17249/quizzes/67304">4.Network Analysis check-in</a> here before turning in the link to your final visualization for this mini-project. Students in HO 303 can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/67305">4.Network Analysis check-in</a> here.
+
+
+>>>>>>> 56567e70708698859e46371948c9cd975ccee421
 
 ## Check-in
 Eyeball test - what can you start to answer with the image you see? What looks like it needs fixing? Complete the last <a href="https://muw.instructure.com/courses/17249/quizzes/67304">4.Network Analysis check-in</a> here before turning in the link to your final visualization for this mini-project. Students in HO 303 can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/67305">4.Network Analysis check-in</a> here.
