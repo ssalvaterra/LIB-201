@@ -208,17 +208,18 @@ Palladio will not support an .xlsx file!
 
 Copying your data will look like this:
 
-<p><img src="" alt="screenshot showing how to copy data for use in Palladio" width="" height="" /></p>
+<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/source-target-copy.PNG" alt="screenshot showing how to copy data for use in Palladio" width="" height="" /></p>
 
 Saving your data to upload will look like this:
 
-<p><img src="" alt="screenshot showing how to save data as .csv for use in Palladio" width="" height="" /></p>
+<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/source-target-csv.PNG" alt="screenshot showing how to save data as .csv for use in Palladio" width="" height="" /></p>
 
 ### 2. Resolve flagged issues in Palladio
 
 Palladio flags inconsistencies in data, like the use of special characters or multiple observations in one variable (i.e. more than one value in a cell--commas are tricky!). Use Palladio's verification tools, sorting options, and searching option to take another **thorough** look at your data. <!--https://hdlab.stanford.edu/palladio/tutorials/data/-->
 
-<p><img src="" alt="screenshot showing Palladio's flagged data issues" width="" height="" /></p>
+Clicking on the little red dots will allow you to verify and look further at your data. 
+<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/flagged-palladio-data.PNG" alt="screenshot showing Palladio's flagged data issues" width="" height="" /></p>
 
 This is also an opportunity to evaluate if you need to go back and clean the original spreadsheet! For instance, if you are reviewing the issues, and you find that:
 
@@ -228,7 +229,7 @@ This is also an opportunity to evaluate if you need to go back and clean the ori
 
 you want to take this opportunity to clean your data again. This is part of the process!
 
-<p><img src="" alt="screenshot showing sorted data that needs further cleaning" width="" height="" /></p>
+<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/palladio-edit-dimension.PNG" alt="screenshot showing sorted data that needs further cleaning" width="" height="" /></p>
 
 <!--check-in: post before and after? Or detailed worklog of the changes that were made?-->
 
