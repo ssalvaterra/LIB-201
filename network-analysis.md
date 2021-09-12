@@ -193,7 +193,7 @@ Here are the steps you'll need to take in order to get from names and data you t
 This process will take a while, but remember, that is normal! Give yourself time, and take plenty of breaks!  
 
 ## Check-in
-Write a detailed list of things that you did to clean up the data you exported. Did you de-duplicate names? Did you make assumptions for similar names? If so, what assumptions did you make? Write these down as precisely as you can so that if someone else were to follow your directions, they'd get similar results. Complete <a href=https://muw.instructure.com/courses/17249/quizzes/67276>Check-in 3a.Network Analysis</a> here.
+Write a detailed list of things that you did to clean up the data you exported. Did you de-duplicate names? Did you make assumptions for similar names? If so, what assumptions did you make? Write these down as precisely as you can so that if someone else were to follow your directions, they'd get similar results. Complete <a href=https://muw.instructure.com/courses/17249/quizzes/67276>Check-in 3a.Network Analysis</a> here. (HO 303 students do not need to complete this check-in!)
 
 # 4. Software for visualizing a network analysis
 
@@ -206,13 +206,21 @@ You can either copy and paste the cells from your spreadsheet (columnn headings 
 
 Palladio will not support an .xlsx file!
 
-<!--screenshot?-->
+Copying your data will look like this:
+
+<p><img src="" alt="screenshot showing how to copy data for use in Palladio" width="" height="" /></p>
+
+Saving your data to upload will look like this:
+
+<p><img src="" alt="screenshot showing how to save data as .csv for use in Palladio" width="" height="" /></p>
 
 ### 2. Resolve flagged issues in Palladio
 
 Palladio flags inconsistencies in data, like the use of special characters or multiple observations in one variable (i.e. more than one value in a cell--commas are tricky!). Use Palladio's verification tools, sorting options, and searching option to take another **thorough** look at your data. <!--https://hdlab.stanford.edu/palladio/tutorials/data/-->
 
-This is an opportunity to evaluate if you need to go back and clean the original spreadsheet! For instance, if you are reviewing the issues, and you find that:
+<p><img src="" alt="screenshot showing Palladio's flagged data issues" width="" height="" /></p>
+
+This is also an opportunity to evaluate if you need to go back and clean the original spreadsheet! For instance, if you are reviewing the issues, and you find that:
 
 * a person's name recorded in 2 different ways,
 * spelling errors, or
@@ -220,24 +228,27 @@ This is an opportunity to evaluate if you need to go back and clean the original
 
 you want to take this opportunity to clean your data again. This is part of the process!
 
-<!--screenshot-->
+<p><img src="" alt="screenshot showing sorted data that needs further cleaning" width="" height="" /></p>
+
 <!--check-in: post before and after? Or detailed worklog of the changes that were made?-->
 
 ### 3. Choose which dimensions to visualize
+Once you've verified the data and gone back to clean any leftover issues, it's time to visualize it. (Reality check: this isn't necessarily the end of cleaning data! A visualization can also make inconsistencies and cleaning issues apparent!). For the question of how to visualize the letter writer and their network of people (the person who received the letter and those mentioned within), click the ```Graph``` tab, then choose the following
 * Source dimension - this is the sender of the letter
 * Target dimension - these will be both the recipient and the people mentioned
 
-<!--screenshot-->
-
 ### 4. Customize your graph
 * Add facets to your data
-* Filter what appears in the network
-* Drag nodes manually
+* Size the nodes according to different dimensions (ours will just have one dimension - number of times they appear).
+* Filter what appears in the network (Directed v. Undirected)
+* Drag nodes manually to see different connections among the network. Who is connected to whom? Who bridges the network?
 
-<!--screenshot or link to https://hdlab.stanford.edu/palladio/tutorials/graph/-->
+<a href="https://drive.google.com/file/d/1KN4oU02u0yg4QVd7XeJhUrS3G6l2W4WM/view">Here is a brief video of what this process looks like.</a>
 
-<!--## Check-in
-Eyeball test - what can you start to answer with the image you see? What looks like it needs fixing?-->
+There are also Palladio's own Tutorials and FAQs for <a href="http://hdlab.stanford.edu/palladio/tutorials/data/">loading data</a> and <a href="http://hdlab.stanford.edu/palladio/tutorials/graph/">customizing a graph</a>. Both of which are helpful!
 
-<!--link to a tutorial-->
+## Check-in
+Eyeball test - what can you start to answer with the image you see? What looks like it needs fixing? Complete the last <a href="https://muw.instructure.com/courses/17249/quizzes/67304">4.Network Analysis check-in</a> here before turning in the link to your final visualization for this mini-project. Students in HO 303 can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/67305">4.Network Analysis check-in</a> here.
+
+
 
