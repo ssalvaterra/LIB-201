@@ -41,7 +41,9 @@ Many maps, especially digital mapping projects, use a 2-dimensional representati
 * <b>What symbols represent data?</b> Be aware of the colors and symbols you use to represent information. These choices can affect how others interpret your map! 
 
 # 1. Geospatial Data
-<!--map image-->
+
+<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/mapping-images/MS-sample-map.JPG" alt="Screenshot of a map of MS with counties outlined in red, and with 3 points in Tupelo, Pittsboro, and Meridian">
+
 Maps are layers of data represented by shapes, lines, and points. Layers usually include a:
 * Base map layer - something you put all of your layers on top of. This could be a historic map, a map with specific boundaries, a topographical map, etc., etc.!
 * Shapefiles - these are files that contain shapes, lines, and points that correspond to places, and include information on them. An example would be a point (like a city) and its geographical location (latitude, longitude). Other examples can include county boundaries, rivers, buildings, population (census) data, and routes in between locations. These are just a few possibilities! There are 2 kinds of shapefile data:
