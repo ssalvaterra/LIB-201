@@ -34,7 +34,6 @@ Example Mapping projects
 - "Introduction to Mapping," Olivia Ildefonso. https://curriculum.dhinstitutes.org/workshops/mapping/
 - Jessica Davila Greene, et al. "GIS and Historical Research" presentation. https://osf.io/b8wvn/
 
-
 ## Ethical considerations
 Many maps, especially digital mapping projects, use a 2-dimensional representation (i.e. flat) of the earth, which is just a part of the inaccuracies of our world that maps represent. Like historical records, maps (and even timelines!) are incomplete choices that represent human experience of the world. As you create maps and/or timelines, consider these questions, adapted from <a href="https://curriculum.dhinstitutes.org/workshops/mapping/lessons/?page=4">DH Institutes Curriculum</a>, that critically examine the process of map-making:
 * <b>How are you collecting data?</b> Are you gathering data, or using existing data? What are the limitations of either, and what choices lead to this decision (convenience? access? most appropriate?)
@@ -45,15 +44,16 @@ Many maps, especially digital mapping projects, use a 2-dimensional representati
 <!--map image-->
 Maps are layers of data represented by shapes, lines, and points. Layers usually include a:
 * Base map layer - something you put all of your layers on top of. This could be a historic map, a map with specific boundaries, a topographical map, etc., etc.!
-* Shapefiles - these are files that contain shapes, lines, and points that correspond to places. An example would be a point (like a city) and its geographical location (latitude, longitude). Other examples can include county boundaries, rivers, buildings, population (census) data, and routes in between locations. These are just a few possibilities! There are 2 kinds of shapefile data:
+* Shapefiles - these are files that contain shapes, lines, and points that correspond to places, and include information on them. An example would be a point (like a city) and its geographical location (latitude, longitude). Other examples can include county boundaries, rivers, buildings, population (census) data, and routes in between locations. These are just a few possibilities! There are 2 kinds of shapefile data:
     * Vector Data - this is discrete data, like the examples mentioned above. 
     * Raster Data (we will not use raster data in this class) - this includes data that is continuous, like weather patterns or elevation.
 
-Maps are often built with tables of attributes that correspond to locations.
+## Selecting data
+Maps are often built with tables of attributes that correspond to locations. You would collect data **relevant to your question** that you hope to answer through mapping certain points. For example, if you wanted to show the proximity of Mississippi's rivers to certain locations, you would look for the data to accentuate this. Your basemap would not overemphasize streets, but the landscape. Your vector data could include an outline of Mississippi and the shapes rivers make, and your locations (or points) would demonstrate this proximity.
 
 <!--screenshot/example-->
 
-## Finding Vector Data?
+## Finding Vector Data
 Points, lines, polygons
 
 ## Mapping tools
