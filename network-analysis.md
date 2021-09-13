@@ -60,7 +60,6 @@ Click and log in to Canvas for the <a href="https://muw.instructure.com/courses/
 * Images of sample networks from https://www.coursera.org/lecture/networks-illustrated/closeness-centrality-part-ii-cqA9S
 * Images of steps in Palladio used from https://hdlab.stanford.edu/palladio/tutorials/data/.
 
-
 # 1. Network Analysis Terms
 Most softwares that facilitate Network Analyses use a different vocabulary. You'll learn about what each part of a network is in this section, and in the next section, we'll talk about different ways analyze those parts. 
 
@@ -68,11 +67,6 @@ Most softwares that facilitate Network Analyses use a different vocabulary. You'
 <p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide3.JPG" alt="example of a simple network with 6 green and pink nodes and edges" width="" height="" /></p>
 
 A network is a visual representation of relationships between entities. The network alone does not always share the context of the relationships (e.g. "These are people who talk to each other in this book," or "These are the flight paths among major airlines,"), but they do highlight relationships. In doing so, they show how different players dominate (or not!) those relationships.
-
-## Paths
-<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide4.JPG" alt="example of a simple network with 6 nodes connected by 7 edges" width="" height="" /></p>
-
-Paths are the length from one node to the next. In this image, the path length from Ben to Anna is 1, but the path length from Ben to Cara is 2, and so on. The average length of each path will tell us how _dense_ the network is, or in other words, how connected everyone is to each other. If everyone is connected to everyone by 1 path, the network is 100% dense! 
 
 ## Nodes
 <p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide5.JPG" alt="example of a simple network the nodes circled" width="" height="" /></p>
@@ -90,6 +84,11 @@ Edges represent the relationships between nodes. They usually indicate some kind
   * **Target** - the target is where the interaction is directed, or the receiver. Sometimes this is called "in-degree."
 
 <p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide7.JPG" alt="example of 2 simple networks with directed edges, indicated by arrows, and undirected edges, indicated by straight lines" width="" height="" /></p>
+
+## Paths
+<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide4.JPG" alt="example of a simple network with 6 nodes connected by 7 edges" width="" height="" /></p>
+
+Paths are the length from one node to the next. In this image, the path length from Ben to Anna is 1, but the path length from Ben to Cara is 2, and so on. The average length of each path will tell us how _dense_ the network is, or in other words, how connected everyone is to each other. If everyone is connected to everyone by 1 path, the network is 100% dense! 
 
 ...just a few more terms! Stick with me!...
 
@@ -113,7 +112,7 @@ For this class, we will measure centrality with 3 different metrics:
 <!--* Eigenvector (!)-->
 
 ## Degree Centrality
-The degree of a node is how connected or influential a node is within the network, so degree centrality counts the number of direct connections a node has. In our earlier example, Frances has the highest degree centrality (5), and Elene has the lowest (1).
+The degree of a node is how connected or influential a node is within the network, so degree centrality counts the number of direct connections a node has. In the previous image, Edith Pauline Smith has the highest degree centrality because she has the most immediate connections. To indicate this, we have made the size of node labels correspond to degree, which for Pauline, is the largest.
 
 ## Closeness Centrality
 Another simple metric is called closeness centrality, which measures which node has the shortest average path to the rest of the nodes in the network.
