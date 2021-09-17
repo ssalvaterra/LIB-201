@@ -10,7 +10,7 @@ Think of the data we've already gathered in the Smith letters. Which data allow 
 - Identify further resources ( primary and/or secondary sources) as context to support a spatial or temporal analysis
 
 ## Lessons
-1. Primary and Secondary Research
+1. Primary and Secondary Source Research
 2. Timelines
 3. Geospatial Data
 <!--4. Writing a research question and plan, or planning a -->
@@ -41,7 +41,7 @@ Many maps, especially digital mapping projects, use a 2-dimensional representati
 * <b>What symbols represent data?</b> Be aware of the colors and symbols you use to represent information. These choices can affect how others interpret your map! 
 * <b>Are you using images in your media?</b> If you use images to supplement your data, be sure they are either public domain or licensed for reuse, and pay appropriate acknowledgements.
 
-# 1. Primary and Secondary Research
+# 1. Primary and Secondary Source Research
 
 We will be gathering research for this project to give context to the letters and the events that the people in the letters are describing. Our timelines and our maps will likely contain other primary and secondary sources. 
 
