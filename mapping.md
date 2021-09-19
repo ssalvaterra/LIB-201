@@ -7,7 +7,7 @@ Think of the data we've already gathered in the Smith letters. Which data allow 
 - Understand what geospatial data is, how it is organized, and what it could include.
 - Identify and manage files, including, but not limited to the Smith Papers Collection, for creating a timeline or mapping visualization
 - Address a research question using an original map or timeline
-- Identify further resources ( primary and/or secondary sources) as context to support a spatial or temporal analysis
+- Identify further resources (primary and/or secondary sources) as context to support a spatial or temporal analysis
 
 ## Lessons
 1. Primary and Secondary Source Research
@@ -46,7 +46,6 @@ Many maps, especially digital mapping projects, use a 2-dimensional representati
 Before we get into figuring out what all goes into a map or a timeline, the most important thing is to figure out what kinds of questions to ask of our data. In order to do that, we will be gathering research for this project to give context to the letters -- events, themes, and people in the letters. Our timelines and our maps will explore something in the letters, and they will likely contain other primary and secondary sources to help tell the story. 
 
 ## What are Primary and Secondary Sources
-<!--picture of primary source?-->
 Primary sources are often considered more "direct" pieces of evidence that are directly from someone's point of view or report on what is happening in the moment. These could include things like 
 * letters (ahem!)
 * newspapers 
@@ -64,7 +63,8 @@ Secondary sources are usually interpretive, aren't usually published,posted, or 
 * websites (blogs, articles, reviews, etc.)
 * ...and more!
 
-<!--check-in 1a: identify primary and secondary source-->
+### Check-in
+Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/67384">1a.Mapping check-in</a> on primary and secondary sources. HO 303 students can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/67387">1a.Mapping check-in</a> here. 
 
 ## Finding Resources
 You can find both primary and secondary sources in a number of places for researching topics from the Smith Collection. For our upcoming projects, we will look in several places, including, but not limited to:
@@ -78,7 +78,9 @@ You can find both primary and secondary sources in a number of places for resear
     * Our own <a href="https://athenacommons.muw.edu/">AthenaCommons</a> contains digitized letters from the Smith Papers Collection.
     * The University of Mississippi's eGrove repository has a digitized collection of <a href="https://egrove.olemiss.edu/sta_msblubk/">MS Blue Books</a>, which contain historical legislative information relevant to our collection.
 
-<!--Check-in 1b: Where would you go to look for a source that tell you about the history of WWII? A brief overview of an event? A reference to a historical politician?--> 
+### Check-in
+
+Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/67385">1b.Mapping check-in</a> on finding resources here. Students in HO 303 can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/67389">1b.Mapping check-in</a> here. 
 
 ## Evaluating resources:
 
@@ -92,7 +94,8 @@ By now, you know that not everything you find on the internet is worth using! As
 1. We are always taught to cite our sources, so expect the sources you use to do the same! Look for citation information within a source, and cite the sources you use.
 2. If you find a source you want to reuse (e.g. an image, a screen shot, etc.), make sure you have the permission to do so. Since we are creating maps and timelines using open, online tools, ask yourself if the artist/creator would mind you posting their stuff, and if so, ALWAYS give them recognition! 
 
-<!--check-in 1c -scenarios: find a lengthy source on WPA work and justify using it for a research question; find information on a movie they mention in the letters; You want to talk about women's 'roles' in 20th century american society. Provide a citation for each source-->
+### Check-in
+Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/67386">1c.Mapping check-in</a> on choosing resources for research here. LIB 201 students can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/67388">1c.Mapping check-in here.</a>
 
 # 2. Building a Timeline
 
