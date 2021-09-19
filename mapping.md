@@ -1,7 +1,7 @@
 # Mapping Spatial and Temporal data
 Why make a map or a timeline? What's the point? What kinds of questions do these answer?
 
-Think of the data we've already gathered in the Smith letters. Which data allow themselves to tell a spatial story? How can we supplement those data with contextual information that we can incorporate into the already established data?
+Think of the data we've already gathered in the Smith letters. Which data allow themselves to tell a geographical or temporal story?  How can we supplement those data with contextual information that we can incorporate into the already established data?
 
 ## Objectives
 - Understand what geospatial data is, how it is organized, and what it could include.
@@ -43,16 +43,30 @@ Many maps, especially digital mapping projects, use a 2-dimensional representati
 
 # 1. Primary and Secondary Source Research
 
-We will be gathering research for this project to give context to the letters and the events that the people in the letters are describing. Our timelines and our maps will likely contain other primary and secondary sources. 
+Before we get into figuring out what all goes into a map or a timeline, the most important thing is to figure out what kinds of questions to ask of our data. In order to do that, we will be gathering research for this project to give context to the letters -- events, themes, and people in the letters. Our timelines and our maps will explore something in the letters, and they will likely contain other primary and secondary sources to help tell the story. 
 
 ## What are Primary and Secondary Sources
-Primary sources are often considered more "direct" pieces of evidence that are directly from someone's point of view or report on what is happening in the moment. These could include things like letter (ahem!), newspapers (depending on the time period you're researching), interviews, autobiographies or diaries, photographs, and more. 
+<!--picture of primary source?-->
+Primary sources are often considered more "direct" pieces of evidence that are directly from someone's point of view or report on what is happening in the moment. These could include things like 
+* letters (ahem!)
+* newspapers 
+* interviews
+* autobiographies or diaries
+* photographs
+
+...and more! 
 
 **Bias in primary sources.** Just because a primary source is considered direct or in "real time," it is still from the point of view of someone who (like all of us!) has opinions, perspectives, and bias. All historical documents are written by an author with a specific point of view, and no matter how objective the author may try to appear, their unique perspectives and inclinations influence the document. Keep this in mind! 
 
-Secondary sources are usually interpretive, aren't usually published,posted, or shared in the moment something is occurring, and often include primary sources in discussion with ideas or hypotheses.
+Secondary sources are usually interpretive, aren't usually published,posted, or shared in the moment something is occurring, and often include primary sources in discussion with ideas or hypotheses. This could include things like 
+* scholarly articles
+* books and book chapters
+* websites (blogs, articles, reviews, etc.)
+* ...and more!
 
-## Finding and Evaluating Resources
+<!--check-in1: identify primary and secondary source-->
+
+## Finding Resources
 You can find both primary and secondary sources in a number of places for researching topics from the Smith Collection. For our upcoming projects, we will look in several places, including, but not limited to:
 * Websites (i.e. blogs, news sites, .orgs, .govs, etc.). 
     * Blogs can show you someone else's perspective on a related topic, link to other sources, etc.
@@ -64,20 +78,23 @@ You can find both primary and secondary sources in a number of places for resear
     * Our own <a href="https://athenacommons.muw.edu/">AthenaCommons</a> contains digitized letters from the Smith Papers Collection.
     * The University of Mississippi's eGrove repository has a digitized collection of <a href="https://egrove.olemiss.edu/sta_msblubk/">MS Blue Books</a>, which contain historical legislative information relevant to our collection.
 
-## What you need will depend on where you go! 
+<!--Check-in 1a: Where would you go to look for a source that tell you about the history of WWII? A brief overview of an event? A reference to a historical politician?--> 
 
-### Researching Tips:
-* Evaluating resources - 
-* Determine a source's relevance to your topic, not the other way around
-* Index and Tables of Contents
-* Reusing online images
-* Organizing your research
+## Evaluating resources:
 
-## Citing sources
-We are always taught to cite our sources, so expect the sources you use to do the same! Look for citation information within a source, and cite the sources you use.
+By now, you know that not everything you find on the internet is worth using! As you're looking up resources, keep these things in mind: 
 
-<!--check in: research scenario, search for a book/article about a topic, explain the bias of a primary source, which one is primary? Which one is secondary? What might this document tell us and how could we use it? What to look for when searching for an image?-->
+* <b>Relevance.</b> Determine a source's relevance to your topic by asking if it will help you get to where you need to go. It might help influence the direction of your research, but that's ok!
+* <b>Origin of the source.</b> Where is this coming from? What is the domain name? Does the resource cite references?
+* <b>Purpose of the source.</b> What is this source trying to accomplish? Is it selling a product? Is it to share information/educate? Is it to persuade? Consider if there is an ulterior motive.
 
+## Citing and Reusing sources
+1. We are always taught to cite our sources, so expect the sources you use to do the same! Look for citation information within a source, and cite the sources you use.
+2. If you find a source you want to reuse (e.g. an image, a screen shot, etc.), make sure you have the permission to do so. Since we are creating maps and timelines using open, online tools, ask yourself if the artist/creator would mind you posting their stuff, and if so, ALWAYS give them recognition! 
+
+<!--scenarios: find a lengthy source on WPA work and justify using it for a research question; find information on a movie they mention in the letters; You want to talk about women's 'roles' in 20th century american society. Provide a citation for each source-->
+
+# 2. Building a Timeline
 
 # 3. Geospatial Data
 
