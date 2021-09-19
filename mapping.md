@@ -64,7 +64,7 @@ Secondary sources are usually interpretive, aren't usually published,posted, or 
 * websites (blogs, articles, reviews, etc.)
 * ...and more!
 
-<!--check-in1: identify primary and secondary source-->
+<!--check-in 1a: identify primary and secondary source-->
 
 ## Finding Resources
 You can find both primary and secondary sources in a number of places for researching topics from the Smith Collection. For our upcoming projects, we will look in several places, including, but not limited to:
@@ -78,7 +78,7 @@ You can find both primary and secondary sources in a number of places for resear
     * Our own <a href="https://athenacommons.muw.edu/">AthenaCommons</a> contains digitized letters from the Smith Papers Collection.
     * The University of Mississippi's eGrove repository has a digitized collection of <a href="https://egrove.olemiss.edu/sta_msblubk/">MS Blue Books</a>, which contain historical legislative information relevant to our collection.
 
-<!--Check-in 1a: Where would you go to look for a source that tell you about the history of WWII? A brief overview of an event? A reference to a historical politician?--> 
+<!--Check-in 1b: Where would you go to look for a source that tell you about the history of WWII? A brief overview of an event? A reference to a historical politician?--> 
 
 ## Evaluating resources:
 
@@ -92,9 +92,20 @@ By now, you know that not everything you find on the internet is worth using! As
 1. We are always taught to cite our sources, so expect the sources you use to do the same! Look for citation information within a source, and cite the sources you use.
 2. If you find a source you want to reuse (e.g. an image, a screen shot, etc.), make sure you have the permission to do so. Since we are creating maps and timelines using open, online tools, ask yourself if the artist/creator would mind you posting their stuff, and if so, ALWAYS give them recognition! 
 
-<!--scenarios: find a lengthy source on WPA work and justify using it for a research question; find information on a movie they mention in the letters; You want to talk about women's 'roles' in 20th century american society. Provide a citation for each source-->
+<!--check-in 1c -scenarios: find a lengthy source on WPA work and justify using it for a research question; find information on a movie they mention in the letters; You want to talk about women's 'roles' in 20th century american society. Provide a citation for each source-->
 
 # 2. Building a Timeline
+
+Why create a timeline? If you would like to show the progression of or change in data over time, a timeline will visualize this for you. Both maps and timelines use spreadsheets to associate information with a spot on a "map." Timelines associate information (e.g. the sources you find, information from the letters, etc.) with dates and ranges of time. 
+
+<!--screenshot-->
+
+<!--## Timeline tools
+* TimelineJS
+* Palladio
+* Neatline
+
+## Check-in-->
 
 # 3. Geospatial Data
 
@@ -111,7 +122,7 @@ Maps are often built with tables of attributes that correspond to locations. You
 
 <!--screenshot/example-->
 
-## Finding Vector Data
+<!--## Finding Vector Data
 Points, lines, polygons
 
 ## Mapping tools
@@ -122,15 +133,3 @@ Points, lines, polygons
 ## Check-in
 <!--multiple choice - define terms, give an example of what vector data could include, show a map, and describe the layers within it-->
 
-# 2. Timelines
-Both maps and timelines use spreadsheets to associate information with a spot on a "map." Timelines associate information with dates, ranges of time. Why create a timeline? If you would like to show the progression of or change in data over time, a timeline will visualize this for you.
-
-<!--screenshot-->
-
-## Timeline tools
-* TimelineJS
-* Palladio
-* Neatline
-
-## Check-in
-<!--find a >
