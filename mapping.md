@@ -15,6 +15,10 @@ Think of the data we've already gathered in the Smith letters. Which data allow 
 3. Geospatial Data
 <!--4. Writing a research question and plan, or planning a -->
 
+## Required software
+- Create a free, public account with ArcGIS. Directions and links for doing so are <a href="https://doc.arcgis.com/en/arcgis-online/get-started/create-account.htm#ESRI_SECTION1_D91DD2A709AE4FB68A9CC095F1688E05">here</a>.
+- Spreadsheet template for Timeline JS (by Knightlab). Step by step instructions are <a href="https://timeline.knightlab.com/#make">here</a>, and a video introduction is <a href="https://vimeo.com/143407878">here</a>.
+
 ## Required Reading
 - White, Phil. (2014). "Story map blog" https://blogs.library.duke.edu/data/2014/10/28/story-maps/
 - Manuel Gimond, 2021, "Introduction to GIS," _Intro to GIS and Spatial Analysis_. https://mgimond.github.io/Spatial/introGIS.html
@@ -71,12 +75,14 @@ You can find both primary and secondary sources in a number of places for resear
 * Websites (i.e. blogs, news sites, .orgs, .govs, etc.). 
     * Blogs can show you someone else's perspective on a related topic, link to other sources, etc.
     * You can find reports and data on government or organizational websites like the <a href="https://archives.gov">National Archives and Records Administration</a> or <a href="http://mshistorynow.mdah.state.ms.us/">Mississippi History Now</a>, from the Mississippi Department of Archives and History.
-    * Wikipedia (gasp!) can even get you started with background information on a topic you're unfamiliar with! The external and reference links at the bottom of the page are also usually good breadcrubms to follow. 
-* <a href="https://mlp.ent.sirsi.net/client/en_US/muw">Library books</a>. Books (or book chapters) are a great way to take a deep dive into a topic. For establishing a foundation for a research topic that involves culture, history, major events...books are a great place to start.
+    * Wikipedia (gasp!) can even get you started with background information on a topic you're unfamiliar with! The <b>external and reference links</b> at the bottom of the page are also usually good breadcrubms to follow. 
+* <a href="https://mlp.ent.sirsi.net/client/en_US/muw">Library books</a>. Books (or book chapters) are a great way to take a deep dive into a topic. For establishing a foundation for a research topic that involves culture, history, major events...books are a great place to start. To broaden the possibilities, look for <a href="https://worldcat.org">books outside the W Library</a>.
 * <a href="http://libguides.muw.edu/az.php">Library databases</a>. Search library databases for things like scholarly articles, news, reviews, and more.
 * Digital collections or archives
     * Our own <a href="https://athenacommons.muw.edu/">AthenaCommons</a> contains digitized letters from the Smith Papers Collection.
     * The University of Mississippi's eGrove repository has a digitized collection of <a href="https://egrove.olemiss.edu/sta_msblubk/">MS Blue Books</a>, which contain historical legislative information relevant to our collection.
+
+To help with research topics, resources, and relevant websites, MUW faculty and staff have started the <a href="https://libguides.muw.edu/smithpapers">Smith Papers Research Guide.</a>
 
 ### Check-in
 
@@ -99,7 +105,7 @@ Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/67386">1
 
 # 2. Building a Timeline
 
-Why create a timeline? If you would like to show the progression of or change in data over time, a timeline will visualize this for you. Both maps and timelines use spreadsheets to associate information with a spot on a "map." Timelines associate information (e.g. the sources you find, information from the letters, etc.) with dates and ranges of time. 
+Why create a timeline? If you would like to show the progression of or change in data over time, a timeline will visualize this for you. Both maps and timelines use spreadsheets to associate information with a spot on a "map." Timelines associate information with dates and ranges of time. Put differently, by pairing references in the letters with other sources along a linear progression, we are putting the letters in a larger context of a year, a few years, a decade, etc. 
 
 <!--screenshot-->
 
@@ -114,25 +120,44 @@ Why create a timeline? If you would like to show the progression of or change in
 
 <p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/mapping-images/MS-sample-map.JPG" alt="Screenshot of a map of MS with counties outlined in red, and with 3 points in Tupelo, Pittsboro, and Meridian">
 
+## Parts of a Map
 Maps are layers of data represented by shapes, lines, and points. Layers usually include a:
 * Base map layer - something you put all of your layers on top of. This could be a historic map, a map with specific boundaries, a topographical map, etc., etc.!
 * Shapefiles - these are files that contain shapes, lines, and points that correspond to places, and include information on them. An example would be a point (like a city) and its geographical location (latitude, longitude). Other examples can include county boundaries, rivers, buildings, population (census) data, and routes in between locations. These are just a few possibilities! There are 2 kinds of shapefile data:
     * Vector Data - this is discrete data, like the examples mentioned above. 
     * Raster Data (we will not use raster data in this class) - this includes data that is continuous, like weather patterns or elevation.
 
-## Selecting data
-Maps are often built with tables of attributes that correspond to locations. You would collect data **relevant to your question** that you hope to answer through mapping certain points. For example, if you wanted to show the proximity of Mississippi's rivers to certain locations, you would look for the data to accentuate this. Your basemap would not overemphasize streets, but the landscape. Your vector data could include an outline of Mississippi and the shapes rivers make, and your locations (or points) would demonstrate this proximity.
+Shape files can come in a variety of formats. Most of the time, they will include several files compressed, or zipped (.zip), together. We will see shapefiles in various formats, including:
+* .kml (or .kmz, if several are compressed in a folder)
+* .sph
+* .gpx
+* .csv
+
+## Finding map data
+<!--image of .shp or .kml-->
+Maps are often built with tables of attributes that correspond to locations--like a spreadsheet that corresponds to geographic plots. It can be challenging to find these data sets that:
+* <b>are relevant to your research.</b> For example, if you wanted to show the proximity of locations to waterways, you'd want to find a map of MS rivers, and not dam locations. Sometimes it's easy to get distracted by different data sets.
+* <b>fit within the limits of your software, time, and size requirements.</b> We are using free mapping software, which comes with limits for file types, size, and amount of expertise needed. Some data sets will surpass all of these!
+* <b>exist!</b> Just like any other type of data, gathering data for a map can be time consuming and specific to the needs of a researcher, so not everything you are looking for will exist. You will have to decide if you need to create a data set from scratch, find one, or pivot your question to accommodate a lack in data.
+
+Some places you might find map data include:
+* <a href="https://hub.arcgis.com/search?collection=Dataset">ArcGIS Hub</a> - contains open data shapefiles, including government data (city infrastructures, etc.), election data, and more. 
+* <a href="https://www.census.gov/geographies/mapping-files.html">US Census Mapping Files</a> - contains regional and geographic boundaries, demographic data, and more.
+* Local and state entities, like <a href="https://www.maris.state.ms.us/#gsc.tab=0">MARIS</a> - serves as the statewide GIS clearinghouse for Mississippi.
+* Google - search for the data (e.g. "TVA power lines") and the filetype (e.g. "shapefile"). 
 
 <!--screenshot/example-->
 
-<!--## Finding Vector Data
-Points, lines, polygons
+<!--## Check-in-->
+<!--multiple choice - define terms, give an example of what vector data could include, show a map, and describe the layers within it-->
 
-## Mapping tools
+<!--research journey example?-->
+
+<!--## Mapping tools
 * QGIS (requires download)
 * Google MyMaps
 * StoryMapJS
+* ArcGIS online-->
 
-## Check-in
-<!--multiple choice - define terms, give an example of what vector data could include, show a map, and describe the layers within it-->
+
 
