@@ -10,10 +10,10 @@ Think of the data we've already gathered in the Smith letters. Which data allow 
 - Identify further resources (primary and/or secondary sources) as context to support a spatial or temporal analysis
 
 ## Lessons
-1. Primary and Secondary Source Research
-2. Timelines
-3. Geospatial Data
-<!--4. Writing a research question and plan, or planning a -->
+1. [Primary and Secondary Source Research](#1-primary-and-secondary-source-research)
+2. [Building a Timeline](#2-building-a-timeline)
+3. [Geospatial Data](#3-geospatial-data)
+<!--4. Writing a research question and plan-->
 
 ## Required software
 - Create a free, public account with ArcGIS. Directions and links for doing so are <a href="https://doc.arcgis.com/en/arcgis-online/get-started/create-account.htm#ESRI_SECTION1_D91DD2A709AE4FB68A9CC095F1688E05">here</a>.
@@ -109,10 +109,12 @@ Why create a timeline? If you would like to show the progression of or change in
 
 <!--screenshot-->
 
-<!--## Timeline tools
-* TimelineJS
-* Palladio
-* Neatline
+## Timeline tools
+Like any project, there are a myriad of tools that you can use. Palladio (our tool for the Network Analysis) has timeline options! For this lesson, we are going to use <a href="https://timeline.knightlab.com/">TimelineJS</a>, a template-based story-telling tool developed by Northwestern University's Knight Lab.
+
+TimelineJS uses Google Sheets to organize dates, add context, include media (photos, videos, sound, etc.), and groups things according to time and tags (See more on this <a href="https://timeline.knightlab.com/docs/using-spreadsheets.html">here.</a>) So, sign in to your Google Account before getting started. 
+
+
 
 ## Check-in-->
 
