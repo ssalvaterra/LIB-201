@@ -214,7 +214,7 @@ Take a minute to explore the shapefile's contents! What can you discern from eac
 
 4. Now it's your turn to add data from the Smith Papers and from secondary sources. 
 
-
+<!--more info on creating data set, and what has to be involved-->
 
 
 
