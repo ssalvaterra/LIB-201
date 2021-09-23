@@ -37,6 +37,7 @@ Example Mapping projects
 ## Acknowledgements
 - "Introduction to Mapping," Olivia Ildefonso. https://curriculum.dhinstitutes.org/workshops/mapping/
 - Jessica Davila Greene, et al. "GIS and Historical Research" presentation. https://osf.io/b8wvn/
+- Screenshots from KnightLab's <a href="https://timeline.knightlab.com/#make">TimelineJS website</a>, and from <a href="https://starkvillecivilrights.msstate.edu/wordpress/">'A Shaky Truce': Starkville Civil Rights Struggles.</a>
 
 ## Ethical considerations
 Many maps, especially digital mapping projects, use a 2-dimensional representation (i.e. flat) of the earth, which is just a part of the inaccuracies of our world that maps represent. Like historical records, maps (and even timelines!) are incomplete choices that represent human experience of the world. As you create maps and/or timelines, consider these questions, adapted from <a href="https://curriculum.dhinstitutes.org/workshops/mapping/lessons/?page=4">DH Institutes Curriculum</a>, that critically examine the process of map-making:
@@ -109,16 +110,32 @@ Why create a timeline? If you would like to show the progression of or change in
 
 <!--screenshot-->
 
-## Timeline tools
-Like any project, there are a myriad of tools that you can use. Palladio (our tool for the Network Analysis) has timeline options! For this lesson, we are going to use <a href="https://timeline.knightlab.com/">TimelineJS</a>, a template-based story-telling tool developed by Northwestern University's Knight Lab.
+Before we get into tools, let's remember that we are telling a story about a progression of thoughts and events. To help center the story (and not the website we're posting it on), let's sketch an outline of the timeline. In your sketch, you'll want to consider:
+* What are the boundaries of my timeline (start date, end date)?
+* What information from my primary sources do I want to highlight?
+* What information from my secondary sources will help establish context?
+* Do I have permission to share images/media from these secondary sources?
+* Are there themes, ranges of time, or other patterns that I want to highlight among my sources? (Example: you can group things by local v. national event, or tag certain events with a theme, like "desegregation" or "New Deal.")
+
+### Check-in
+Answer the questions above, and provide a sketch of your timeline in this check-in. (For HO 303 students only.)
+
+## Timeline tools: TimelineJS
+Like any project, there are a myriad of tools that you can use. Palladio (our tool for the Network Analysis), for instance, has timeline options! For this lesson, we are going to use <a href="https://timeline.knightlab.com/">TimelineJS</a>, a template-based story-telling tool developed by Northwestern University's Knight Lab.
 
 TimelineJS uses Google Sheets to organize dates, add context, include media (photos, videos, sound, etc.), and groups things according to time and tags (See more on this <a href="https://timeline.knightlab.com/docs/using-spreadsheets.html">here.</a>) So, sign in to your Google Account before getting started. 
 
+Once you have signed in, click ```Get the Spreadsheet Template```, and click "Make a Copy"
+
+<!--screenshot-make-timeline-1-->
+
+You will see sample information in rows 2-3 that show you what is possible to add. The first row does not need editing, and the 2nd row (the blue one) is going to be your title slide in the timeline. 
 
 
-## Check-in-->
 
 # 3. Geospatial Data
+
+Maps are also storytelling (or story showing) devices that use location as a basis. 
 
 <p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/mapping-images/MS-sample-map.JPG" alt="Screenshot of a map of MS with counties outlined in red, and with 3 points in Tupelo, Pittsboro, and Meridian">
 
@@ -135,6 +152,9 @@ Shape files can come in a variety of formats. Most of the time, they will includ
 * .gpx
 * .csv
 
+<!--## Check-in-->
+<!--multiple choice - define terms, give an example of what vector data could include, show a map, and describe the layers within it-->
+
 ## Finding map data
 <!--image of .shp or .kml-->
 Maps are often built with tables of attributes that correspond to locations--like a spreadsheet that corresponds to geographic plots. It can be challenging to find these data sets that:
@@ -146,12 +166,35 @@ Some places you might find map data include:
 * <a href="https://hub.arcgis.com/search?collection=Dataset">ArcGIS Hub</a> - contains open data shapefiles, including government data (city infrastructures, etc.), election data, and more. 
 * <a href="https://www.census.gov/geographies/mapping-files.html">US Census Mapping Files</a> - contains regional and geographic boundaries, demographic data, and more.
 * Local and state entities, like <a href="https://www.maris.state.ms.us/#gsc.tab=0">MARIS</a> - serves as the statewide GIS clearinghouse for Mississippi.
-* Google - search for the data (e.g. "TVA power lines") and the filetype (e.g. "shapefile"). 
+* Google - search for the data (e.g. "TVA power lines") and the filetype (e.g. "shapefile").
+
+For this map, we are going to use a combination of data that exists, and data that we create using location information from the Smith papers and secondary sources.
+
+## Mapping tools
+There are a range of different mapping tools that require a range of experience and can cost $0 or require a monthly subscription! We are going to use <a  href="https://www.arcgis.com/home/index.html">ArcGIS online</a>, which is free (with some limits), and doesn't require any additional downloads. Before we begin, create a free, public account. (Instructions for signing up are <a href="https://doc.arcgis.com/en/arcgis-online/get-started/create-account.htm">here</a>.)
+
+
+## Adding layers to a map
+For our map, we are going to use a shapefile of the electric lines owned by the TVA. You can <a href="https://drive.google.com/file/d/1qThJx4T1Xqh7hY2tNzgNmHI-YBson8uO/view?usp=sharing">find and download this zipped folder</a> to get started.
+
+In ArcGIS online, you can choose any basemap you'd like, but let's look at what goes into a shapefile by adding the zipped folder to the map. 
+
+1. Click Add, then add layer from file.
 
 <!--screenshot/example-->
 
-<!--## Check-in-->
-<!--multiple choice - define terms, give an example of what vector data could include, show a map, and describe the layers within it-->
+2. Choose the compressed folder, and click Import Layer. What we're doing is importing a table that recognizes geocoded information.
+
+3. To see what information is included, click on content, and the table icon underneath the shapefile's title.
+
+<!--screenshot-->
+
+Take a minute to explore the shapefile's contents! What can you discern from each column heading, or contents within?
+
+<!--screenshot-->
+<!--check-in: multiple choice about what's in the shapefile?-->
+
+4. Now it's your turn to add data from the Smith Papers and from secondary sources. 
 
 <!--research journey example?-->
 
