@@ -1,13 +1,13 @@
 # Mapping Spatial and Temporal data
 Why make a map or a timeline? What's the point? What kinds of questions do these answer?
 
-Think of the data we've already gathered in the Smith letters. Which data allow themselves to tell a geographical or temporal story?  How can we supplement those data with contextual information that we can incorporate into the already established data?
+Think of the data we've already gathered in the Smith letters. Which data allow themselves to tell a geographical or temporal story?  More importantly (because the map and the timeline aren't the point in and of themselves!), wow can we **supplement those data with contextual information** that we can incorporate to tell a bigger story?
 
 ## Objectives
-- Understand what geospatial data is, how it is organized, and what it could include.
-- Identify and manage files, including, but not limited to the Smith Papers Collection, for creating a timeline or mapping visualization
-- Address a research question using an original map or timeline
 - Identify further resources (primary and/or secondary sources) as context to support a spatial or temporal analysis
+- Address a research question using an original map or timeline
+- Understand what geospatial data is, how it is organized, and where to find it.
+- Identify and manage files, including, but not limited to the Smith Papers Collection, for creating a timeline or mapping visualization
 
 ## Lessons
 1. [Primary and Secondary Source Research](#1-primary-and-secondary-source-research)
@@ -40,7 +40,7 @@ Example Mapping projects
 - Screenshots from KnightLab's <a href="https://timeline.knightlab.com/#make">TimelineJS website</a>, and from <a href="https://starkvillecivilrights.msstate.edu/wordpress/">'A Shaky Truce': Starkville Civil Rights Struggles.</a>
 
 ## Ethical considerations
-Many maps, especially digital mapping projects, use a 2-dimensional representation (i.e. flat) of the earth, which is just a part of the inaccuracies of our world that maps represent. Like historical records, maps (and even timelines!) are incomplete choices that represent human experience of the world. As you create maps and/or timelines, consider these questions, adapted from <a href="https://curriculum.dhinstitutes.org/workshops/mapping/lessons/?page=4">DH Institutes Curriculum</a>, that critically examine the process of map-making:
+Many maps, especially digital mapping projects, use a 2-dimensional representation (i.e. flat) of the earth, which is just a part of the inaccuracies of our world that maps represent. Like historical records, maps and timelines are incomplete choices that represent human experience of the world. As you create maps and/or timelines, consider these questions, adapted from <a href="https://curriculum.dhinstitutes.org/workshops/mapping/lessons/?page=4">DH Institutes Curriculum</a>, that critically examine the process of map-making:
 * <b>How are you collecting data?</b> Are you gathering data, or using existing data? What are the limitations of either, and what choices lead to this decision (convenience? access? most appropriate?)
 * <b>What is missing from your data?</b> If you collect population information, which populations are you including/excluding? What boundaries (county? state? neighborhood?) define the map?
 * <b>What symbols represent data?</b> Be aware of the colors and symbols you use to represent information. These choices can affect how others interpret your map! 
@@ -48,21 +48,24 @@ Many maps, especially digital mapping projects, use a 2-dimensional representati
 
 # 1. Primary and Secondary Source Research
 
-Before we get into figuring out what all goes into a map or a timeline, the most important thing is to figure out what kinds of questions to ask of our data. In order to do that, we will be gathering research for this project to give context to the letters -- events, themes, and people in the letters. Our timelines and our maps will explore something in the letters, and they will likely contain other primary and secondary sources to help tell the story. 
+Before we get into figuring out what all goes into a map or a timeline, the most important thing is to figure out **what questions to ask of our data.** In order to do that, we will be gathering research for this project to give context to the letters -- events, themes, and people in the letters -- to tell a bigger story. Our timelines and our maps will explore something in the letters, and they will likely contain other primary and secondary sources to explain the significance of an event. 
 
-## What are Primary and Secondary Sources
-Primary sources are often considered more "direct" pieces of evidence that are directly from someone's point of view or report on what is happening in the moment. These could include things like 
+## What are primary sources?
+Primary sources are often considered more "direct" pieces of evidence that are from someone's individual point of view, or they report on what is happening in the moment. These could include things like: 
 * letters (ahem!)
 * newspapers 
 * interviews
 * autobiographies or diaries
 * photographs
+* original observations or experiments
+* original creative works
 
 ...and more! 
 
-**Bias in primary sources.** Just because a primary source is considered direct or in "real time," it is still from the point of view of someone who (like all of us!) has opinions, perspectives, and bias. All historical documents are written by an author with a specific point of view, and no matter how objective the author may try to appear, their unique perspectives and inclinations influence the document. Keep this in mind! 
+**Bias in primary sources.** Just because a primary source is considered direct or in "real time," it is still from the point of view of someone who (like all of us!) has opinions, perspectives, and bias. All historical documents are written by an author with a specific point of view, and no matter how objective the author may try to appear, their unique perspectives and inclinations influence the document. *Keep this in mind!* 
 
-Secondary sources are usually interpretive, aren't usually published,posted, or shared in the moment something is occurring, and often include primary sources in discussion with ideas or hypotheses. This could include things like 
+## What are secondary sources?
+Secondary sources are usually interpretive, aren't usually published, posted, or shared in the moment something is occurring, and they often include primary sources in discussion with ideas or hypotheses. This could include things like 
 * scholarly articles
 * books and book chapters
 * websites (blogs, articles, reviews, etc.)
@@ -72,18 +75,20 @@ Secondary sources are usually interpretive, aren't usually published,posted, or 
 Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/67384">1a.Mapping check-in</a> on primary and secondary sources. HO 303 students can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/67387">1a.Mapping check-in</a> here. 
 
 ## Finding Resources
-You can find both primary and secondary sources in a number of places for researching topics from the Smith Collection. For our upcoming projects, we will look in several places, including, but not limited to:
+Now that we've figured out the differences between primary and secondary sources, you will use this information to choose sources in different places. For our upcoming projects, we will look in several places, including, but not limited to:
 * Websites (i.e. blogs, news sites, .orgs, .govs, etc.). 
     * Blogs can show you someone else's perspective on a related topic, link to other sources, etc.
     * You can find reports and data on government or organizational websites like the <a href="https://archives.gov">National Archives and Records Administration</a> or <a href="http://mshistorynow.mdah.state.ms.us/">Mississippi History Now</a>, from the Mississippi Department of Archives and History.
     * Wikipedia (gasp!) can even get you started with background information on a topic you're unfamiliar with! The <b>external and reference links</b> at the bottom of the page are also usually good breadcrubms to follow. 
-* <a href="https://mlp.ent.sirsi.net/client/en_US/muw">Library books</a>. Books (or book chapters) are a great way to take a deep dive into a topic. For establishing a foundation for a research topic that involves culture, history, major events...books are a great place to start. To broaden the possibilities, look for <a href="https://worldcat.org">books outside the W Library</a>.
+* <a href="https://mlp.ent.sirsi.net/client/en_US/muw">Library books</a>. Books (or book chapters) are a great way to take a deep dive into a topic. For establishing a foundation for a research topic that involves culture, history, major events...books are a great place to start. 
+    * Books in the library are great, but you can easily get a book outside of the library! When searching in the catalog, change the drop-down menu from "MUW Library" to "Everything," and if you find a book outside of MUW, click the Place Hold button.
+    * To broaden the possibilities even further, look for books outside of this partnership<a href="https://worldcat.org"> in the WorldCat database</a>. Request what you find through <A href="https://www.muw.edu/library/research/ill">Interlibrary Loan!</a>
 * <a href="http://libguides.muw.edu/az.php">Library databases</a>. Search library databases for things like scholarly articles, news, reviews, and more.
 * Digital collections or archives
     * Our own <a href="https://athenacommons.muw.edu/">AthenaCommons</a> contains digitized letters from the Smith Papers Collection.
-    * The University of Mississippi's eGrove repository has a digitized collection of <a href="https://egrove.olemiss.edu/sta_msblubk/">MS Blue Books</a>, which contain historical legislative information relevant to our collection.
+    * The University of Mississippi's eGrove repository has a digitized collection of <a href="https://egrove.olemiss.edu/sta_msblubk/">MS Blue Books</a>, which contain historical legislative information and other primary sources relevant to our collection.
 
-To help with research topics, resources, and relevant websites, MUW faculty and staff have started the <a href="https://libguides.muw.edu/smithpapers">Smith Papers Research Guide.</a>
+To help with research topics, resources, and relevant websites, MUW faculty and staff have started the <a href="https://libguides.muw.edu/smithpapers">Smith Papers Research Guide.</a> Use this to help get started, or to gather more information on a topic.
 
 ### Check-in
 
@@ -94,12 +99,21 @@ Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/67385">1
 By now, you know that not everything you find on the internet is worth using! As you're looking up resources, keep these things in mind: 
 
 * <b>Relevance.</b> Determine a source's relevance to your topic by asking if it will help you get to where you need to go. It might help influence the direction of your research, but that's ok!
-* <b>Origin of the source.</b> Where is this coming from? What is the domain name? Does the resource cite references?
-* <b>Purpose of the source.</b> What is this source trying to accomplish? Is it selling a product? Is it to share information/educate? Is it to persuade? Consider if there is an ulterior motive.
+* <b>Origin of the source.</b> Where is this coming from? What is the domain name? Does the resource <u>cite any references</u>?
+* <b>Purpose of the source.</b> What is this source trying to accomplish? Is it selling a product? Is it to share information/educate? Is it to persuade? Consider if there is an ulterior motive (especially if you're searching a company or corporation's website).
 
 ## Citing and Reusing sources
 1. We are always taught to cite our sources, so expect the sources you use to do the same! Look for citation information within a source, and cite the sources you use.
-2. If you find a source you want to reuse (e.g. an image, a screen shot, etc.), make sure you have the permission to do so. Since we are creating maps and timelines using open, online tools, ask yourself if the artist/creator would mind you posting their stuff, and if so, ALWAYS give them recognition! 
+2. If you find media you want to reuse (e.g. an image, a screen shot, etc.), make sure you have the permissions to do so. Since we are creating maps and timelines using open, online tools, ask yourself if the artist/creator would mind you posting their stuff, and if so, ALWAYS give them recognition! 
+
+Tip: permissions to share images can come in the form of usage rights licenses, creative commons licenses, or public domain designations. Look for these notes next to an image in its repository. You can search for images with usage rights in many places, like
+* <a href="https://commons.wikimedia.org/">Wikimedia Commons</a>
+* <a href="https://search.creativecommons.org/">Creative Commons</a>
+* <a href="https://flickr.com/search/">Flickr</a>
+* Library digital repositories or archives (like <a href="https://msdiglib.org/">MS Digital Library</a>, <a href="https://digitalcollections.nypl.org/">NYPL</a>, and more!)
+* <a href="https://images.google.com/">Google Images</a> (use the usage rights search feature to filter the results)
+* <a href="https://www.gettyimages.com/">Getty Images</a>
+
 
 ### Check-in
 Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/67386">1c.Mapping check-in</a> on choosing resources for research here. LIB 201 students can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/67388">1c.Mapping check-in here.</a>
@@ -108,7 +122,7 @@ Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/67386">1
 
 Why create a timeline? If you would like to show the progression of or change in data over time, a timeline will visualize this for you. Both maps and timelines use spreadsheets to associate information with a spot on a "map." Timelines associate information with dates and ranges of time. Put differently, by pairing references in the letters with other sources along a linear progression, we are putting the letters in a larger context of a year, a few years, a decade, etc. 
 
-<!--screenshot-->
+![Screenshot of a timeline from Starkville Civil Rights project, featuring a letter from Douglas Connor to found the Oktibbeha Co. NAACP](https://github.com/hillaryAHR/LIB-201/blob/main/mapping-images/sample-timeline-SCR.JPG)
 
 Before we get into tools, let's remember that we are telling a story about a progression of thoughts and events. To help center the story (and not the website we're posting it on), let's sketch an outline of the timeline. In your sketch, you'll want to consider:
 * What are the boundaries of my timeline (start date, end date)?
@@ -118,20 +132,20 @@ Before we get into tools, let's remember that we are telling a story about a pro
 * Are there themes, ranges of time, or other patterns that I want to highlight among my sources? (Example: you can group things by local v. national event, or tag certain events with a theme, like "desegregation" or "New Deal.")
 
 ### Check-in
-Answer the questions above, and provide a sketch of your timeline in this check-in. (For HO 303 students only.)
+Answer the questions above, and provide a sketch of your timeline in the <a href="https://muw.instructure.com/courses/16930/quizzes/67494">2.Mapping check-in</a>. (For HO 303 students only.)
 
 ## Timeline tools: TimelineJS
 Like any project, there are a myriad of tools that you can use. Palladio (our tool for the Network Analysis), for instance, has timeline options! For this lesson, we are going to use <a href="https://timeline.knightlab.com/">TimelineJS</a>, a template-based story-telling tool developed by Northwestern University's Knight Lab.
 
 TimelineJS uses Google Sheets to organize dates, add context, include media (photos, videos, sound, etc.), and groups things according to time and tags (See more on this <a href="https://timeline.knightlab.com/docs/using-spreadsheets.html">here.</a>) So, sign in to your Google Account before getting started. 
 
-Once you have signed in, click ```Get the Spreadsheet Template```, and click "Make a Copy"
+Once you have signed in, click ```Get the Spreadsheet Template```, and click "Make a Copy."
 
-<!--screenshot-make-timeline-1-->
+![Screenshot of Knightlab website's step 1 of making a timeline](https://github.com/hillaryAHR/LIB-201/blob/main/mapping-images/make-timeline-1.JPG)
 
-You will see sample information in rows 2-3 that show you what is possible to add. The first row does not need editing, and the 2nd row (the blue one) is going to be your title slide in the timeline. 
+The first row contains the column headings and does not need editing. The 2nd row (the blue one) is going to be your title slide in the timeline, and doesn't need date metadata. You will see sample information in rows 2-3 that show you what is possible to add. 
 
-
+Begin creating your timeline using the assignment guidelines and filling out your story with metadata (dates, images, captions, etc.)!
 
 # 3. Geospatial Data
 
@@ -152,12 +166,14 @@ Shape files can come in a variety of formats. Most of the time, they will includ
 * .gpx
 * .csv
 
-<!--## Check-in-->
-<!--multiple choice - define terms, give an example of what vector data could include, show a map, and describe the layers within it-->
+### Check-in
+Complete <a href="https://muw.instructure.com/courses/17249/quizzes/67496">3.Mapping checkin</a> here before going to the next section. (For LIB 201 students only.)
 
 ## Finding map data
-<!--image of .shp or .kml-->
-Maps are often built with tables of attributes that correspond to locations--like a spreadsheet that corresponds to geographic plots. It can be challenging to find these data sets that:
+
+![Image of a map showing its shapefile's data](https://github.com/hillaryAHR/LIB-201/blob/main/mapping-images/map-layer-contents-2.JPG)
+
+Maps are often built with tables of attributes (or, METADATA!) that correspond to locations--like a spreadsheet that corresponds to geographic plots. It can be challenging to find data sets that:
 * <b>are relevant to your research.</b> For example, if you wanted to show the proximity of locations to waterways, you'd want to find a map of MS rivers, and not dam locations. Sometimes it's easy to get distracted by different data sets.
 * <b>fit within the limits of your software, time, and size requirements.</b> We are using free mapping software, which comes with limits for file types, size, and amount of expertise needed. Some data sets will surpass all of these!
 * <b>exist!</b> Just like any other type of data, gathering data for a map can be time consuming and specific to the needs of a researcher, so not everything you are looking for will exist. You will have to decide if you need to create a data set from scratch, find one, or pivot your question to accommodate a lack in data.
@@ -170,9 +186,11 @@ Some places you might find map data include:
 
 For this map, we are going to use a combination of data that exists, and data that we create using location information from the Smith papers and secondary sources.
 
+<!--check-in?-->
+<!--research journey example?-->
+
 ## Mapping tools
 There are a range of different mapping tools that require a range of experience and can cost $0 or require a monthly subscription! We are going to use <a  href="https://www.arcgis.com/home/index.html">ArcGIS online</a>, which is free (with some limits), and doesn't require any additional downloads. Before we begin, create a free, public account. (Instructions for signing up are <a href="https://doc.arcgis.com/en/arcgis-online/get-started/create-account.htm">here</a>.)
-
 
 ## Adding layers to a map
 For our map, we are going to use a shapefile of the electric lines owned by the TVA. You can <a href="https://drive.google.com/file/d/1qThJx4T1Xqh7hY2tNzgNmHI-YBson8uO/view?usp=sharing">find and download this zipped folder</a> to get started.
@@ -181,13 +199,13 @@ In ArcGIS online, you can choose any basemap you'd like, but let's look at what 
 
 1. Click Add, then add layer from file.
 
-<!--screenshot/example-->
+![Screenshot of instructions for how to add a layer from file](https://github.com/hillaryAHR/LIB-201/blob/main/mapping-images/add-map-layer.JPG)
 
 2. Choose the compressed folder, and click Import Layer. What we're doing is importing a table that recognizes geocoded information.
 
 3. To see what information is included, click on content, and the table icon underneath the shapefile's title.
 
-<!--screenshot-->
+![Screenshot of map layer contents](https://github.com/hillaryAHR/LIB-201/blob/main/mapping-images/map-layer-contents.JPG)
 
 Take a minute to explore the shapefile's contents! What can you discern from each column heading, or contents within?
 
@@ -196,13 +214,8 @@ Take a minute to explore the shapefile's contents! What can you discern from eac
 
 4. Now it's your turn to add data from the Smith Papers and from secondary sources. 
 
-<!--research journey example?-->
 
-<!--## Mapping tools
-* QGIS (requires download)
-* Google MyMaps
-* StoryMapJS
-* ArcGIS online-->
+
 
 
 
