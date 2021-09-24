@@ -167,7 +167,7 @@ Shape files can come in a variety of formats. Most of the time, they will includ
 * .csv
 
 ### Check-in
-Complete <a href="https://muw.instructure.com/courses/17249/quizzes/67496">3.Mapping checkin</a> here before going to the next section. (For LIB 201 students only.)
+Complete <a href="https://muw.instructure.com/courses/17249/quizzes/67496">3a.Mapping checkin</a> here before going to the next section. (For LIB 201 students only.)
 
 ## Finding map data
 
@@ -186,7 +186,25 @@ Some places you might find map data include:
 
 For this map, we are going to use a combination of data that exists, and data that we create using location information from the Smith papers and secondary sources.
 
-<!--check-in?-->
+### Mapping WWII draftees - a cautionary tale of digital data obstacles
+To give you an idea of what it might take to gather the data you'd like to examine, here's a snapshot of what you could encounter.
+
+**Research question**: How many men registered for the WWII draft in Mississippi, and where did they go to basic training? (*Note: this research question is not perfect and contains some holes, like there is not a database that shows where MS men went to basic training, and it assumes that most MS residents did basic training in MS, which is not true. But for the sake of demonstration...!*)
+
+**Data obstacles**: There are a couple of major databases that contain the number of WWII enlistees (e.g. <a href="https://www.fold3.com/title/816/wwii-draft-registration-cards">Fold3.com</a>, <a href="https://www.archives.gov/st-louis/selective-service?_ga=2.58504105.269625778.1632491963-840701876.1629484293#wwii">The National Archives and Records Administration</a>, and <a href="https://www.ancestry.com/search/collections/1002/">Ancestry.com), but to digitally access this data, there are obstacles:
+* Proprietary data - in order to access these records at the level we need them for this question (the enlisted's place of residence), you have to have an Ancestry.com account, which is **not free**, unless you can get to a place with the type of subscription that includes this data (not all subscriptions do! :frowning_face:). 
+* Amount of data/labor - In Mississippi alone, there were over 725,000 men between 21-36 years old that registered for the draft between 1940-1947. (That doesn't count the additional registrations that happened between 1941 and 1943.) Ancestry allows a maximum of 50 records to view per page, and doesn't give an option to export the entire contents of the collection into a file like a CSV or XLSX. The options are to 
+    * scrape the data through code (which requires permissions and has a high learning curve)
+    * copy and paste the data into a spreadsheet, page by page. With over 725,000 drafted at 50 per page, that is 14,500 pages of data. And it takes 1.5 hours to copy and paste 100 pages' worth. That would be over 200 hours of copying and pasting...and that doesn't count the time it would take to clean it! Which brings us to...
+* Cleaning the data - Copying and pasting 5,000 entries took around 2 hours, but the data copied did not separate the residential information into usable columns, and the data itself had several misspellings and inconsistencies. To clean this, you'd have to separate the location information into separate columns with a split formula, then sort, filter, and remove duplicates to find the inconsistencies. This took about 2 more hours of labor!
+![Screenshot of the cleaning process to split columns and clean names](https://github.com/hillaryAHR/LIB-201/blob/main/mapping-images/cleaning-data.JPG)
+* Technological obstacles:
+    * After page 100 of the results, Ancestry stopped allowing me to go through page-by-page. (Likely a result of the system preventing me from copying proprietary information.)
+    * As I was searching Google for county information of registrants with missing locations of residence, I tripped an alarm from Google, which thought I was behaving too much like a bot :laughing:
+
+    ![Screenshot of a message from Google verifying I'm not a robot](https://github.com/hillaryAHR/LIB-201/blob/main/mapping-images/cleaning-data.JPG)
+
+<!--check-in 3b.Mapping? What obstacles can limit your research? Locations for map data?-->
 <!--research journey example?-->
 
 ## Mapping tools
@@ -209,12 +227,24 @@ In ArcGIS online, you can choose any basemap you'd like, but let's look at what 
 
 Take a minute to explore the shapefile's contents! What can you discern from each column heading, or contents within?
 
-<!--screenshot-->
 <!--check-in: multiple choice about what's in the shapefile?-->
 
-4. Now it's your turn to add data from the Smith Papers and from secondary sources. 
+4. Now it's _your_ turn to add data from the Smith Papers and from secondary sources. 
 
-<!--more info on creating data set, and what has to be involved-->
+To create your own data set, think about the data you'll be collecting, and what all you want to be visible on your map. Each location will have accompanying metadata, which will likely include:
+* Date
+* Location*
+* Media**
+* Captions
+* Details***
+
+*Location details may differ. Maps often use latitude/longitude for specific locations (which you can easily Google. Pittsboro, MS's long/lat, for instance, is 33.9400608,-89.3417058). Some maps can translate things like address (street address + city + state) into a point on a map. 
+
+![Screenshot of Pittsboro, MS on a map, showing the lat/long in the URL on Google Maps' website](https://github.com/hillaryAHR/LIB-201/blob/main/mapping-images/lat-long.JPG)
+
+**This will most likely be a URL of an image, video, or other media type. Remember to be sure you can re-share images, and ALWAYS give credit to the original source.
+
+***This will be a good place to provide context and even interpretation of certain events or locations.
 
 
 
