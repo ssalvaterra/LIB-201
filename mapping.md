@@ -191,21 +191,23 @@ To give you an idea of what it might take to gather the data you'd like to exami
 
 **Research question**: How many men registered for the WWII draft in Mississippi, and where did they go to basic training? (*Note: this research question is not perfect and contains some holes, like there is not a database that shows where MS men went to basic training, and it assumes that most MS residents did basic training in MS, which is not true. But for the sake of demonstration...!*)
 
-**Data obstacles**: There are a couple of major databases that contain the number of WWII enlistees (e.g. <a href="https://www.fold3.com/title/816/wwii-draft-registration-cards">Fold3.com</a>, <a href="https://www.archives.gov/st-louis/selective-service?_ga=2.58504105.269625778.1632491963-840701876.1629484293#wwii">The National Archives and Records Administration</a>, and <a href="https://www.ancestry.com/search/collections/1002/">Ancestry.com), but to digitally access this data, there are obstacles:
+**Data obstacles**: There are a couple of major databases that contain the number of WWII enlistees (e.g. <a href="https://www.fold3.com/title/816/wwii-draft-registration-cards">Fold3.com</a>, <a href="https://www.archives.gov/st-louis/selective-service?_ga=2.58504105.269625778.1632491963-840701876.1629484293#wwii">The National Archives and Records Administration</a>, and <a href="https://www.ancestry.com/search/collections/1002/">Ancestry.com</a>), but to digitally access this data, there are obstacles:
 * Proprietary data - in order to access these records at the level we need them for this question (the enlisted's place of residence), you have to have an Ancestry.com account, which is **not free**, unless you can get to a place with the type of subscription that includes this data (not all subscriptions do! :frowning_face:). 
 * Amount of data/labor - In Mississippi alone, there were over 725,000 men between 21-36 years old that registered for the draft between 1940-1947. (That doesn't count the additional registrations that happened between 1941 and 1943.) Ancestry allows a maximum of 50 records to view per page, and doesn't give an option to export the entire contents of the collection into a file like a CSV or XLSX. The options are to 
     * scrape the data through code (which requires permissions and has a high learning curve)
     * copy and paste the data into a spreadsheet, page by page. With over 725,000 drafted at 50 per page, that is 14,500 pages of data. And it takes 1.5 hours to copy and paste 100 pages' worth. That would be over 200 hours of copying and pasting...and that doesn't count the time it would take to clean it! Which brings us to...
 * Cleaning the data - Copying and pasting 5,000 entries took around 2 hours, but the data copied did not separate the residential information into usable columns, and the data itself had several misspellings and inconsistencies. To clean this, you'd have to separate the location information into separate columns with a split formula, then sort, filter, and remove duplicates to find the inconsistencies. This took about 2 more hours of labor!
+
 ![Screenshot of the cleaning process to split columns and clean names](https://github.com/hillaryAHR/LIB-201/blob/main/mapping-images/cleaning-data.JPG)
+
 * Technological obstacles:
     * After page 100 of the results, Ancestry stopped allowing me to go through page-by-page. (Likely a result of the system preventing me from copying proprietary information.)
     * As I was searching Google for county information of registrants with missing locations of residence, I tripped an alarm from Google, which thought I was behaving too much like a bot :laughing:
 
-    ![Screenshot of a message from Google verifying I'm not a robot](https://github.com/hillaryAHR/LIB-201/blob/main/mapping-images/cleaning-data.JPG)
+    ![Screenshot of a message from Google verifying I'm not a robot](https://github.com/hillaryAHR/LIB-201/blob/main/mapping-images/captcha.JPG)
 
-<!--check-in 3b.Mapping? What obstacles can limit your research? Locations for map data?-->
-<!--research journey example?-->
+### Check-in
+Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/67517">3b.Mapping check-in</a> here. (Only LIB 201 students need to complete this.)
 
 ## Mapping tools
 There are a range of different mapping tools that require a range of experience and can cost $0 or require a monthly subscription! We are going to use <a  href="https://www.arcgis.com/home/index.html">ArcGIS online</a>, which is free (with some limits), and doesn't require any additional downloads. Before we begin, create a free, public account. (Instructions for signing up are <a href="https://doc.arcgis.com/en/arcgis-online/get-started/create-account.htm">here</a>.)
