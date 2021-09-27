@@ -1,4 +1,7 @@
 # Mapping Spatial and Temporal data
+
+![Tweet from @TerribleMaps of a blue and green map of the world, where the green land is "where more people live" than the blue ocean](https://github.com/hillaryAHR/LIB-201/blob/main/mapping-images/terrible-maps.JPG)(Tweet from @TerribleMaps - https://twitter.com/TerribleMaps/status/1442190976525635593)
+
 Why make a map or a timeline? What's the point? What kinds of questions do these answer?
 
 Think of the data we've already gathered in the Smith letters. Which data allow themselves to tell a geographical or temporal story?  More importantly (because the map and the timeline aren't the point in and of themselves!), wow can we **supplement those data with contextual information** that we can incorporate to tell a bigger story?
