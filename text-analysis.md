@@ -3,6 +3,10 @@
 words about text analysis
 
 ### Objectives
+* Understand the purpose of distant reading when analyzing a text or texts
+* Understand the processes by which computers "read" text (specifically stemming, lemmatization, stop words, and tokenization)
+* Define text analysis methods, specifically n-gram analysis, topic modeling, and sentiment analysis
+* Select a data set from Smith Papers to clean, perform select text analysis methods on, and analyze.
 
 ### Lessons
 1. Distant Reading
@@ -10,12 +14,20 @@ words about text analysis
 <!--3. Text cleaning methods-->
 
 ### Required Reading
+<!--
+- Fish, Stanley, 2019. <a href="https://critinq.wordpress.com/2019/04/03/computational-literary-studies-participant-forum-responses-day-3-5/">"Computational Literary Studies: participant forum responses, Day 3"</a>
+- section from Drucker's Intro to DH or Ketchley's dh101 course guide? -->
 
-<!--Required Tools-->
+<!--Required Tools
+- <a href="https://libguides.muw.edu/DSL">Gale Digital Scholar Lab</a>-->
+<!--Optional tools 
+- <a href="https://voyant-tools.org/">Voyant</a> 
+- <a href="https://mimno.infosci.cornell.edu/jsLDA/">jsLDA: In-browser Topic Modeling</a>  - <a href="https://databasic.io/en/wtfcsv/">wtf CSV</a>
+- <a href="http://lexos.wheatoncollege.edu/upload">Lexos</a>-->
 
 ### Acknowledgements
 - "Distant Reading, Modeling, and Concordances," Brandon Locke and Thomas Padilla, NEH Textual Data Institute, 2018
-- Screenshots from:
+- Screenshots from projects:
     - Froehlich, Heather. <a href="https://blog.oup.com/2015/11/shakespeare-language-gender/">"Analysing what Shakespeare has to say about gender."</a>. _OUP Blog_, 11/28/2015.
     -  King, Lindsay and Leonard, Peter. <a href="http://bookworm.library.yale.edu/">Robots Reading Vogue</a>. _Digital Humanities at Yale University Library_, 2014.
     - Blei, David M., Andrew Y Ng., and Michael I. Jordan. <a href="https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf">"Latent Dirichlet Allocation,"</a> _Journal of Machine Learning Research 3_, 2003. p. 1009. 
@@ -142,8 +154,10 @@ Note: Sentiment analyses have limits! Like toddlers, sentiment analyses **do not
 
 <!--link to Becky's project?-->
 
-## Named Entity Recognition
+<!-- ## Named Entity Recognition -->
 
 <!--Check-in- vocab matching, examples of each-->
+
+<!-- # 3. Text Cleaning Methods -->
 
 
