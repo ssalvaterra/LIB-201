@@ -15,6 +15,11 @@ words about text analysis
 
 ### Acknowledgements
 - "Distant Reading, Modeling, and Concordances," Brandon Locke and Thomas Padilla, NEH Textual Data Institute, 2018
+- Screenshots from:
+    - Froehlich, Heather. <a href="https://blog.oup.com/2015/11/shakespeare-language-gender/">"Analysing what Shakespeare has to say about gender."</a>. _OUP Blog_, 11/28/2015.
+    -  King, Lindsay and Leonard, Peter. <a href="http://bookworm.library.yale.edu/">Robots Reading Vogue</a>. _Digital Humanities at Yale University Library_, 2014.
+    - Blei, David M., Andrew Y Ng., and Michael I. Jordan. <a href="https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf">"Latent Dirichlet Allocation,"</a> _Journal of Machine Learning Research 3_, 2003. p. 1009. 
+    - Healey & Ramaswamy, <a href="https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/">Visualizing Twitter Sentiment,</a> 2019.
 
 # 1. Distant Reading
 
@@ -47,7 +52,7 @@ Unlike close reading, distant reading allows us to:
 
     "The difference between the almost right word and the right word is the difference between lightening and a lightening bug" -Mark Twain
 
-Words are so messy! You and I can understand them only after growing up and speaking a language for many years, and even then, we all have different ways of saying and understanding things! So how does a computer begin to "understand" words? With most tools, this is something that goes on automatically, in the background. But let's take a peek behind the curtain.
+Words are so messy! You and I can understand them only after growing up and speaking a language for many years, and even then, we all have different ways of saying and understanding things! So how does a computer begin to "understand" words? With most tools, this is something that goes on automatically in the background, often using a pre-defined list of rules or dictionaries. Let's take a peek behind the curtain!
 
 ## Tokenizing
 
@@ -81,9 +86,64 @@ You can look at all of the instances of the sentiment "good" by lemmatizing the 
 ## Stop Words
 In a large text, stop words are words like "the," "some," "of," <!--link to a stop word list--> "that," etc. that you would like to exclude from analysis. These words are determined to be of less value than the other words, but be warned! Sometimes these little words mean a lot! See this blog post about <a href="https://onezero.medium.com/how-data-science-pinpointed-the-creepiest-word-in-macbeth-3150995d3808">"the creepiest word in Macbeth"</a> to see why!
 
-<!--not a perfect process. These distant reading methods will, like language, always throw an error that is going to be an exception to a conventional rule-->
+These methods - tokenizing, lemmatizing, stop words (there are more) - are still not perfect! Think of these methods as formulas that you are performing on a text en masse, and the English language often resists a formula. Think of all of the "exceptions to the rule" you have had to learn about. Furthermore, consider texts that are not in English. We use these formulas to help us read a corpus distantly, but that won't replace our abilities to read closely.
+
+<b>These methods are automatic for many tools, but let's not forget them!</b> When we encounter errors or strange findings, it might be that we need to tweak them!
 
 <!--Check-in - tokenizing, lemmatizing, stop words, put distant reading in your own words, and examples of what it lets us do (with pictures? Matching??)-->
 
+# 2. Select Distant Reading Methods
+
+In this class, we're going to use specific text analysis methods that are available in the <a href="https://libguides.muw.edu/DSL">Digital Scholar Lab</a>. (Hint: click Databases from the <a href="https://www.muw.edu/library">MUW Library Homepage</a>, and find it under "D."). You'll need to link your Google MyApps account to this database to get started. These are the tools we'll explore...
+
+## N-gram analysis
+
+![Screenshot of a word cloud of William Wordsworth's distinctive vocabulary words in his poems, from Ted Underwood](https://github.com/hillaryAHR/LIB-201/blob/main/text-analysis-images/ngram-wordsworth.JPG)
+
+N-grams are more commonly known as word clouds. You see words of different sizes, indicating the number of times that word is used throughout the text. The "N" in n-gram stands for number of words you are counting or highlighting in a corpus, so you can also do this with phrases. 
+
+N-grams also show the patterns of those words as they're used throughout the text over time (time can be literal - as in, throughout the years, as seen in the screenshot below, or it can be relative to the text itself, as in how the word is used throughout the course of the corpus.)
+
+![Screenshot of Robots Reading Vogue, showing the uses of corset, girdle, bra, bustier, and hosiery over time](https://github.com/hillaryAHR/LIB-201/blob/main/text-analysis-images/ngram-RRV.JPG)
+
+N-grams can also be used to collocate words or phrases and to determine relationships between word pairs. The example below shows how words with positive connotations are more often associated with gendered words.
+
+![Screenshot of Heather Froehlich's analysis of Shakespeare texts, where male-gendered words have more positive connotations (i.e. Man - young) than female-gendered words (i.e. Woman - wretched)](https://github.com/hillaryAHR/LIB-201/blob/main/text-analysis-images/ngram-shakespeare.JPG)
+
+__You'll use an n-gram analysis to explore word pairs, frequencies, and their use over time.__
+
+## Topic Modeling
+
+<!--screenshot of buckets?-->
+
+Topic Modeling is one of the more difficult text analysis methods because it is based on probability. Topic Modeling uses an algorithm (<a href="">Latent Dirichlet Allocation</a>) to find probabilities of words that co-occur. When you run this algorithm on a body of text, it puts the words that are _more likely_ to occur together in categories, or "bags of words." The idea is that each category represents a topic of discussion in the text. 
+
+![Screenshot of Lincoln Sermons Topic keywords split into 10 columns labeled "topic 1," "topic 2," and so on](https://lincolnlogs.digitalscholarship.emory.edu/wp-content/uploads/2013/02/mallet.png)
+
+Topic modeling requires some inference on behalf of the person running the algorithm - how are these groups of words related? How are they used in the text? Do they signify a distinct theme? The column labels below were chosen to reflect the commonalities among the words below them.
+
+![Screenshot of topic modeling results with columns labeled Arts, Budgets, Children, and Education, in colors corresponding to highlighted words within a paragraph](https://i.imgur.com/9UesuuB.png)
+
+## Sentiment Analysis
+
+![Screenshot of sentiment analysis of tweets using #nationalsonsday](https://github.com/hillaryAHR/LIB-201/blob/main/text-analysis-images/SA-sons.JPG)
+
+![Screenshot of sentiment analysis of tweets using #nationaldaughtersday](https://github.com/hillaryAHR/LIB-201/blob/main/text-analysis-images/SA-daughters.JPG)
+
+_Top: Sentiment analysis of tweets using #nationalsonsday_
+
+_Bottom: Sentiment analysis of tweets using #nationaldaughtersday_. Both images from https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/
+
+A sentiment analysis uses natural language processing to "score" words according to a positive or negative scale. Sentiment analyses are trained on a pre-determined set of words (such as the <a href="http://corpustext.com/reference/sentiment_afinn.html">AFINN lexicon</a>), and show (or attempt to show) the overall positive or negative emotions at any given moment within a corpus. 
+
+![Screenshot of the plot of James Joyce's Portrait of the Artist as a Young Man in a sentiment analysis](https://www.matthewjockers.net/wp-content/uploads/2014/06/poa2.png)
+
+Note: Sentiment analyses have limits! Like toddlers, sentiment analyses **do not** detect sarcasm! ::laughing:: They also commonly do not account for the change in meanings of words over time (i.e. sick = ill v. sick = slang for cool).
+
+<!--link to Becky's project?-->
+
+## Named Entity Recognition
+
+<!--Check-in- vocab matching, examples of each-->
 
 
