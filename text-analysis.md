@@ -9,23 +9,24 @@ In addition to the important things to analyze in the letters, like places, peop
 * Select a data set from Smith Papers to clean, perform select text analysis methods on, and analyze.
 
 ### Lessons
-1. Distant Reading
-2. Select Distant reading methods
-<!--3. Text cleaning methods-->
+1. [Distant Reading](#1-distant-reading)
+2. [Select Distant reading methods](#2-select-distant-reading-methods)
+3. [Text cleaning methods](#3-text-cleaning-methods)
 
 ### Required Reading
-<!--
+
 - Caulfield, Jack. <a href="https://www.scribbr.com/methodology/textual-analysis/">"A quick guide to textual analysis,"</a> _Scribbr.com_, 2020.
 - Underwood, Ted. <a href="https://tedunderwood.com/2016/08/01/a-more-intimate-scale-of-distant-reading/">"A More Intimate Scale of Distant Reading,"</a> _The Stone and the Shell_, 2016. 
-- section from Drucker's Intro to DH or Ketchley's dh101 course guide? -->
+<!-- section from Drucker's Intro to DH or Ketchley's dh101 course guide? -->
 
-<!--Required Tools
-- <a href="https://libguides.muw.edu/DSL">Gale Digital Scholar Lab</a>-->
-<!--Optional tools 
+Required Tools
+- <a href="https://libguides.muw.edu/DSL">Gale Digital Scholar Lab</a>
+
+Optional tools 
 - <a href="http://lexos.wheatoncollege.edu/">Lexos</a>
 - <a href="https://voyant-tools.org/">Voyant</a> 
-- <a href="https://mimno.infosci.cornell.edu/jsLDA/">jsLDA: In-browser Topic Modeling</a>  - <a href="https://databasic.io/en/wtfcsv/">wtf CSV</a>
-- <a href="http://lexos.wheatoncollege.edu/upload">Lexos</a>-->
+- <a href="https://mimno.infosci.cornell.edu/jsLDA/">jsLDA: In-browser Topic Modeling</a>  
+- <a href="https://databasic.io/en/wtfcsv/">wtf CSV</a>
 
 ### Acknowledgements
 - "Distant Reading, Modeling, and Concordances," Brandon Locke and Thomas Padilla, NEH Textual Data Institute, 2018
@@ -34,6 +35,8 @@ In addition to the important things to analyze in the letters, like places, peop
     -  King, Lindsay and Leonard, Peter. <a href="http://bookworm.library.yale.edu/">Robots Reading Vogue</a>. _Digital Humanities at Yale University Library_, 2014.
     - Blei, David M., Andrew Y Ng., and Michael I. Jordan. <a href="https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf">"Latent Dirichlet Allocation,"</a> _Journal of Machine Learning Research 3_, 2003. p. 1009. 
     - Healey & Ramaswamy, <a href="https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/">Visualizing Twitter Sentiment,</a> 2019.
+    - Emory Digital Scholarship Commons, <a href="https://lincolnlogs.digitalscholarship.emory.edu/">"Lincoln Logarithms: Finding Meaning in Sermons,"</a> 2013.
+    - Jockers, Matthew L. <a href="https://www.matthewjockers.net/2014/06/05/a-novel-method-for-detecting-plot/">A Novel Method for Detecting Plot, "</a> 2014.
 - Screenshots from the Gale Digital Scholar Lab
 
 # 1. Distant Reading
