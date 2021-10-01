@@ -17,19 +17,23 @@ In addition to the important things to analyze in the letters, like places, peop
 
 - Caulfield, Jack. <a href="https://www.scribbr.com/methodology/textual-analysis/">"A quick guide to textual analysis,"</a> _Scribbr.com_, 2020.
 - Underwood, Ted. <a href="https://tedunderwood.com/2016/08/01/a-more-intimate-scale-of-distant-reading/">"A More Intimate Scale of Distant Reading,"</a> _The Stone and the Shell_, 2016. 
+- Sculley and Pasanek, <a href="https://login.libprxy.muw.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=hlh&AN=37562266&site=eds-live&scope=site">"Meaning and mining: the impact of implicit assumptions in data mining for the humanities"</a> _Literary and Linguistic Computing, 23_(4), 2008. *This link will take you to MUW Library databases. Sign in with your 950# if you are off campus!*
 <!-- section from Drucker's Intro to DH or Ketchley's dh101 course guide? -->
+
+<!--check-in/reading response for the readings?-->
 
 Required Tools
 - <a href="https://libguides.muw.edu/DSL">Gale Digital Scholar Lab</a>
 
 Optional tools 
-- <a href="http://lexos.wheatoncollege.edu/">Lexos</a>
-- <a href="https://voyant-tools.org/">Voyant</a> 
+- <a href="http://lexos.wheatoncollege.edu/">Lexos</a> - web-based text-cleaning app
+- <a href="https://voyant-tools.org/">Voyant</a> - web-based text analysis app
 - <a href="https://mimno.infosci.cornell.edu/jsLDA/">jsLDA: In-browser Topic Modeling</a>  
-- <a href="https://databasic.io/en/wtfcsv/">wtf CSV</a>
+- <a href="https://databasic.io/en/">dataBASIC</a> - various web-based text analysis tools for different purposes
 
 ### Acknowledgements
 - "Distant Reading, Modeling, and Concordances," Brandon Locke and Thomas Padilla, NEH Textual Data Institute, 2018
+- CUNY DH Institutes, <a href="https://curriculum.dhinstitutes.org/glossary">DHRI Curriculum Glossary</a>
 - Screenshots from projects:
     - Froehlich, Heather. <a href="https://blog.oup.com/2015/11/shakespeare-language-gender/">"Analysing what Shakespeare has to say about gender."</a>. _OUP Blog_, 11/28/2015.
     -  King, Lindsay and Leonard, Peter. <a href="http://bookworm.library.yale.edu/">Robots Reading Vogue</a>. _Digital Humanities at Yale University Library_, 2014.
@@ -44,7 +48,7 @@ Optional tools
 ## Distant v. Close Reading
 If you have been in an English class before, you are familiar with the phrase "close reading." If you have not, close reading refers to choosing part of a text - a word, a symbol, an image - to closely analyze the context of the whole work. In other words, why did the author make these word choices? What factors (e.g. historical, intellectual, subliminal, etc.) have gone into influencing the text that show up in this text over and over again? Close reading is one method used analyze a text. Distant reading, which uses computer assistance to process large amounts of text, is the method we are going to use!
 
-Distant reading with computers is not a way to replace the levels of interpreting that humans are able to do! In fact, distant reading <a href="https://en.wikipedia.org/wiki/Index_Thomisticus">is possible without a computer</a>--the work of the computer just saves time!  Additionally, computationally distant reading loses its impact without the context and interpretation from human eyes. (Here's <a href="https://critinq.wordpress.com/2019/04/03/computational-literary-studies-participant-forum-responses-day-3-5/">a controversial opinion</a> that even says it is a failure in the humanities! Gasp!) Countless distant reading projects have enhanced and adjusted the ways we look at entire works of a specific collection, an author, or even genre. <!--cite these?--> Like close reading, though, distant reading will allow us to address a hypothesis about a text, and through analysis and interpretation, address that hypothesis with textual evidence.
+Distant reading with computers is not a way to replace the levels of interpreting that humans are able to do. The work of the computer and the work of the text are often at odds, and while our brains will operate differently than a computer's, we are going to explore using the 2 together. In fact, distant reading <a href="https://en.wikipedia.org/wiki/Index_Thomisticus">is possible without a computer</a>--the work of the computer just saves time!  Additionally, computationally distant reading loses its impact without the context and interpretation from human eyes. (Here's <a href="https://critinq.wordpress.com/2019/04/03/computational-literary-studies-participant-forum-responses-day-3-5/">a controversial opinion</a> that even says it is a failure in the humanities! Gasp!) Countless distant reading projects have enhanced, adjusted, or even changed the ways we look at entire works of a specific collection, an author, or even genre. <!--cite these?--> Like close reading, though, distant reading will allow us to address a hypothesis about a text, and through analysis and interpretation, address that hypothesis with textual evidence.
 
 Unlike close reading, distant reading allows us to:
 * Link specific words to the context in which they were used throughout a text (as in a <a href="https://www.corpusthomisticum.org/it/index.age">concordance</a> or <a href="https://cather.unl.edu/">scholarly digital edition</a>)
@@ -72,7 +76,7 @@ Words are so messy! You and I can understand them only after growing up and spea
 
 ## Tokenizing
 
-Computers can recognize characters in sequence. But what words say, and what they mean, aren't always so clear! So in order to have a computer "read" something and pull information from it, you have to "tokenize" a text. Tokens can be separated by spaces, but they can also be punctuation (hyphens, commas, parentheses), they could be differently capitalized, and they can have different meanings, even though they're spelled the same way. <!--use example from letters?-->
+Computers can recognize characters in sequence. But what words say, and what they mean, aren't always so clear! So in order to have a computer "read" something and pull information from it, you have to "tokenize" a text. Tokens can be separated by spaces, but they can also be punctuation (hyphens, commas, parentheses), they could be differently capitalized, and they can have different meanings, even though they're spelled the same way. Tokenizing splits words in a sentence into their individual units. <!--use example from letters?-->
 
     Hello, I am the all-knowing magician!
  
@@ -87,11 +91,13 @@ Computers can recognize characters in sequence. But what words say, and what the
 * magician
 * !
 
-## Lemmatizing
+If this sentence were a part of a larger corpus, we might also want to make everything the same case and take out punctuation so all linguistic units (aka words) are treated similarly! 
 
-Lemmas are root words, or common base words for different variations of a word. Lemmatizing a word is a Natural Language Processing process, which groups words by their roots and parts of speech for analysis. For example: 
+## Lemmatizing and Stemming
 
-| Word | Lemma |
+Lemmas are root words, or common base words for different variations of a word. Lemmatizing a word is a Natural Language Processing process, which groups words by their roots and parts of speech for analysis. Stemming a word removes part of words (plurals, suffixes, alternate endings, etc.) to collapse them into a common word. For example: 
+
+| Word | Lemma/Stem |
 |------|--------|
 | good, better, best | good |
 |library, librarian, libraries | librar |
@@ -107,7 +113,8 @@ These methods - tokenizing, lemmatizing, stop words (there are more) - are still
 <b>These methods are automatic for many tools, but let's not forget them!</b> When we encounter errors or strange findings, it might be that we need to tweak them!
 
 ## Check-in
-<!--Check-in - tokenizing, lemmatizing, stop words, put distant reading in your own words, and examples of what it lets us do (with pictures? Matching??)-->
+Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/67634">1.Text Analysis check-in</a> here. HO 303 students can complete the check-in here.
+<!--examples of what it lets us do (with pictures? Matching??)-->
 
 # 2. Select Distant Reading Methods
 
@@ -131,7 +138,7 @@ __You'll use an n-gram analysis to explore word pairs, frequencies, and their us
 
 ## Topic Modeling
 
-Topic Modeling is one of the more difficult text analysis methods because it is based on probability. Topic Modeling uses an algorithm (<a href="">Latent Dirichlet Allocation</a>) to find probabilities of words that co-occur. When you run this algorithm on a body of text, it puts the words that are _more likely_ to occur together in categories, or "bags of words." The idea is that each category represents a topic of discussion in the text. 
+Topic Modeling is one of the more difficult text analysis methods because it is based on probability. Topic Modeling uses an algorithm (<a href="https://towardsdatascience.com/latent-dirichlet-allocation-lda-9d1cd064ffa2">Latent Dirichlet Allocation</a>) to find probabilities of words that co-occur. When you run this algorithm on a body of text, it puts the words that are _more likely_ to occur together in categories, or "bags of words." The idea is that each category represents a topic of discussion in the text. 
 
 ![Screenshot of Lincoln Sermons Topic keywords split into 10 columns labeled "topic 1," "topic 2," and so on](https://lincolnlogs.digitalscholarship.emory.edu/wp-content/uploads/2013/02/mallet.png)
 
@@ -162,11 +169,11 @@ Note: Sentiment analyses have limits! Like toddlers, sentiment analyses **do not
 <!-- ## Named Entity Recognition -->
 
 ## Check-in
-<!--Check-in- vocab matching, examples of each-->
+Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/67635">2.Text Analysis check-in</a> here. HO 303 students can complete the check-in here.
 
 # 3. Text Cleaning Methods
 
-Remember our discussion of tokenization, lemmas, and stop words? In order to remove the inconsistencies and "noise" for a computer to analyze texts, you will judicially employ and tinker with some of these. Also remember the words of advice from Muñoz and Rawson in <a href="http://curatingmenus.org/articles/against-cleaning/">"Against Cleaning!"</a> when employing these methods!
+Remember our discussion of tokenization, lemmas, and stop words? In order to remove the inconsistencies and "noise" for a computer to analyze texts, you will judicially employ and tinker with some of these processes. Also remember the words of advice from Muñoz and Rawson in <a href="http://curatingmenus.org/articles/against-cleaning/">"Against Cleaning!"</a> when employing these methods!
 
 ![Screenshot of text cleaning configurations in the Digital Scholar Lab](https://github.com/hillaryAHR/LIB-201/blob/main/text-analysis-images/DSLAB_CreateCleanConfig_Corrections.jpg)
 <!--https://go.gale.com/ps/helpCenter?userGroupName=mag_u_muw&inPS=true&nspage=true&prodId=DSLAB&docId=GVOFKU762720149-->
