@@ -113,7 +113,7 @@ These methods - tokenizing, lemmatizing, stop words (there are more) - are still
 <b>These methods are automatic for many tools, but let's not forget them!</b> When we encounter errors or strange findings, it might be that we need to tweak them!
 
 ## Check-in
-Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/67634">1.Text Analysis check-in</a> here. HO 303 students can complete the check-in here.
+Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/67634">1.Text Analysis check-in</a> here. HO 303 students can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/67639">1.Text analysis check-in</a> here.
 <!--examples of what it lets us do (with pictures? Matching??)-->
 
 # 2. Select Distant Reading Methods
@@ -169,7 +169,7 @@ Note: Sentiment analyses have limits! Like toddlers, sentiment analyses **do not
 <!-- ## Named Entity Recognition -->
 
 ## Check-in
-Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/67635">2.Text Analysis check-in</a> here. HO 303 students can complete the check-in here.
+Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/67635">2.Text Analysis check-in</a> here. HO 303 students can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/67637">2.Text analysis check-in</a> here.
 
 # 3. Text Cleaning Methods
 
@@ -195,4 +195,4 @@ In the previous section, we talked about removing words with "little value" (poo
 In different tools, you will separate these words differently (spaces, commas, or line breaks). 
 
 ## Check-in
-<!--post a screenshot of an uncleaned doc and make suggestions--?>
+<!--post a screenshot of an uncleaned doc and make suggestions? Scenarios of cleaning something? Errors when cleaning?-->
