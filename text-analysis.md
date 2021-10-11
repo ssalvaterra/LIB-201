@@ -195,4 +195,5 @@ In the previous section, we talked about removing words with "little value" (poo
 In different tools, you will separate these words differently (spaces, commas, or line breaks). 
 
 ## Check-in
-<!--post a screenshot of an uncleaned doc and make suggestions? Scenarios of cleaning something? Errors when cleaning?-->
+Use this check-in to sketch out your main point of inquiry using text analysis. This will require more thinking through your text analysis assignment, so be sure to think through possible options, and you might even read through more letters before completing this.
+LIB 201 students will complete <a href="https://muw.instructure.com/courses/17249/quizzes/67636">3.Text Analysis check-in here</a>. HO 303 students will complete the <a href="https://muw.instructure.com/courses/16930/assignments/218446/">3.Text Analysis check-in</a>, as a group assignment, here.
