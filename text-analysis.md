@@ -175,6 +175,8 @@ Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/67635">2
 
 Remember our discussion of tokenization, lemmas, and stop words? In order to remove the inconsistencies and "noise" for a computer to analyze texts, you will judicially employ and tinker with some of these processes. Also remember the words of advice from Muñoz and Rawson in <a href="http://curatingmenus.org/articles/against-cleaning/">"Against Cleaning!"</a> when employing these methods!
 
+Before you even begin to clean individual texts, remember that you are also likely going to select groups of texts from within our collected transcriptions. Depending on what question you'll pursue, you might limit your letters to just be from a certain decade, or from (or to!) a particular individual, etc. Try to aim for enough letters to render your reading a "distant" one!
+
 ![Screenshot of text cleaning configurations in the Digital Scholar Lab](https://github.com/hillaryAHR/LIB-201/blob/main/text-analysis-images/DSLAB_CreateCleanConfig_Corrections.jpg)
 <!--https://go.gale.com/ps/helpCenter?userGroupName=mag_u_muw&inPS=true&nspage=true&prodId=DSLAB&docId=GVOFKU762720149-->
 
