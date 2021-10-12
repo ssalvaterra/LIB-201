@@ -39,7 +39,7 @@ As you think about taking your online audience through a tour of the collection,
 ![examples of a chronologically organized and topically organized exhibit](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/exhibit-layout.png)
 
 ## Keep in Mind
-Designing digital exhibits and writing narratives are **recursive** acts, meaning they may be constantly redesigned from the beginning of the project to the end. You may not end up with what you started in your outline. Keeping an open mind, being flexible with your plan, and keeping (somewhat) organized notes will help you throughout this process!
+Designing digital exhibits and writing narratives are **recursive** acts, meaning they may be constantly redesigned from the beginning of the project to the end (just like a research paper!). You may not end up with what you started in your outline. Keeping an open mind, being flexible with your plan, and keeping (somewhat) organized notes will help you throughout this process!
 
 ![Example of an exhibit outline](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/exhibit-outline.JPG)
 
