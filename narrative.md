@@ -8,11 +8,10 @@ We have been focusing on "telling the story" of a collection thus far through th
 4. Putting together a narrative project
 
 ## Required Reading/Tools
-- Text Editor (comes installed on most computers)
-<!--(   
+- Text Editor (comes installed on most computers). Suggestions for text editors:  
+    - Visual Studio Code is the Microsoft Office equivalent of Notepad or TextEdit. VS Code is more user friendly, and I recommend installing it for this assignment. https://code.visualstudio.com/)
     - PC users: Notepad
-    - Mac user: TextEdit
-    - Visual Studio Code is the Microsoft Office equivalent of Notepad or TextEdit. Notepad requires no downloading, but VS Code is more user friendly. https://code.visualstudio.com/)-->
+    - Mac users: TextEdit
 - Brannock, Jennifer. <a href="http://misslib.org/Resources/Documents/MLarchive/ML2009Summer.pdf">"Creating an Exhibit in Special Collections and Using it to Promote Collections and Educate Users,"</a> _Mississippi Libraries 73_(2), 2009. pp. 32-34.
 - Ovadia, Steven. (2014). <a href="https://academicworks.cuny.edu/lg_pubs/7/">"Markdown for Librarians and Academics,"</a> _Behavioral and Social Sciences Librarian 33_, pp. 120-124.
 - <a href="https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf">"Markdown Syntax"</a> - A cheatsheet for markdown syntax 
@@ -36,10 +35,13 @@ As you think about taking your online audience through a tour of the collection,
     - Projects you've already created
     - Text you've already written
 * <b>How will you organize your layout?</b> What system are you using to organize your layout? Is it going to be chronological? Will it be organized by topic?
-<!--screenshot example of different layouts, pull from https://docs.google.com/presentation/d/18qG4xXt8y_utEsjZBdfbQR5tKiVIkbrY/edit?usp=sharing&ouid=108103280018141344202&rtpof=true&sd=true-->
+
+![examples of a chronologically organized and topically organized exhibit](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/exhibit-layout.png)
 
 ## Keep in Mind
 Designing digital exhibits and writing narratives are **recursive** acts, meaning they may be constantly redesigned from the beginning of the project to the end. You may not end up with what you started in your outline. Keeping an open mind, being flexible with your plan, and keeping (somewhat) organized notes will help you throughout this process!
+
+![Example of an exhibit outline](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/exhibit-outline.JPG)
 
 <!-- ### Check-in
 - write the central idea/thesis/purpose statement of your narrative in 1-2 sentences.
@@ -47,6 +49,16 @@ Designing digital exhibits and writing narratives are **recursive** acts, meanin
 - sketch an outline of the narrative itself in 3-5 bullet points -->
 
 # 2. Writing for the Web
+
+Web-based narratives are great for sharing a variety of content in an open public space. Let's remember some important things when writing for an online environment.
+
+1. <b>Web-based writing should be concise.</b> Say what you're going to say in as few words as possible. This doesn't mean it has to be short (although that's not a bad idea), but it does call for a more economic attitude toward words.
+
+2. <b>Web-based writing should be accessible.</b> In addition to including measures for ADA accessibility (e.g. including alternate text for images, having high contrast and screen reader access options, etc.), web-based writing should also have an accessible syntax and tone. In other words, you're writing for a diverse public, and not a specifically-trained audience.
+
+![Screenshot of a letter from "Women's Stories, W.E.B. Du Bois Papers Data" via https://sway.office.com/jnwIZkrNCACbONhA with alternative text highlighted](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/alternative-text.JPG)
+
+3. <b>Web-based writing should use web elements.</b> Purposefully break up your text with formatting elements (see next section), use hyperlinks where appropriate (to cite, to refer to other content, etc.), and include media to enhance the meaning of something.
 
 # 3. Using Markdown and HTML
 
@@ -63,7 +75,7 @@ In markdown, you would type ```# Heading 1```, but the computer would read:
 > # Heading 1
 
 More headings would look like:
-![narrative-image](Screenshot of markdown headings from https://www.markdownguide.org/basic-syntax/)
+![Screenshot of markdown headings from https://www.markdownguide.org/basic-syntax/](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/markdown-headings.JPG)
 
 ### Formatting Text
 Style your text to create emphasis with:
@@ -78,17 +90,36 @@ Highlight quotes with a blockquote:
 ```> Let's highlight this quote``` turns into
 > Let's highlight this quote
 
-Insert an image with an exclamation point, followed by square brackets containing the image URL, and parentheses with the alt text:
+### Adding links and images
+You can instantly hyperlink something with angle brackets, like this: 
+> ```<hyperlinked-URL>```
+
+To hyperlink text, put the text in square brackets [], immediately followed by the URL in parentheses. Like this:
+> ```[This is the linked text](hyperlink-URL)```
+
+Inserting an image is similar, but add an exclamation point to the beginning, then include square brackets containing the alt text describing it, and parentheses with the image URL:
 > ```![alternative text describing the image](Image URL)```
+
+To hyperlink an image, put square brackets around the Markdown for the image, and immediately follow that with the URL in parentheses, like this:
+
+>```[![alternative text](image-url)](hyperlinked-url)```
 
 For more help with markdown elements, there are free, online cheat sheets, like the <a href="https://www.markdownguide.org/basic-syntax/">Markdownguide.org</a> 
 
+<!--
 ## Common HTML elements
-Hyperlinking text, the most powerful and simple tool of HTML, is the most common way we'll use HTML. To create a hyperlink, structure your text like this:
+Hyperlinking text, the most powerful and simple tool of HTML, is the most common way we'll use HTML. To create a hyperlink, use the anchor element (```</a>```) to structure your text like this:
 
 > ```<a href="hyperlinked-URL">Text you are hyperlinking.</a>```
 
+Hyperlinking images looks a little different. To share and link an image in html, nest the image element within the anchor element, like this: 
+
+> ```<a href="hyperlinked-URL"><img src="hyperlinked-URL" alt="insert alt text here" width="" height=""></a>```
+
+The width="" and height="" elements allow the size of the image to be responsive to the screen. In other words, it will be as visible on a mobile device as it will be on a desktop monitor.
+
 For more help using HTML, there are free, online tutorials available through <a href="https://www.w3schools.com/html/html_intro.asp">W3Schools.com</a>
+-->
 
 <!--## Check-in
 Ask them to re-create the elements described above in essay questions-->
