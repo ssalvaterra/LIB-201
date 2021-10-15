@@ -53,7 +53,7 @@ Distant reading with computers is not a way to replace the levels of interpretin
 Unlike close reading, distant reading allows us to:
 * Link specific words to the context in which they were used throughout a text (as in a <a href="https://www.corpusthomisticum.org/it/index.age">concordance</a> or <a href="https://cather.unl.edu/">scholarly digital edition</a>)
 <!--image-->
-* Visualize a single text (or a collection of texts, allowing us to 
+* Visualize a single text (or a collection of texts), allowing us to 
     - interact with it graphically and dynamically
     - compare patterns up close and zoomed out
     - gain new insight
@@ -76,7 +76,7 @@ Words are so messy! You and I can understand them only after growing up and spea
 
 ## Tokenizing
 
-Computers can recognize characters in sequence. But what words say, and what they mean, aren't always so clear! So in order to have a computer "read" something and pull information from it, you have to "tokenize" a text. Tokens can be separated by spaces, but they can also be punctuation (hyphens, commas, parentheses), they could be differently capitalized, and they can have different meanings, even though they're spelled the same way. Tokenizing splits words in a sentence into their individual units. <!--use example from letters?-->
+Computers can recognize characters in sequence. But what words say, and what they mean, aren't always so clear! So in order to have a computer "read" something and pull information from it, you have to "tokenize" a text. Tokens can be separated by spaces, but they can also be separated by punctuation (hyphens, commas, parentheses), they could be differently capitalized, and they can have different meanings, even though they're spelled the same way. Tokenizing splits words in a sentence into their individual units. <!--use example from letters?-->
 
     Hello, I am the all-knowing magician!
  
@@ -91,11 +91,11 @@ Computers can recognize characters in sequence. But what words say, and what the
 * magician
 * !
 
-If this sentence were a part of a larger corpus, we might also want to make everything the same case and take out punctuation so all linguistic units (aka words) are treated similarly! 
+If this sentence were a part of a larger corpus, we might also want to make everything the same case and take out punctuation so all linguistic units (aka words) are treated similarly.
 
 ## Lemmatizing and Stemming
 
-Lemmas are root words, or common base words for different variations of a word. Lemmatizing a word is a Natural Language Processing process, which groups words by their roots and parts of speech for analysis. Stemming a word removes part of words (plurals, suffixes, alternate endings, etc.) to collapse them into a common word. For example: 
+Lemmas are root words, or common base words for different variations of a word. Lemmatizing a word is a Natural Language Processing (NLP) process, which groups words by their roots and parts of speech for analysis. Stemming a word removes part of words (plurals, suffixes, alternate endings, etc.) to collapse them into a common word. For example: 
 
 | Word | Lemma/Stem |
 |------|--------|
@@ -103,18 +103,17 @@ Lemmas are root words, or common base words for different variations of a word. 
 |library, librarian, libraries | librar |
 | sounding (v.), sounds (n.) | sound |
 
-You can look at all of the instances of the sentiment "good" by lemmatizing the words that mean "good" (i.e. better and best) at their root.
+You can look at all of the instances of the sentiment "good" by lemmatizing the words that mean "good" (i.e. better and best) at their root. And you can stem all of the variations of library by shortening them to "librar."
 
 ## Stop Words
-In a large text, <a href="https://www.ranks.nl/stopwords">stop words</a> are words like "the," "some," "of," "these," etc. that you would like to exclude from analysis because they are determined to be of less value than the other words. But be warned! Sometimes these little words mean a lot! See this blog post about <a href="https://onezero.medium.com/how-data-science-pinpointed-the-creepiest-word-in-macbeth-3150995d3808">"the creepiest word in Macbeth"</a> to see why!
+In a large text, <a href="https://www.ranks.nl/stopwords">stop words</a> are words like "the," "some," "of," "these," etc., that you can exclude from analysis because they are determined to be of less value than the other words. But be warned! Sometimes these little words mean a lot! See this blog post about <a href="https://onezero.medium.com/how-data-science-pinpointed-the-creepiest-word-in-macbeth-3150995d3808">"the creepiest word in Macbeth"</a> to see why!
 
 These methods - tokenizing, lemmatizing, stop words (there are more) - are still not perfect! Think of these methods as formulas that you are performing on a text en masse, and the English language often resists a formula. Think of all of the "exceptions to the rule" you have had to learn about. Furthermore, consider texts that are not in English. We use these formulas to help us read a corpus distantly, but that won't replace our abilities to read closely.
 
-<b>These methods are automatic for many tools, but let's not forget them!</b> When we encounter errors or strange findings, it might be that we need to tweak them!
+<b>These methods are automatic for many tools that we will use, but let's not forget them!</b> When we encounter errors or strange findings, it might be that we need to tweak these settings.
 
 ## Check-in
 Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/67634">1.Text Analysis check-in</a> here. HO 303 students can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/67639">1.Text analysis check-in</a> here.
-<!--examples of what it lets us do (with pictures? Matching??)-->
 
 # 2. Select Distant Reading Methods
 
