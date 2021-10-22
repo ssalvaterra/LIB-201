@@ -2,14 +2,14 @@
 We have been focusing on "telling the story" of a collection thus far through things like network analyses, timelines, maps, and textual analyses. Now it is time to use _a story_ to tell the story! Thus, we will create a narrative project to weave together the items in the collection (and the artifacts we've created with them!) with what we have learned through our prodding, research, and exploration.
 
 ## Lessons
-1. Designing an exhibit
-2. Writing for the Web
-3. Using Markdown and HTML <!--2 instead? re-think order-->
-4. Putting together a narrative project
+1. [Designing an exhibit](#1-designing-an-exhibit)
+2. [Writing for the Web](#2-writing-for-the-web)
+3. [Using Markdown and HTML](#3-using-markdown-and-html) <!--2 instead? re-think order-->
+4. [Creating a narrative project]()
 
 ## Required Reading/Tools
 - Text Editor (comes installed on most computers). Suggestions for text editors:  
-    - Visual Studio Code is the Microsoft Office equivalent of Notepad or TextEdit. VS Code is more user friendly, and I recommend installing it for this assignment. https://code.visualstudio.com/)
+    - Visual Studio Code is the Microsoft Office equivalent of Notepad or TextEdit. VS Code is more user friendly, and I recommend installing it for this assignment: https://code.visualstudio.com/. Installation instructions for MAC or PC users here: https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/ 
     - PC users: Notepad
     - Mac users: TextEdit
 - Brannock, Jennifer. <a href="http://misslib.org/Resources/Documents/MLarchive/ML2009Summer.pdf">"Creating an Exhibit in Special Collections and Using it to Promote Collections and Educate Users,"</a> _Mississippi Libraries 73_(2), 2009. pp. 32-34.
@@ -21,7 +21,7 @@ We have been focusing on "telling the story" of a collection thus far through th
 - DHRI Curriculum, "Introduction to Git and GitHub." https://curriculum.dhinstitutes.org/workshops/git/ 
 
 # 1. Designing an Exhibit
-What we are essentially doing through our narrative project is creating an online exhibit. And in order to understand the fundamentals of online exhibits, we need to know what goes into the planning and design of one. 
+What we are essentially doing through our narrative project is creating an online _exhibit_ using the sources we've gathered (both primary and secondary) and the digital artifacts we've created. But first, in order to understand the fundamentals of online exhibits, we need to know what goes into the planning and design of one. 
 
 ## Design the narrative
 As you think about taking your online audience through a tour of the collection, consider the following:
@@ -34,7 +34,7 @@ As you think about taking your online audience through a tour of the collection,
     - Metadata (<-- You will need this, regardless!)
     - Projects you've already created
     - Text you've already written
-* <b>How will you organize your layout?</b> What system are you using to organize your layout? Is it going to be chronological? Will it be organized by topic?
+* <b>How will you organize your layout?</b> What system are you using to organize your layout? Is it going to be chronological? Will it be organized by topic? This will depend on the story you want to tell, and the artifacts you have to tell it.
 
 ![examples of a chronologically organized and topically organized exhibit](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/exhibit-layout.png)
 
@@ -43,10 +43,13 @@ Designing digital exhibits and writing narratives are **recursive** acts, meanin
 
 ![Example of an exhibit outline](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/exhibit-outline.JPG)
 
-<!-- ### Check-in
+### Check-in
+For this check-in, you will need to do some group-brainstorming. Be ready to:
 - write the central idea/thesis/purpose statement of your narrative in 1-2 sentences.
 - Brainstorm a list of the items (letters, metadata, projects, research, etc.) you'd like to focus on
-- sketch an outline of the narrative itself in 3-5 bullet points -->
+- sketch an outline of the narrative itself in 3-5 bullet points
+
+LIB 201 students can click here to complete the <a href="https://muw.instructure.com/courses/17249/discussion_topics/170622">1.Narrative check-in</a>, and HO 303 students can complete the 1.Narrative check-in here. These check-ins will be a discussion post thread in which each of you will respond.
 
 # 2. Writing for the Web
 
@@ -60,15 +63,20 @@ Web-based narratives are great for sharing a variety of content in an open publi
 
 3. <b>Web-based writing should use web elements.</b> Purposefully break up your text with formatting elements (see next section), use hyperlinks where appropriate (to cite, to refer to other content, etc.), and include media to enhance the meaning of something.
 
+<!--### Check-in: 
+Choose which image is more accessible (possible: using a web checker tool?), which alt-text is better, and which way to include a hyperlink so it's accessible-->
+
 # 3. Using Markdown and HTML
 
-Markdown is a very simple markup language used for writing for the web. Put simply, Markdown allows us to format our text (like *this* or **this**) using simple cues to let the computer know how we'd like to style our text. These lessons are all written using Markdown, with some HTML here and there. Click the ```Raw``` button at the top of the screen to see what this looks like before being translated by your computer!
+Markdown is a very simple markup language used for writing for the web. Put simply, Markdown allows us to format our text (like *this* or **this**) using simple cues to let the computer know how we'd like to style our text. These lessons are all written using Markdown, with some HTML here and there. Click the ```Raw``` button at the top of the screen to see what this looks like before being translated by your computer! It will show you the text-only version, resembling:
 
-Most websites use HTML (Hyper Text Markup Language), a way to structure web documents that use nested labels to tell a browser how you want something displayed. Markdown and HTML work together in many cases, so we'll use some HTML elements to format our narrative project. 
+![Markdown file in a text editor with labels showing different kinds of formatting](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/markdown-example.JPG)
+
+Most websites use HTML (Hyper Text Markup Language), another markup language, to structure web documents that use nested labels to tell a browser how you want something displayed. Markdown and HTML work together in many cases, so while we'll mostly use Markdown, you may see or use some HTML elements to format our narrative project. 
 
 ## Common Markdown elements
 
-### Headings
+### **Headings**
 Headings are marked with the #, a space, the text, and a hard return. 
 
 In markdown, you would type ```# Heading 1```, but the computer would read:
@@ -77,20 +85,28 @@ In markdown, you would type ```# Heading 1```, but the computer would read:
 More headings would look like:
 ![Screenshot of markdown headings from https://www.markdownguide.org/basic-syntax/](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/markdown-headings.JPG)
 
-### Formatting Text
+### **Formatting Text**
 Style your text to create emphasis with:
 > ```**bold**``` --> **bold** or ```*italics*``` --> *italics*
 
 Create an ordered or unordered list:
 
-![](Screenshot of an ordered list in markdown)
-![](Screenshot of an unordered list with indentations in markdown)
+```1. Ordered list item```
+
+```* unordered list item 1```
+
+```- unordered list item 2```
+
+> 1. ordered list item
+> * unordered list item 1
+> - unordered list item 2
 
 Highlight quotes with a blockquote:
+
 ```> Let's highlight this quote``` turns into
 > Let's highlight this quote
 
-### Adding links and images
+### **Adding links and images**
 You can instantly hyperlink something with angle brackets, like this: 
 > ```<hyperlinked-URL>```
 
@@ -123,5 +139,24 @@ For more help using HTML, there are free, online tutorials available through <a 
 
 <!--## Check-in
 Ask them to re-create the elements described above in essay questions-->
+
+# 4. Creating a narrative project
+
+This is the tricky part! We're going to put all of this together now into a narrative project. Here are some examples to help you think about an end product:
+
+- [Humboldt Redwoods Project](https://hsuredwoodsproject.omeka.net/) - exhibit highlighting 
+- [Starkville Civil Rights Project](https://starkvillecivilrights.msstate.edu/wordpress/)
+- [Mapping Marronage](http://mapping-marronage.rll.lsa.umich.edu/)
+- [Performing Archive: Curtis + "the vanishing race"](https://scalar.usc.edu/works/performingarchive/index)
+- [DASH Amerikan](https://dashamerikan.scholarslab.org/)
+
+## Additional sections to include
+In addition to the story you're telling and the artifacts you're using, you'll want to give more context about yourself, the project, AND give your audience options for further exploration. Include the following sections in your narrative:
+
+1. **Home**: This is the first thing your audience will see, so this is where you introduce your project. This is where you will explain the "so what" of the project, and give any other information that will help your audience decide how to interact with the narrative.
+2. **About us**: This includes information about YOU, why you did the project, and your process. Sometimes, the about section can include navigation or "how to" help, if there are more complex interactive portions or if there are several ways to navigate the page. 
+3. **Acknowledgements**: This of this as your works cited page. This will include hyperlinks to the sources you cited, but it can also include links to related archives or projects that gave you inspiration, and it can link to other archives or sources for further research.
+
+
 
 
