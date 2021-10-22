@@ -5,7 +5,7 @@ We have been focusing on "telling the story" of a collection thus far through th
 1. [Designing an exhibit](#1-designing-an-exhibit)
 2. [Writing for the Web](#2-writing-for-the-web)
 3. [Using Markdown and HTML](#3-using-markdown-and-html) <!--2 instead? re-think order-->
-4. [Creating a narrative project]()
+4. [Creating a narrative project](#4-creating-a-narrative-project)
 
 ## Required Reading/Tools
 - Text Editor (comes installed on most computers). Suggestions for text editors:  
