@@ -1,7 +1,7 @@
 ﻿# Introduction to Network Analysis
 A Network Analysis is simply a study of relationships among a group of connected things. The "things" could be people, cities, cells in the body, etc.! The idea of a network analysis is to visualize these relationships, so you can see the patterns (or lack thereof) in connections within the network.
 
-<img src="https://networkofthrones.files.wordpress.com/2020/01/got-all8.png" alt="sample network analysis graph that uses Game of Thrones characters, with largest nodes including Tyrion in light blue, Daenerys in green, Jon in orange, Arya in yellow, and Sansa in pink" class="center">
+<img src="https://networkofthrones.files.wordpress.com/2020/01/got-all8.png" alt="sample network analysis graph that uses Game of Thrones characters, with largest nodes including Tyrion in light blue, Daenerys in green, Jon in orange, Arya in yellow, and Sansa in pink. From https://networkofthrones.wordpress.com/the-series/seasons-1-8/" class="center">
 
 We use network analysis to ask questions about the players in the network, like 
 * Who is the most/least influential?
