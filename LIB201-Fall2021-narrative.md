@@ -1,8 +1,8 @@
 # A day in the life of the Smiths
 
-1. [About the Project](#-about-the-project)
-2. [Women's Lives](#-women's-lives)
-3. [Electrifying the South](#-electrifying-the-south)
+1. [About the Project](#about-the-project)
+2. [Women's Lives](#women's-lives)
+3. [Electrifying the South](#electrifying-the-south)
 
 # About the Project
 
