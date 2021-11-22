@@ -3,6 +3,7 @@
 1. [About the Project](#about-the-project)
 2. [Women's Lives](#women's-lives)
 3. [Electrifying the South](#electrifying-the-south)
+4. [World War II](#world-war-ii)
 
 # About the Project
 
