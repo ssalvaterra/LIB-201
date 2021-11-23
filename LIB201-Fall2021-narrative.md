@@ -105,3 +105,6 @@ Sam E. Smith enlisted in the U.S. Army on June 23rd, 1943 (Ancestry.com, _U.S., 
 ![Scanned image of Sam Ellard Smith's draft registration card, on yellowed paper with black typewritten text and Sam's signature](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/Smith-DraftRegCard.jpg)
 *Source: Ancestry.com.* U.S., World War II Draft Registration Cards, 1942 [database on-line]. *Lehi, UT, USA: Ancestry.com Operations, Inc., 2010.*
 
+![Ngram analysis of Sonny boy's WWII correspondence, with words tank, army, and knox as the largest words](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/WW2-ngram.png)
+
+
