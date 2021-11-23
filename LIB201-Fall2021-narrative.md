@@ -46,14 +46,40 @@ The Smith Papers collection is broad and includes the names, daily affairs, and 
 
 For more information on the collection and its themes, watch Hillary's [interview with Steve and Bridget Pieschel](https://youtu.be/zPynkw9V-Q8).
 
-## Course Documentation
+### Cleaning Processes and Documentation
 
-### Cleaning Processes
+<!--Text analysis
+- link to letters for WWII analyses - revisit list
+- link to stopwords and any other data
+- link to letters for women's lives (Pauline + Christine 
+- list of stopwords for each? -->
+
+<!--Network Analysis
+- link to raw data
+- description of cleaning process, possibly site against cleaning
+-->
+
+<!--Maps and timelines
+- map spreadsheet or downloaded version
+- timeline JS data -->
 
 ### Raw Data
 
 ### Sources Cited
 
+- Ancestry.com. U.S., World War II Army Enlistment Records, 1938-1946 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2005.
+
+- Ancestry.com. U.S., World War II Draft Registration Cards, 1942 [database on-line]. Lehi, UT, USA: Ancestry.com Operations, Inc., 2010.
+
+- Bailey, Beth. <a href="https://www.worldcat.org/title/from-front-porch-to-back-seat-courtship-in-twentieth-century-america/oclc/613632266&referer=brief_results"> From Front Porch to Back Seat: Courtship in Twentieth-Centry America.</a>  Johns Hopkins UP, 1993.
+
+- Moris, Sara Elizabeth. <a href="https://mlp.ent.sirsi.net/client/en_US/muw/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:931679/ada?rt=CKEY|||CKEY|||false">“Good Equipment Makes a Good Homemaker Better”: Promoters of Domestic Technology in Mississippi, 1930-1940.</a> Mississippi State University Master’s Thesis, 2004.
+
+- Schulman, Bruce J. <a href="https://www.worldcat.org/title/from-cotton-belt-to-sunbelt-federal-policy-economic-development-and-the-transformation-of-the-south-1938-1980/oclc/614322091&referer=brief_results">From Cotton Belt to Sunbelt: Federal Policy, Economic Development, and the Transformation of the South, 1938-1980.</a> Duke University Press, 1994.
+
+<!--resources used to do Pauline's economy of motherhood section-->
+
+<!--resources used to do WWII basic training and individual experiences-->
 
 # Women's Lives
 
@@ -72,3 +98,4 @@ Sam E. Smith enlisted in the U.S. Army on June 23rd, 1943 (Ancestry.com, _U.S., 
 
 ![Scanned image of Sam Ellard Smith's draft registration card, on yellowed paper with black typewritten text and Sam's signature](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/Smith-DraftRegCard.jpg)
 *Source: Ancestry.com.* U.S., World War II Draft Registration Cards, 1942 [database on-line]. *Lehi, UT, USA: Ancestry.com Operations, Inc., 2010.*
+
