@@ -46,7 +46,7 @@ The Smith Papers collection is broad and includes the names, daily affairs, and 
 
 For more information on the collection and its themes, watch Hillary's [interview with Steve and Bridget Pieschel](https://youtu.be/zPynkw9V-Q8).
 
-### Cleaning Processes and Documentation
+### Cleaning Processes, Data, and Documentation
 
 <!--Text analysis
 - link to letters for WWII analyses - revisit list
@@ -63,7 +63,11 @@ For more information on the collection and its themes, watch Hillary's [intervie
 - map spreadsheet or downloaded version
 - timeline JS data -->
 
-### Raw Data
+<!-- Other data
+- link to metadata, 29-39 and 40-44
+- link to repository
+- link to 
+-->
 
 ### Sources Cited
 
@@ -82,6 +86,8 @@ For more information on the collection and its themes, watch Hillary's [intervie
 <!--resources used to do WWII basic training and individual experiences-->
 
 # Women's Lives
+
+<!--Network analysis + paragraph-->
 
 ![Type-written excerpt from Christine's letter telling her mother, telling her about 3 men - a navy captain, the Governer of the Virgin Islands, and a man named Johnnie Brons - who are courting her](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/from-mcj-dp018-19421215-smith-christine-001.png)
 *Source: from "Letter from Christine Smith to Pauline Smith, December 15, 1942," from the Ellard-Murphree-Pilgreen Smith Family Papers, Beulah Culbertson Archives and Special Collections, Mississippi University for Women. (electronic version)*
