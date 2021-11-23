@@ -19,21 +19,32 @@ The Smith Family Papers consisted of letters between the family members about a 
 ## About the project team
 
 Several of the letters were transcribed by classes that came before us, leaving us to focus more on transcribing mid-20th century letters specifically from the 1940’s. Future classes will continue this work, transcribing more letters and analyzing them in novel ways. Our team was made up of: 
-* Tyler Dean, a senior Public History major from Hollywood, FL
-* Olivia Sagely, a senior Communication major from Smithville, MS
-* Alyssa Cox, a junior Psychology major with a minor in Family Studies from Nettleton, MS 
-* Crystal Adams, a junior Family Science major with minors in Psychology and Digital Studies from Golden, MS
-* Johanna Ericson, a senior Communications major with a minor in Digital Studies from Corinth, MS. 
-
-Our team was led by Hillary Richardson, the Coordinator of Undergraduate and Information Literacy, and the instructor of Digital Studies at the Mississippi University for Women in Columbus, MS. Hillary served as the project manager, Tyler created the introductory text and contributed to the Women's Lives section, Olivia led the development of the WWII section and mapped "Electrifying the South," Alyssa led the development of the timeline and contributed to the WWII section, Crystal led the development of the network analysis and contributed to the WWII section, and Johanna contributed to the Women's Lives section. Each of these people read, wrote metadata, and transcribed various letters and contributed to the research of the project.
+* Tyler Dean
+    * Senior Public History major from Hollywood, FL
+    * Introductory content and co-creator of Women's Lives section
+* Olivia Sagely
+    * Senior Communication major from Smithville, MS
+    * Mapped "Electrifying the South" and led the WWII section development
+* Alyssa Cox
+    * Junior Psychology major with a minor in Family Studies from Nettleton, MS 
+    * Created the timeline and contributed to the WWII section
+* Crystal Adams
+    * Junior Family Science major with minors in Psychology and Digital Studies from Golden, MS
+    * Created network analysis and contributed to the WWII section 
+* Johanna Ericson
+    * Senior Communications major with a minor in Digital Studies from Corinth, MS.
+    * Co-creator of the Women's Lives section
+*  Hillary Richardson
+    * Coordinator of Undergraduate and Information Literacy, and instructor of Digital Studies.
+    * Project manager, content editor
 
 Steve and Bridget Pieschel, the donators of the Smith Papers, have also contributed to the creation of various projects, ideations, and discussion that are ongoing and continue to influence the directions we take.
 
 ## About the Smith Papers
 
-The Smith Papers collection is broad and includes the names, daily affairs, and relationships of hundreds of people. The project, however to this point, focuses on the 5 members of the Smith Family: Sam (Daddy), Pauline (Mother), Bernice, Christine, Martha, and Sonny Boy. For more about these people, read our [About the Project](https://docs.google.com/document/d/1Vo_YCCW18aam14CnAG8KyYYDlV37zODsFaqP_6_Flgk/edit?usp=sharing) document.
+The Smith Papers collection is broad and includes the names, daily affairs, and relationships of hundreds of people. The Fall 2021 project focuses on the 5 members of the Smith Family: Sam (Daddy), Pauline (Mother), Bernice, Christine, Martha, and Sonny Boy. For more in-depth information about these people, read our [About the Project](https://docs.google.com/document/d/1Vo_YCCW18aam14CnAG8KyYYDlV37zODsFaqP_6_Flgk/edit?usp=sharing) document.
 
-For more information on the collection, see this [interview with Steve and Bridget Pieschel](https://youtu.be/zPynkw9V-Q8).
+For more information on the collection and its themes, watch Hillary's [interview with Steve and Bridget Pieschel](https://youtu.be/zPynkw9V-Q8).
 
 ## Course Documentation
 
@@ -46,6 +57,18 @@ For more information on the collection, see this [interview with Steve and Bridg
 
 # Women's Lives
 
+![Type-written excerpt from Christine's letter telling her mother, telling her about 3 men - a navy captain, the Governer of the Virgin Islands, and a man named Johnnie Brons - who are courting her](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/from-mcj-dp018-19421215-smith-christine-001.png)
+*Source: from "Letter from Christine Smith to Pauline Smith, December 15, 1942," from the Ellard-Murphree-Pilgreen Smith Family Papers, Beulah Culbertson Archives and Special Collections, Mississippi University for Women. (electronic version)*
+
 # Electrifying the South
 
 # World War II
+
+<!--insert Christine's letter when war is declared-->
+
+<!--Paragraph on WWII section from Olivia-->
+
+Sam E. Smith enlisted in the U.S. Army on June 23rd, 1943 (Ancestry.com, _U.S., World War II Army Enlistment Records, 1938-1943_[database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2005.).
+
+![Scanned image of Sam Ellard Smith's draft registration card, on yellowed paper with black typewritten text and Sam's signature](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/Smith-DraftRegCard.jpg)
+*Source: Ancestry.com.* U.S., World War II Draft Registration Cards, 1942 [database on-line]. *Lehi, UT, USA: Ancestry.com Operations, Inc., 2010.*
