@@ -15,10 +15,25 @@ The Smith Family Papers consisted of letters between the family members about a 
 # About the Project
 
 ## About the project team
+
+Several of the letters were transcribed by classes that came before us, leaving us to focus more on transcribing mid-20th century letters specifically from the 1940’s. Future classes will continue this work, transcribing more letters and analyzing them in novel ways. Our team was made up of Tyler Dean, a senior Public History major from Hollywood, FL; Olivia Sagely, a senior Communications major from Smithville, MS; Alyssa Cox, a junior Psychology major with a minor in Family Studies from Nettleton, MS; Crystal Adams, a junior Family Science major with minors in Psychology and Digital Studies from Golden, MS; and Johanna Erickson, a senior Communications major with a minor in Digital Studies from Corinth, MS. Our team was led by Hillary Richardson, the Coordinator of Undergraduate and Information Literacy, and the instructor of Digital Studies at the Mississippi University for Women in Columbus, MS. Hillary served as the project manager, Tyler created the introductory text and contributed to the Women's Lives section, Olivia led the development of the WWII section and mapped "Electrifying the South," Alyssa led the development of the timeline and contributed to the WWII section, Crystal led the development of the network analysis and contributed to the WWII section, and Johanna contributed to the Women's Lives section. Each of these people read, wrote metadata, and transcribed various letters and contributed to the research of the project.
+
+Steve and Bridget Pieschel, the donators of the Smith Papers, have also contributed to the creation of various projects, ideations, and discussion that are ongoing and continue to influence the directions we take.
+
 ## About the Smith Papers
-## Course Documentation
+
+The Smith Papers collection is broad and includes the names, daily affairs, and relationships of hundreds of people. The project, however to this point, focuses on the 5 members of the Smith Family: Sam (Daddy), Pauline (Mother), Bernice, Christine, Martha, and Sonny Boy. For more about these people, read our [About the Project](https://docs.google.com/document/d/1Vo_YCCW18aam14CnAG8KyYYDlV37zODsFaqP_6_Flgk/edit?usp=sharing) document.
 
 For more information on the collection, see this [interview with Steve and Bridget Pieschel](https://youtu.be/zPynkw9V-Q8).
+
+## Course Documentation
+
+### Cleaning Processes
+
+### Raw Data
+
+### Sources Cited
+
 
 # Women's Lives
 
