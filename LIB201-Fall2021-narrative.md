@@ -4,7 +4,7 @@
 
 *Source: Ellard-Murphree-Pilgreen-Smith Family Photos, Home and Property, Folder 6, Beulah Culbertson Archives and Special Collections, Mississippi University for Women.*
 
-The Ellard-Murphree-Pilgreen-Smith Collection consists of letters ranging from 1908 all the way up to 1977. However, the bulk of the letters (referred to as the “Smith Family Papers” from here on out) that are already transcribed are from 1929-1944. These letters span from the Great Depression, through World War II, and into the aftermath of the economic upturn that followed. The Smith family was not particularly wealthy, but were also not especially poor. As such, their experiences and the recording of their experiences helps to shed a light on what life might have been like for an average, white Southern American family in such interesting times - they owned their own land, but lived in a rural, lower-income area of the state, where many of their African American neighbors often did not own land, could not participate in government acts, and often did labor on other people’s land. 
+The Ellard-Murphree-Pilgreen-Smith Collection consists of letters ranging from 1908 all the way up to 1977. However, the bulk of the letters (referred to as the “Smith Family Papers” from here on out) that are already transcribed are from 1929-1944. These letters span from the Great Depression, through World War II, and into the aftermath of the economic upturn that followed. The Smith family was not particularly wealthy, but were also not especially poor. As such, their experiences and the recording of their experiences helps to shed a light on what life might have been like for an average, white Southern American family in such interesting times - they owned their own land, but lived in a rural, lower-income area of the state, where many of their neighbors of color often did not own land, could not participate in many areas of civic or government life, and often did labor on other people’s land. 
 
 The Smith Family Papers consisted of letters between the family members about a variety of topics: family drama/gossip, the War, and the economy. Despite what was occurring abroad, the family still had its own personal affairs and problems to attend to and one could argue that to them, these things were equally if not more important. 
 
@@ -77,9 +77,21 @@ For more information on the collection and its themes, watch Hillary's [intervie
 
 - Bailey, Beth. <a href="https://www.worldcat.org/title/from-front-porch-to-back-seat-courtship-in-twentieth-century-america/oclc/613632266&referer=brief_results"> From Front Porch to Back Seat: Courtship in Twentieth-Centry America.</a>  Johns Hopkins UP, 1993.
 
+- Bullis, Harry A. "Mrs. American - The Money Manager." _Vital Speeches of the Day_ 23, no. 18 (July 1957): 574.
+
+- “Husband and Wife. Rights and Liabilities of Husband as to Third Party. Liability of Husband for Wife’s Necessaries When He Has Furnished Her with Money.” 1930. _Harvard Law Review_ 43 (6): 961–62. doi:10.2307/1330788. 
+
 - Moris, Sara Elizabeth. <a href="https://mlp.ent.sirsi.net/client/en_US/muw/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:931679/ada?rt=CKEY|||CKEY|||false">“Good Equipment Makes a Good Homemaker Better”: Promoters of Domestic Technology in Mississippi, 1930-1940.</a> Mississippi State University Master’s Thesis, 2004.
 
+- Miller, Katherine I. (2008) "My Father and His Father: An Analysis of World War II Correspondence," _Journal of Family Communication_, 8:2, 148-165, DOI: 10.1080/15267430701857349
+
+- Norris, Frank. (2008) "WWII Cold Weather Training in Denali," excerpt from _Administrative History of Denali National Park_, https://www.nps.gov/articles/dena-wwii-training.htm.
+
+- "Training the American GI." The National WWWII Museum. https://www.nationalww2museum.org/war/articles/training-american-gi
+
 - Schulman, Bruce J. <a href="https://www.worldcat.org/title/from-cotton-belt-to-sunbelt-federal-policy-economic-development-and-the-transformation-of-the-south-1938-1980/oclc/614322091&referer=brief_results">From Cotton Belt to Sunbelt: Federal Policy, Economic Development, and the Transformation of the South, 1938-1980.</a> Duke University Press, 1994.
+
+- Stogdill, Emily L. 1937. “What the Mothers of College Students Should Know.” _Pi Lambda Theta Journal_ 15 (3): 37–43.
 
 <!--resources used to do Pauline's economy of motherhood section-->
 
