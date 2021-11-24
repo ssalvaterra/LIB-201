@@ -99,18 +99,56 @@ For more information on the collection and its themes, watch Hillary's [intervie
 
 # Women's Lives
 
-<!--Network analysis + paragraph-->
+The women of the Smith family lived in times that defined a generation, a Great Depression, and a second Great War greatly influenced the lives that lived through them. This section focuses on two women’s lives, and their everyday relationships with 2 very normal things: men and money. Christine’s letters back and forth with the variety of boys that attempted to court her painted a picture of courtship practices of the early 20th century: flowers, gifts, and extravagant dates. Pauline’s letters to her children, specifically her adult and college-aged children show how she managed money and kept her family afloat during one of the most tumultuous times in American history, and thus how she was the de facto economic head of her household.
 
 ![Type-written excerpt from Christine's letter telling her mother, telling her about 3 men - a navy captain, the Governer of the Virgin Islands, and a man named Johnnie Brons - who are courting her](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/from-mcj-dp018-19421215-smith-christine-001.png)
 *Source: from "Letter from Christine Smith to Pauline Smith, December 15, 1942," from the Ellard-Murphree-Pilgreen Smith Family Papers, Beulah Culbertson Archives and Special Collections, Mississippi University for Women. (electronic version)*
 
+**Transcript:** 
+One of the Captains brought me back two big orchids from
+Balboa the other night.. One white one and one purple. It was certainly
+a surprise to me as I didn't even know his name. He handed me the box
+and said, "this is for you for being in such a good humor at four o' clock
+in the morning."
+
+The Governor of the Virgin Islands has flown in twice since I
+Wrote you about my enperience with him. He worried me considerably about
+going out, but I told him that my future husband was in town. Then he
+started trying to get me to slip off and meet him somewhefe clandestinely.
+all very mysterious and romantic. Frances says that he is a personal friend 
+of Roosevelt's
+
+Johnnie Brons and I have been having a lot of fun lately. He
+is the co-pilot who makes trips to Africa, previously a newspaper reporter.
+We read stories together, go bolling, shimning, etc. Sunday he wanted me
+to go to a symphony with him, but I had to sleep.
+
+![handwritten letter from Christine to her mother, detailing the romantic attempts of Jack Duffield to court her](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/from-mcj-dp018-19421031-smith-christine-001.png)
+*Source: from "Letter from Christine Smith to Pauline Smith, October 31, 1942," from the Ellard-Murphree-Pilgreen Smith Family Papers, Beulah Culbertson Archives and Special Collections, Mississippi University for Women. (electronic version)* 
+
+<!--Network analysis + paragraph-->
+
 # Electrifying the South
+
+<!--Paragraph of timeline with link-->
+
+<!--Paragraph of mapped TVA stuff with link-->
+
+<!--screenshot of map-->
+
+For further research, see this <a href="https://docs.google.com/document/d/1Y5EdP5NBEkvWJM_4u-P0zix4OeFa394-tWIYQKZvwFk/edit?usp=sharing">class annotated bibliography.</a>
 
 # World War II
 
 <!--insert Christine's letter when war is declared-->
 
-<!--Paragraph on WWII section from Olivia-->
+In September of 1939, the beginnings of World War II were being broadcast to radios all over the United States, and the Smiths were tuning in. 
+
+![Handwritten letter from Martha Smith to her mother saying, "Do you hear the war news? It is pretty scary now. I want to listen, and I..."](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/from-mcj-dp018-19390918-smith-martha-004-a.JPG)
+
+![next page of handwritten letter from Martha Smith to her mother saying, "...don't. Ut us si fascinating and so horrible."](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/from-mcj-dp018-19390918-smith-martha-004-b.JPG)
+
+<!--Paragraph on WWII section-->
 
 Sam E. Smith enlisted in the U.S. Army on June 23rd, 1943 (Ancestry.com, _U.S., World War II Army Enlistment Records, 1938-1943_[database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2005.).
 
@@ -118,5 +156,7 @@ Sam E. Smith enlisted in the U.S. Army on June 23rd, 1943 (Ancestry.com, _U.S., 
 *Source: Ancestry.com.* U.S., World War II Draft Registration Cards, 1942 [database on-line]. *Lehi, UT, USA: Ancestry.com Operations, Inc., 2010.*
 
 ![Ngram analysis of Sonny boy's WWII correspondence, with words tank, army, and knox as the largest words](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/WW2-ngram.png)
+
+<!--ngram analysis of SB's letters home-->
 
 
