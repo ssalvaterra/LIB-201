@@ -147,6 +147,7 @@ In September of 1939, the beginnings of World War II were being broadcast to rad
 ![Handwritten letter from Martha Smith to her mother saying, "Do you hear the war news? It is pretty scary now. I want to listen, and I..."](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/from-mcj-dp018-19390918-smith-martha-004-a.JPG)
 
 ![next page of handwritten letter from Martha Smith to her mother saying, "...don't. Ut us si fascinating and so horrible."](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/from-mcj-dp018-19390918-smith-martha-004-b.JPG)
+*Source: from "Letter from Martha Smith to Pauline Smith, September 18, 1939," from the Ellard-Murphree-Pilgreen Smith Family Papers, Beulah Culbertson Archives and Special Collections, Mississippi University for Women. (electronic version)*
 
 <!--Paragraph on WWII section-->
 
