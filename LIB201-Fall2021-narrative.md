@@ -93,11 +93,30 @@ For more information on the collection and its themes, watch Hillary's [intervie
 
 - Stogdill, Emily L. 1937. “What the Mothers of College Students Should Know.” _Pi Lambda Theta Journal_ 15 (3): 37–43.
 
-<!--resources used to do Pauline's economy of motherhood section-->
-
-<!--resources used to do WWII basic training and individual experiences-->
+<!--mapping and timeline sources?-->
 
 # Women's Lives
+
+## Network Analysis
+
+This network analysis used letters from 1931 to 1943 from the Smith Family Papers. These letters are sent and received by members of the Smith family, mainly, and center around Pittsboro, Mississippi, but expand around the southern United States as time goes on. The main letter sender (source) and recipient (target) is the matriarch of the family, Pauline Smith, which is shown in this network analysis. Since Pauline’s node is in the center and is the largest node with most edges coming of it, it means she has the most degree centrality. 
+
+![Screenshot of network analysis, with Pauline at center of the network](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/NarrariveCapture1.PNG)
+
+This shows that Pauline has the most imediate connections of anyone else invloved in the letters. Her husband Sam Hawkins Smith and children Bernice, Martha, Christine, and Sam Ellard (SonnyBoy) Smith have the next largest nodes and number of edges. They are the main sources of this network, while most other names only appear as targets. 
+
+![Screenshot of network analysis, showing Pauline's node size compared to others](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/NarrativeCapture2.PNG)
+
+The reason Pauline, her husband, and her children appear in this way is because they have directed edges, meaning they wrote letters, while most others are undirected, since they were merely mentioned in the letters. 
+
+### No Analysis is Perfect
+While this analysis is a fairly accurate representation of the letters in terms of sources and targets, it is not without problems from obstacles or human errors, such as not knowing all people involved in the letters, not being able to differentiate from similarly spelled names, and multiple variations of the same first names without surnames lead to problems. It was difficult to confidently say if two names were meant to be the same person or were two separate people in many cases. Human errors like misspellings, correcting two close names as one person, leaving two close names as two people, and transcribing something incorrectly kept the analysis from being completely accurate. Some specific human errors are that there are two nodes for Christine in the graph, an extra Pauline node and multiple names chosen to be one person or two without actual confirmation of either. 
+
+![Screenshot of network analysis without edges to show names](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/NarrativeCapture6.PNG)
+
+Since the graph does not include everyone Pauline was close to, the entire collection of letters, and cannot account for everyone in Pittsboro at the time, it is limited in its analysis. Even with the human errors, limitations, and obstacles, this network analysis graph shows the centrality of matriarch Pauline Smith to her family and the wide expanse that this collection of letters reaches.
+
+## Men and Money
 
 The women of the Smith family lived in times that defined a generation, a Great Depression, and a second Great War greatly influenced the lives that lived through them. This section focuses on two women’s lives, and their everyday relationships with 2 very normal things: men and money. Christine’s letters back and forth with the variety of boys that attempted to court her painted a picture of courtship practices of the early 20th century: flowers, gifts, and extravagant dates. Pauline’s letters to her children, specifically her adult and college-aged children show how she managed money and kept her family afloat during one of the most tumultuous times in American history, and thus how she was the de facto economic head of her household.
 
