@@ -10,7 +10,7 @@ The Smith Family Papers consisted of letters between the family members about a 
 
 
 1. [About the Project](#about-the-project)
-2. [Women's Lives](#women's-lives)
+2. [Women's Lives](#womens-lives)
 3. [Electrifying the South](#electrifying-the-south)
 4. [World War II](#world-war-ii)
 
@@ -130,17 +130,30 @@ to go to a symphony with him, but I had to sleep.
 
 # Electrifying the South
 
-<!--Paragraph of timeline with link-->
+In several of Pauline's letters, she mentions the pending arrival of the TVA, and therefore electricity in their home in Pittsboro for the first time. Students researched this progression of events and created a timeline and a map to showcase two angles of the TVA's arrival: the domestic and the political. 
 
-<!--Paragraph of mapped TVA stuff with link-->
+## Pathway to Electricity
 
-<!--screenshot of map-->
+On May 18, 1933, Congressmen passed the Tennessee Valley Authority Act which covered the Northeastern portion of Mississippi which started the path to electricity. The first step in electrifying the state of Mississippi started in the town of Tupelo. On February 7, 1934. Tupelo was the first city in Mississippi to purchase electricity through the Tennessee Valley Authority. Alcorn County was the next county to purchase electricity through the TVA on June 1, 1934. Following the Great Depression, the people in this area sought out something that would make their rural farm life easier to handle. Doing this paved the way for many more small, rural farm areas to bring back their way of life after something so devastating. On November 11, 1934, more areas of Northeastern Mississippi purchased electricity to power their farms. It is said that electricity made their chores, farm work, and other household duties easier, though it did not reduce the demand. (For more, see <a href="https://www.worldcat.org/title/good-equipment-makes-a-good-homemaker-better-promoters-of-domestic-technology-in-mississippi-1930-1940/oclc/57724519&referer=brief_results">*Good Equipment Makes a Good Homemaker Better: Promoters of Domestic Technology in Mississippi, 1930-1940*</a> or <a href="https://www.worldcat.org/title/technology-as-freedom/oclc/1198929532&referer=brief_results">)
+
+[![Screenshot of Timeline home screen](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/timeline.JPG)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1mA7OphNGui8hf0L_GKqb7aJnpyUuj5oBGZFH-LYY6nY&font=Default&lang=en&initial_zoom=2&height=650)
+View the timeline and explore the TVA's arrival to Pittsboro by clicking on the image.
+
+## Tension in private companies and cooperative models
+
+[![Screenshot of TVA map with power lines, income by county, and individual points with images](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/map2.png "Map of TVA lines, income levels, and Individual points")](https://arcg.is/1W09a11) 
+
+Click the map to explore the individual points and to learn more about the significant locations of early TVA development sites.
+
+This map brings together the area covered by TVA electricity lines, household income by county, and locations of significant events. The purple area is the Median Household Income in the past 12 months (inflation-adjusted dollars to last year in the 5-year range). For Calhoun County, a historically rural and low-income country, the median household income in this area is estimated to be $37,263. Pittsboro, the county seat of Calhoun County, is where the Smith Family lived. From the letters the Smith Family wrote, one can see the Smith Family did not have access to privatized electricity that bigger and more afflent cities -- like Jackson and Columbus -- did. The Great Depression left many families living in desperate poverty. President Roosevelt organized the New Deal to help bring jobs, electricity, and economical growth. The Tennessee Valley Authority (TVA) was established in 1933 as an initiative to establish low cost, electrical power to rural areas in seven southern states. Tupelo, Alcorn County, Columbus, Monroe County, and Pittsboro were just a few of the rural areas in Mississippi to receive electricity during the 1930s (<a href="https://www.tva.com/about-tva/our-history/the-1930s">"The 1930s", TVA History.</a>). 
+
+Power companies wanted power for everyone else as much as they wanted it for themselves. Although most companies were adaptable with the TVA, some were not. There was much tension between small electric companies and the TVA. In February of 1936, the Alabama Power Company, founded in 1906, brought a case against the TVA to the Supreme Court because they felt that the US government was overstepping its bounds in competing with power companies. According to <a href="https://tennesseeencyclopedia.net/entries/ashwander-v-tennessee-valley-authority/">The Tennessee Encyclopedia,</a> “The court ruled in favor of TVA, holding that Congress had authority to construct dams and sell electricity, a by-product.” There was also another court case, Tennessee Power Company v. TVA in 1939 regarding the same issues. 
 
 For further research, see this <a href="https://docs.google.com/document/d/1Y5EdP5NBEkvWJM_4u-P0zix4OeFa394-tWIYQKZvwFk/edit?usp=sharing">class annotated bibliography.</a>
 
 # World War II
 
-<!--insert Christine's letter when war is declared-->
+## War is Declared
 
 In September of 1939, the beginnings of World War II were being broadcast to radios all over the United States, and the Smiths were tuning in. 
 
@@ -149,12 +162,20 @@ In September of 1939, the beginnings of World War II were being broadcast to rad
 ![next page of handwritten letter from Martha Smith to her mother saying, "...don't. Ut us si fascinating and so horrible."](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/from-mcj-dp018-19390918-smith-martha-004-b.JPG)
 *Source: from "Letter from Martha Smith to Pauline Smith, September 18, 1939," from the Ellard-Murphree-Pilgreen Smith Family Papers, Beulah Culbertson Archives and Special Collections, Mississippi University for Women. (electronic version)*
 
-<!--Paragraph on WWII section-->
+## Sonny Boy enlists
 
-Sam E. Smith enlisted in the U.S. Army on June 23rd, 1943 (Ancestry.com, _U.S., World War II Army Enlistment Records, 1938-1943_[database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2005.).
+Sam E. Smith (or "Sonny Boy") enlisted in the U.S. Army on June 23rd, 1943 (Ancestry.com, _U.S., World War II Army Enlistment Records, 1938-1943_[database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2005.).
 
 ![Scanned image of Sam Ellard Smith's draft registration card, on yellowed paper with black typewritten text and Sam's signature](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/Smith-DraftRegCard.jpg)
 *Source: Ancestry.com.* U.S., World War II Draft Registration Cards, 1942 [database on-line]. *Lehi, UT, USA: Ancestry.com Operations, Inc., 2010.*
+
+At this writing, his letters from basic training tell about his experiences in Fort Knox, KY, Fort George G Mead, MD, and an undisclosed location in London. Students wanted to get an idea what basic training was like through Sonny Boy's retelling of his experience, and performed a text analysis on the letters to get an idea. In general, reading the letters tells you he enjoyed weapons training, did not like "KP" or Kitchen Police duty, endured some harsh winter conditions (like sleeping on the cold ground), and generally got along with other men in his company. One letter that exemplifies this experience is from October 25, 1943. He says:
+
+<!--image of 10-25-1943 letter-->
+*Source: from "Letter from Sonny Boy Smith to Pauline Smith, October 25, 1943," from the Ellard-Murphree-Pilgreen Smith Family Papers, Beulah Culbertson Archives and Special Collections, Mississippi University for Women. (electronic version)*
+
+"Dear Mother, I haven’t had time to write for the last three days. We have been shooting the 75. That is a really good gun. We knocked targets to splinters three thousand yards away. We use binoculars to sight with after this week is over we will have two weeks of battle training and our basic will be over. They say that we have very scant rations and very little sleep on battle training.”
+
 
 ![Ngram analysis of Sonny boy's WWII correspondence, with words tank, army, and knox as the largest words](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/WW2-ngram.png)
 
