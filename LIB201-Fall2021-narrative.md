@@ -48,6 +48,12 @@ For more information on the collection and its themes, watch Hillary's [intervie
 
 ### Cleaning Processes, Data, and Documentation
 
+**Metadata** - In addition to collecting item-level metadata and transcriptions for each letter, we tagged letters with various metadata tags to identify people, places, and other research points. The metadata gathered for this class will contribute to the Smith Papers Collection in <a href="https://athenacommons.muw.edu/smithpapers/">AthenaCommons, our institutional repository</a>.
+
+**Relational data** - Each letter was tagged to identify names of individuals mentioned. Because each letter referred to people differently (i.e. "Mother" v. "Sweetheart," or "Chris" v. "Christine"), we chose standardized names for identifiable people in the Smith family, and we reconciled names for people that were clearly the same, but had variations in spelling or transcription. For names that were not identifiable, too common (i.e. Mary, Elizabeth, Bill, etc.), or unclear, we cleaned the relational data that we could, and left the rest alone to preserve the diversity of the network. Our spreadsheets of <a href="https://docs.google.com/spreadsheets/d/1YJeDKaSWJwYFjgCT7rvsQgo52mrRe7ibo9Uqh7BS9qE/edit?usp=sharing">identified names is here</a>.
+
+**Text Cleaning** - we created stop words lists for different iterations of text analyses. An example of stopwords lists used in letters from Pauline to her children and letters from Sonny Boy during his basic training for WWII <a href="https://docs.google.com/document/d/1NHXxc9BZf7kstSOFQcdfGKK3EyD92HDqkHo7ww7G42c/edit?usp=sharing">can be found here.</a>
+
 <!--Text analysis
 - link to letters for WWII analyses - revisit list
 - link to stopwords and any other data
@@ -195,9 +201,10 @@ At this writing, his letters from basic training tell about his experiences in F
 
 "Dear Mother, I haven’t had time to write for the last three days. We have been shooting the 75. That is a really good gun. We knocked targets to splinters three thousand yards away. We use binoculars to sight with after this week is over we will have two weeks of battle training and our basic will be over. They say that we have very scant rations and very little sleep on battle training.”
 
+## Text Analysis of Basic Training Letters 
 
 ![Ngram analysis of Sonny boy's WWII correspondence, with words tank, army, and knox as the largest words](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/WW2-ngram.png)
 
-<!--ngram analysis of SB's letters home-->
+<!--Paragraph of ngram analysis of SB's letters home-->
 
 
