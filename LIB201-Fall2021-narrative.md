@@ -126,32 +126,76 @@ Since the graph does not include everyone Pauline was close to, the entire colle
 
 The women of the Smith family lived in times that defined a generation, a Great Depression, and a second Great War greatly influenced the lives that lived through them. This section focuses on two women’s lives, and their everyday relationships with 2 very normal things: men and money. Christine’s letters back and forth with the variety of boys that attempted to court her painted a picture of courtship practices of the early 20th century: flowers, gifts, and extravagant dates. Pauline’s letters to her children, specifically her adult and college-aged children show how she managed money and kept her family afloat during one of the most tumultuous times in American history, and thus how she was the de facto economic head of her household.
 
+### 20th Century Dating
+
 ![Type-written excerpt from Christine's letter telling her mother, telling her about 3 men - a navy captain, the Governer of the Virgin Islands, and a man named Johnnie Brons - who are courting her](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/from-mcj-dp018-19421215-smith-christine-001.png)
 *Source: from "Letter from Christine Smith to Pauline Smith, December 15, 1942," from the Ellard-Murphree-Pilgreen Smith Family Papers, Beulah Culbertson Archives and Special Collections, Mississippi University for Women. (electronic version)*
 
 **Transcript:** 
-One of the Captains brought me back two big orchids from
-Balboa the other night.. One white one and one purple. It was certainly
-a surprise to me as I didn't even know his name. He handed me the box
-and said, "this is for you for being in such a good humor at four o' clock
-in the morning."
+One of the Captains brought me back two big orchids from Balboa the other night.. One white one and one purple. It was certainly a surprise to me as I didn't even know his name. He handed me the box and said, "this is for you for being in such a good humor at four o' clock in the morning."
 
-The Governor of the Virgin Islands has flown in twice since I
-Wrote you about my enperience with him. He worried me considerably about
-going out, but I told him that my future husband was in town. Then he
-started trying to get me to slip off and meet him somewhefe clandestinely.
-all very mysterious and romantic. Frances says that he is a personal friend 
-of Roosevelt's
+The Governor of the Virgin Islands has flown in twice since I Wrote you about my experience with him. He worried me considerably about going out, but I told him that my future husband was in town. Then he started trying to get me to slip off and meet him somewhefe clandestinely. All very mysterious and romantic. Frances says that he is a personal friend of Roosevelt's.
 
-Johnnie Brons and I have been having a lot of fun lately. He
-is the co-pilot who makes trips to Africa, previously a newspaper reporter.
-We read stories together, go bolling, shimning, etc. Sunday he wanted me
-to go to a symphony with him, but I had to sleep.
+Johnnie Brons and I have been having a lot of fun lately. He is the co-pilot who makes trips to Africa, previously a newspaper reporter. We read stories together, go bolling, shimning, etc. Sunday he wanted me to go to a symphony with him, but I had to sleep.
 
 ![handwritten letter from Christine to her mother, detailing the romantic attempts of Jack Duffield to court her](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/from-mcj-dp018-19421031-smith-christine-001.png)
+
 *Source: from "Letter from Christine Smith to Pauline Smith, October 31, 1942," from the Ellard-Murphree-Pilgreen Smith Family Papers, Beulah Culbertson Archives and Special Collections, Mississippi University for Women. (electronic version)* 
 
-<!--Network analysis + paragraph-->
+**Transcript:**
+"I've  never spent such a week- a chartered fishing boat one day, expensive dinners every night at the best places, all  the shows, a rented convertible to ride. on with no gas- rationing. He also  bought my lunch everyday and came for me at the end of the day."
+
+As shown here, the economic impact that courtship had was not small. Christine had spent a good deal of time with Jack Duffield and he had a 
+large sum of money that he was all too eager to spend on her. Additionally, this wasn't the only suitor. Eligible women in the early 20th century often chose from multiple suitors at the same time.
+
+Staying available and accruing social capital was a normal cultural practice, though at times could be overwhelming. Christine's dating experiences sound interesting and exciting, but for her was at times confusing and dizzying.
+
+![Christine writes to her mother feeling "as if I'm spinning wildly on a wheel getting dizzier"](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/From%20mcj-dp018-19421031-smith-christine-002.png)
+
+*Source: from "Letter from Christine Smith to Pauline Smith, October 31, 1942," from the Ellard-Murphree-Pilgreen Smith Family Papers, Beulah Culbertson Archives and Special Collections, Mississippi University for Women. (electronic version)*
+
+**Transcript:**
+Honestly, mother, at times I feel as if I'm spinning wildly on a wheel getting dizzier. Things are moving and happening so fast  that nothing is surprising anymore  Some day I'll have a lot of funny storys to tell.”
+
+### Economics of Motherhood
+Pauline’s letters to her children, specifically her adult and college-aged children show how she - a stay at home mother (who generated little income) - managed money for her family. In several letters, she asks about her kid's finanaces, describes the cost of things like clothes, food, and repairs, and plays an active role in monitoring her family's spending habits following a major economic depression. Like most mothers, she simultaneously wished the best for and worried about her daughter's finances 
+
+![Pauline shows concern for Christine](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/from-mcj-dp018-19390315-smith-pauline.png)
+*Source: from "Letter from Pauline Smith to Christine Smith, March 15, 1939," from the Ellard-Murphree-Pilgreen Smith Family Papers, Beulah Culbertson Archives and Special Collections, Mississippi University for Women. (electronic version)*
+
+**Transcript:**
+"“I hope you found the job and that you'll like it. I can't keep from worrying about you knowing that your funds are so low now, I do hope you can work for awhile and get what you want and like.”
+
+Pauline also kept in touch with other relatives and friends, knowing how they were doing financially because she gave them money. Of note, here, is that Katherine chose to ask Pauline to borrow money instead of anyone else in the family.
+
+![Katherine gets a job as an assistant commercial teacher, and asks to borrow money](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/from-mcj-dp018-19370921-smith-pauline.png)
+
+*Source: from "Letter from Pauline Smith to Christine Smith, September 21, 1937," from the Ellard-Murphree-Pilgreen Smith Family Papers, Beulah Culbertson Archives and Special Collections, Mississippi University for Women. (electronic version)*
+
+**Transcript:**
+“Katherine got the peace in Eupora school as asst. commercial teacher. It pays $50.00 and the board is $20.00. She left yesterday. I'm mighty glad she got the place even if she doesn't get so much pay it will be a lot of help to all of them. She came up here yesterday and said she was in a big tight spot and didnt know who to go to except me. She wanted to borrow $1500  to get started off on as she didn't even have money to get down there on.”
+
+The Smiths were not wealthy, but they were also not destitute, so they often were generous with their funds to those they deemed in need. In this letter, Pauline  mentioned that she saw a boy selling magazine subscriptions to study medicine at Ole Miss, and goes on to include that her husband had purchased a $250 subscription to “True Story” which she seemed just a tad disappointed about.
+
+![Pauline manages subscription costs](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/from-mcj-dp018-19380110-smith-pauline.png)
+
+*Source: from "Letter from Pauline Smith to Christine Smith, January 10, 1938," from the Ellard-Murphree-Pilgreen Smith Family Papers, Beulah Culbertson Archives and Special Collections, Mississippi University for Women. (electronic version)*
+
+**Transcript:**
+"...while I was out the other day a boy came by who was taking subscriptions to magazines to keep pay his expenses at Ole Miss where he is studying medicine. What magazine do you suppose your father paid $250 for a yrs. subscription? - ‘True Story’"
+
+### Text Analysis of Pauline's Letters
+To get a better idea of potential patterns in Pauline's letters regarding finances, Tyler conducted a named entity recognition analysis, a topic modeling analysis, and an n-gram analysis. Each test's results varied. The Named Entity Analysis for example, miscategorized quite a few individual entities. Some of the less relevant examples include SonnyBoy being classified as an organization, and “weight 8 lbs” being classified as a person. However, what was especially important was that some individual numbers were classified as money without a dollar sign, and the dollar sign was sometimes classified as a number. While this was interesting, without a close reading of the texts, it is impossible to fully correct these issues and conjecture might lead to wildly inaccurate conclusions. However, 58 of the 1150 entities (or 5%) identified were MONEY. Additionally, some of these amounts were miscategorized as CARDINAL.
+
+![NER Analysis of Pauline's letters showing money columns](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/ner-pauline.JPG)
+
+The Topic Modeling did not seem to reveal anything, unfortunately, after 2 rounds of adding stop words, at least not with regards to finances. There was no number commonly preceded by a dollar sign, and words like lend, loan, and spend were not frequently paired with financial terms. Additionally, words like make, job, or work were not common enough.
+
+Money remained with 12 instances but a shift in focus revealed some other relevant terms. Sent, send, work, make, and job each appeared in the selection of letters at least 20 times. And while some of these words may appear more often because of their multiple meanings, job and work appearing so often is important to consider. 
+
+![ngram analysis of Pauline's letters, showing money, job, and work as significant words](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/ngram-pauline.png)
+
+Unfortunately, even after spending significantly more time rerunning the programs and adding to the list of stop words, some outliers still managed to slip through the cracks. Very often two phrases that the algorithm considered separate would be near-identical or even actually identical, save the addition of a space at the end (which was overlooked in the cleaning process). This made cleaning incredibly difficult and tedious, and ultimately a stopping point was agreed upon when one of the excluded words did not make it into the NGram analysis.
 
 # Electrifying the South
 
@@ -196,7 +240,7 @@ Sam E. Smith (or "Sonny Boy") enlisted in the U.S. Army on June 23rd, 1943 (Ance
 
 At this writing, his letters from basic training tell about his experiences in Fort Knox, KY, Fort George G Mead, MD, and an undisclosed location in London. Students wanted to get an idea what basic training was like through Sonny Boy's retelling of his experience, and performed a text analysis on the letters to get an idea. In general, reading the letters tells you he enjoyed weapons training, did not like "KP" or Kitchen Police duty, endured some harsh winter conditions (like sleeping on the cold ground), and generally got along with other men in his company. One letter that exemplifies this experience is from October 25, 1943. He says:
 
-<!--image of 10-25-1943 letter-->
+![Sonny boy describes weapons training](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/from-mcj-dp018-19431025-smith-sonnyboy.png)
 *Source: from "Letter from Sonny Boy Smith to Pauline Smith, October 25, 1943," from the Ellard-Murphree-Pilgreen Smith Family Papers, Beulah Culbertson Archives and Special Collections, Mississippi University for Women. (electronic version)*
 
 "Dear Mother, I haven’t had time to write for the last three days. We have been shooting the 75. That is a really good gun. We knocked targets to splinters three thousand yards away. We use binoculars to sight with after this week is over we will have two weeks of battle training and our basic will be over. They say that we have very scant rations and very little sleep on battle training.”
@@ -205,6 +249,17 @@ At this writing, his letters from basic training tell about his experiences in F
 
 ![Ngram analysis of Sonny boy's WWII correspondence, with words tank, army, and knox as the largest words](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/WW2-ngram.png)
 
-<!--Paragraph of ngram analysis of SB's letters home-->
+An ngram analysis of 50 letters from Sonny Boy's training shows that handling weapons and equipment was a prominent discussion in Sonny Boy's letters, with "tank," being one of the largest words, featuring smaller words like "drive," "tanks," and "gun." Other words like "cold," "ground," and "work" show some of the less-than-ideal conditions he trained in. While this example needs a few more cleaning iterations, this analysis is still telling.
 
+Sonny Boy's experience seems comparable to other GI's recorded experiences. According to the article 
+<a href="https://www.nationalww2museum.org/war/articles/training-american-gi">Training the American GI</a>, most of the men that joined during this time were volunteers, so they were unaware of how intense basic training was going to be: “The new additions were mostly young 
+Americans who would normally have been pursuing jobs, schooling, and family life, but instead were answering the nation’s call to arms. Many of them had never even traveled outside their home state, let alone Europe, Asia, or the Pacific Islands. Preparing these millions of civilians for 
+war would be one of the military’s most daunting challenges.” 
 
+According to <a href="http://www.uky.edu/~addesa01/documents/Myfatherandhisfather.pdf">"My Father and His Father: An Analysis of World War II Correspondence,"</a>, another GI tells describes shooting weapons in similar manner that Sonny Boy does: "March 5, 1944: By the way, Dad, I think you’d really love that carbine we fired Saturday. (I’m also a sharpshooter in that.) The thing is a powerful .30 caliber up to 600 yards. It is real light – 5 pounds – has very little kick, and is semi-automatic, just keep pulling the trigger. An ideal deer rifle, one of the boys told me."
+
+Most of these people were in the same shoes as Sonnyboy, not knowing what was going to happen or what they were about to endure. Another Mississippi volunteer, Ben Quintana, says: “When you go through boot camp and they pass you...you’re ready to fight anything” (<a href="https://www.nationalww2museum.org/war/articles/training-american-gi">"Training the American GI"</a>) Before reporting to a ship or heading overseas, however, most recruits went through more specialized training for their specific duties within their branch of the military. Some learned how to operate radios or other communications equipment.” Sonny Boy describes one of those specialized trainings in a letter to his mother, saying "we will be pretty busy getting ready for battle training we leave at four o'clock in the morning....we had a class in camouflage and concealment yesterday...”
+
+![Sonnyboy's description of camouflage training](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/from-mcj-dp018-19431031-smith-sonnyboy.png)
+
+*Source: from "Letter from Sonny Boy Smith to Pauline Smith, October 31, 1943," from the Ellard-Murphree-Pilgreen Smith Family Papers, Beulah Culbertson Archives and Special Collections, Mississippi University for Women. (electronic version)*
